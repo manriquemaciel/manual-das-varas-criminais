@@ -1,0 +1,195 @@
+
+<!DOCTYPE html>
+
+<html lang="pt-BR" data-content_root="./">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
+
+    <title>Variáveis &#8212; manual das varas criminais 1.0 documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=b849a4e9" />
+    <link rel="stylesheet" type="text/css" href="_static/bizstyle.css?v=658d757c" />
+    
+    <script src="_static/documentation_options.js?v=05d536ce"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/bizstyle.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Localizador" href="projud_50_localizador.html" />
+    <link rel="prev" title="Criando Modelos de Documento" href="projud_48_criandomodelo.html" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+    <!--[if lt IE 9]>
+    <script src="_static/css3-mediaqueries.js"></script>
+    <![endif]-->
+  </head><body>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="right" >
+          <a href="projud_50_localizador.html" title="Localizador"
+             accesskey="N">next</a> |</li>
+        <li class="right" >
+          <a href="projud_48_criandomodelo.html" title="Criando Modelos de Documento"
+             accesskey="P">previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">manual das varas criminais 1.0 documentation</a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="manualprojudi.html" accesskey="U">Manual PROJUDI</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Variáveis</a></li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <section id="variaveis">
+<h1>Variáveis<a class="headerlink" href="#variaveis" title="Link to this heading">¶</a></h1>
+<p>Nesta aula, você aprenderá a inserir <strong>variáveis</strong> nos seus modelos de documentos dentro do sistema Projudi. O uso de variáveis é <strong>opcional</strong>, mas muito útil para automação e padronização dos documentos.</p>
+<section id="o-que-sao-variaveis">
+<h2>O que são variáveis?<a class="headerlink" href="#o-que-sao-variaveis" title="Link to this heading">¶</a></h2>
+<p>Variáveis são comandos que são substituídos automaticamente por dados do processo quando o documento é gerado.</p>
+<p>Por exemplo:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">${assinaturaJuiz}</span></code> → Exibe o nome e cargo do juiz.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">${dataAtual}</span></code> → Exibe a data corrente.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">${partePassiva}</span></code> → Exibe o nome da parte ré no processo.</p></li>
+</ul>
+</section>
+<section id="como-inserir-uma-variavel">
+<h2>Como inserir uma variável<a class="headerlink" href="#como-inserir-uma-variavel" title="Link to this heading">¶</a></h2>
+<ol class="arabic simple">
+<li><p>Ao editar um modelo de documento, clique no botão <strong>Variável</strong>.</p></li>
+<li><p>Uma janela será aberta com uma lista de variáveis disponíveis.</p></li>
+<li><p>Localize a variável desejada e clique nela para copiá-la.</p></li>
+<li><p>Cole no local do documento onde deseja que a informação apareça.</p></li>
+</ol>
+</section>
+<section id="exemplos-praticos">
+<h2>Exemplos práticos<a class="headerlink" href="#exemplos-praticos" title="Link to this heading">¶</a></h2>
+<p><strong>Assinatura do Juiz</strong></p>
+<ul class="simple">
+<li><p>Variável: <code class="docutils literal notranslate"><span class="pre">${assinaturaJuiz}</span></code></p></li>
+<li><p>Finalidade: Exibe nome e cargo do juiz de direito</p></li>
+<li><p>Onde usar: No rodapé do documento, na linha de assinatura</p></li>
+</ul>
+<p><strong>Parte passiva (réu)</strong></p>
+<ul class="simple">
+<li><p>Variável: <code class="docutils literal notranslate"><span class="pre">${partePassiva}</span></code></p></li>
+<li><p>Finalidade: Inserir automaticamente o nome da parte ré</p></li>
+<li><p>Onde usar: Ao longo da sentença ou mandado, para evitar digitação manual</p></li>
+</ul>
+<p><strong>Data atual</strong></p>
+<ul class="simple">
+<li><p>Variável: <code class="docutils literal notranslate"><span class="pre">${dataAtual}</span></code></p></li>
+<li><p>Finalidade: Preencher a data corrente no documento</p></li>
+<li><p>Onde usar: Cabeçalhos, rodapés, corpo do documento</p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Algumas variáveis possuem nomes similares e resultados idênticos. Você pode testar qual se adequa melhor ao seu modelo.</p>
+</div>
+</section>
+<section id="pre-visualizacao-do-documento">
+<h2>Pré-visualização do documento<a class="headerlink" href="#pre-visualizacao-do-documento" title="Link to this heading">¶</a></h2>
+<p>Após inserir as variáveis, clique em <strong>Pré-visualizar</strong> para ver como o documento ficará quando for utilizado. As variáveis serão substituídas automaticamente pelos dados reais do processo:</p>
+<ul class="simple">
+<li><p>O nome do réu (<code class="docutils literal notranslate"><span class="pre">${partePassiva}</span></code>) aparecerá conforme o cadastro.</p></li>
+<li><p>A assinatura (<code class="docutils literal notranslate"><span class="pre">${assinaturaJuiz}</span></code>) mostrará o nome do juiz logado.</p></li>
+<li><p>A data (<code class="docutils literal notranslate"><span class="pre">${dataAtual}</span></code>) refletirá o dia da expedição do documento.</p></li>
+</ul>
+</section>
+<section id="dicas-importantes">
+<h2>Dicas importantes<a class="headerlink" href="#dicas-importantes" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>Variáveis não precisam de asterisco (*) para funcionar.</p></li>
+<li><p>Utilize variáveis para evitar erros de digitação e agilizar o trabalho.</p></li>
+<li><p>Você pode utilizar várias variáveis no mesmo documento.</p></li>
+</ul>
+</section>
+<section id="conclusao">
+<h2>Conclusão<a class="headerlink" href="#conclusao" title="Link to this heading">¶</a></h2>
+<p>Agora que você já sabe utilizar variáveis, seus modelos ficarão mais dinâmicos, personalizados e prontos para uso automático no sistema Projudi.</p>
+<p>Na próxima aula, veremos como <strong>utilizar modelos criados com variáveis</strong> em documentos reais.</p>
+</section>
+</section>
+
+
+            <div class="clearer"></div>
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <div>
+    <h3><a href="index.html">Table of Contents</a></h3>
+    <ul>
+<li><a class="reference internal" href="#">Variáveis</a><ul>
+<li><a class="reference internal" href="#o-que-sao-variaveis">O que são variáveis?</a></li>
+<li><a class="reference internal" href="#como-inserir-uma-variavel">Como inserir uma variável</a></li>
+<li><a class="reference internal" href="#exemplos-praticos">Exemplos práticos</a></li>
+<li><a class="reference internal" href="#pre-visualizacao-do-documento">Pré-visualização do documento</a></li>
+<li><a class="reference internal" href="#dicas-importantes">Dicas importantes</a></li>
+<li><a class="reference internal" href="#conclusao">Conclusão</a></li>
+</ul>
+</li>
+</ul>
+
+  </div>
+  <div>
+    <h4>Previous topic</h4>
+    <p class="topless"><a href="projud_48_criandomodelo.html"
+                          title="previous chapter">Criando Modelos de Documento</a></p>
+  </div>
+  <div>
+    <h4>Next topic</h4>
+    <p class="topless"><a href="projud_50_localizador.html"
+                          title="next chapter">Localizador</a></p>
+  </div>
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/projud_49_variaveis.rst.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<search id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="right" >
+          <a href="projud_50_localizador.html" title="Localizador"
+             >next</a> |</li>
+        <li class="right" >
+          <a href="projud_48_criandomodelo.html" title="Criando Modelos de Documento"
+             >previous</a> |</li>
+        <li class="nav-item nav-item-0"><a href="index.html">manual das varas criminais 1.0 documentation</a> &#187;</li>
+          <li class="nav-item nav-item-1"><a href="manualprojudi.html" >Manual PROJUDI</a> &#187;</li>
+        <li class="nav-item nav-item-this"><a href="">Variáveis</a></li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+    &#169; Copyright 2025, TJAM.
+      Created using <a href="https://www.sphinx-doc.org/">Sphinx</a> 7.3.7.
+    </div>
+  </body>
+</html>
