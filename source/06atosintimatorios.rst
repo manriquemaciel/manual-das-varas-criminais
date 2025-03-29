@@ -26,6 +26,12 @@ Para a realização de citações e intimações fora da jurisdição do juízo 
 - Data, hora e local onde o destinatário deve comparecer, se aplicável.
 - Anexos pertinentes, como cópia da denúncia ou da decisão a ser intimada.
 
+.. seealso:: Saiba mais sobre:
+
+    Como confeccionar cartas precatórias eletrônicas no Projudi: :doc:projud_44_cartaprecatoriaeletronica
+
+    Como ordenar cumprimento de carta precatória: :doc:projud_33_ordenarcumprimento
+
 Atos Ordinatórios
 ^^^^^^^^^^^^^^^^^^
 
@@ -34,6 +40,14 @@ Os servidores podem praticar atos ordinatórios, que não têm caráter decisór
 - Expedição de documentos e juntada aos autos.
 - Notificações, citações e intimações eletrônicas.
 - Encaminhamento de cartas precatórias à Central de Mandados para cumprimento.
+
+.. seealso:: Saiba mais sobre:
+
+    Como movimentar o processo com ato ordinatório: :doc:projud_06_analisejuntada_multiplaeunitaria
+
+    Expedição de intimações e notificações eletrônicas: :doc:projud_32_expedicaomandado
+
+    Intimação de perito e oficial de justiça: :doc:projud_34_intimarperitooj
 
 Procedimento de Intimação
 ---------------------------
@@ -51,6 +65,15 @@ A citação para audiência de conciliação e transação penal visa a informar
 - O mandado de citação deve conter a data, hora e local da audiência.
 - A ausência do acusado, devidamente citado, não impede a realização da audiência, podendo ser julgada à revelia.
 
+
+.. seealso:: Saiba mais sobre:
+
+    Como pautar e agendar audiências: :doc:projud_45_listasaudiencias, :doc:projud_46_comopautaraudiencia
+
+    Cadastro de medidas alternativas - Transação Penal: :doc:projud_54_cadastromedidasalternativas
+
+
+
 Citação para Suspensão Condicional do Processo (SCP)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -63,6 +86,12 @@ Informar ao acusado sobre a proposta de suspensão condicional do processo, nos 
 - A citação deve ser pessoal e preferencialmente realizada pelo Oficial de Justiça.
 - Deve ser informado o teor da proposta e os benefícios de aceitar a suspensão condicional.
 - Em caso de recusa, o processo seguirá o seu curso normal.
+
+
+.. seealso:: Saiba mais sobre:
+
+    Cadastro da suspensão condicional do processo: :doc:projud_55_cadastrosuspensao
+
 
 Citação para Audiência de Instrução e Julgamento (AIJ)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -77,6 +106,16 @@ Convocar o acusado para a audiência de instrução e julgamento, onde serão ou
 - O mandado deve conter data, hora e local da audiência, além de alertar o acusado sobre a necessidade de comparecimento sob pena de prosseguimento à revelia.
 - Em caso de não localização do réu, deverá ser feita a citação por edital, conforme o artigo 363, §1º, do CPP.
 
+
+.. seealso:: Saiba mais sobre:
+
+    Agendamento de audiências: :doc:projud_46_comopautaraudiencia
+
+    Movimentação de audiência e inserção de termo: :doc:projud_47_movimentacaoaudiencia
+
+    Citação por edital e cumprimento de mandado: :doc:projud_33_ordenarcumprimento
+
+
 Intimação de Partes e Testemunhas
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -89,9 +128,24 @@ Informar as partes e testemunhas sobre a data e hora das audiências, decisões,
 - A intimação pode ser realizada pessoalmente, via postal com aviso de recebimento, por meio eletrônico, ou, em casos excepcionais, por edital.
 - Para testemunhas, pode ser requisitada a presença através de ofício ao órgão ou instituição onde se encontram vinculadas (ex.: Polícia Militar para testemunhas policiais).
 
+
+.. seealso:: Saiba mais sobre:
+
+    Como realizar intimações a partes e oficiais de justiça: :doc:projud_34_intimarperitooj
+
+    Expedição de mandado para oficial de justiça: :doc:projud_32_expedicaomandado
+
+
+
 Controle de Prazos
 ------------------
 
 A secretaria deve manter um controle rigoroso dos prazos para a realização dos atos intimatórios, especialmente em relação a presos provisórios, conforme o artigo 316, parágrafo único, do Código de Processo Penal.
 
 É fundamental certificar nos autos o término dos prazos e proceder ao registro no sistema eletrônico SAJ, para garantir a efetiva suspensão ou continuidade do andamento processual, conforme o caso.
+
+.. seealso:: Saiba mais sobre:
+
+    Contagem dos prazos processuais no Projudi: :doc:projud_31_contagemprazo, :doc:projud_60_contagemprazosprocessuais
+
+    Suspensão e interrupção de prazos: :doc:projud_38_interrupcaoprazo, :doc:projud_39_suspensaosobrestamento

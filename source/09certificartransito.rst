@@ -43,6 +43,11 @@ Após a verificação de que não há mais possibilidade de recurso, siga os seg
 
 5. **Salvar e Concluir**: Após preencher os campos, clique em **“Salvar”** e **“Concluir”** a emissão da certidão no sistema. A certidão ficará disponível nos autos e poderá ser visualizada por todas as partes.
 
+.. seealso:: Saiba mais sobre como certificar o trânsito em julgado no Projudi:
+
+   Procedimento para trânsito em julgado por parte ou processo: :doc:projud_40_transitaremjulgado
+
+
 Movimentação e Registro do Trânsito em Julgado
 ------------------------------------------------
 
@@ -53,15 +58,25 @@ Movimentação e Registro do Trânsito em Julgado
    - Execução penal (no caso de processos criminais).
 3. **Notificação das Partes**: Caso necessário, utilize o SAJPG5 para notificar as partes interessadas sobre o trânsito em julgado, especialmente em processos criminais ou de execução.
 
+.. seealso:: Saiba mais sobre:
+
+   Como movimentar o processo após trânsito em julgado: :doc:projud_40_transitaremjulgado
+
+   Arquivamento dos autos após o trânsito: :doc:projud_41_arquivamento
+
+   Execução penal e cumprimento de sentença (medidas posteriores): :doc:projud_53_cadastrodenuncia e :doc:projud_54_cadastromedidasalternativas
+
+
 Finalização
 ------------
 
 Após a certificação do trânsito em julgado e o registro da movimentação no sistema, o processo pode seguir para as próximas etapas, conforme a natureza da decisão (execução, arquivamento, etc.).
 
-Modelos de Certidões no SAJPG5
+Modelos de Certidões
 -------------------------------
 
-Abaixo estão exemplos de modelos que podem ser utilizados no sistema para diferentes situações:
+.. seealso:: Saiba mais sobre:
 
-- **Certidão de Trânsito em Julgado - Ministério Público**: Usada quando o prazo recursal se esgota sem manifestação do MP.
-- **Certidão de Trânsito em Julgado - Defesa**: Usada quando o réu ou parte não interpõe recurso no prazo estabelecido.
+   Criação e personalização de modelos de documentos no sistema: :doc:projud_48_criandomodelo
+
+   Uso de variáveis em modelos (como nome da parte, data do trânsito etc.): :doc:projud_49_variaveis
