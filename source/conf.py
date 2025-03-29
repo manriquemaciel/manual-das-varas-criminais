@@ -16,6 +16,7 @@ release = '1.0'
 
 extensions = [
     'sphinx_rtd_theme',
+    'rst2pdf.pdfbuilder'
 ]
 
 templates_path = ['_templates']
@@ -29,3 +30,8 @@ language = 'pt-BR'
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
+pdf_documents = [('index', u'guiacriminal', u'Guia das Varas Criminais', u'TJAM'),]
+  # index - master document
+  # rst2pdf - name of the generated pdf
+  # Sample rst2pdf doc - title of the pdf
+  # Your Name - author name in the pdf
