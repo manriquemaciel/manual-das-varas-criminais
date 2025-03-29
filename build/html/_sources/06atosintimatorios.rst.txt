@@ -28,9 +28,9 @@ Para a realização de citações e intimações fora da jurisdição do juízo 
 
 .. seealso:: Saiba mais sobre:
 
-    Como confeccionar cartas precatórias eletrônicas no Projudi: :doc:projud_44_cartaprecatoriaeletronica
+    Como confeccionar cartas precatórias eletrônicas no Projudi: :doc:`projud_44_cartaprecatoriaeletronica`
 
-    Como ordenar cumprimento de carta precatória: :doc:projud_33_ordenarcumprimento
+    Como ordenar cumprimento de carta precatória: :doc:`projud_33_ordenarcumprimento`
 
 Atos Ordinatórios
 ^^^^^^^^^^^^^^^^^^
@@ -43,11 +43,11 @@ Os servidores podem praticar atos ordinatórios, que não têm caráter decisór
 
 .. seealso:: Saiba mais sobre:
 
-    Como movimentar o processo com ato ordinatório: :doc:projud_06_analisejuntada_multiplaeunitaria
+    Como movimentar o processo com ato ordinatório: :doc:`projud_06_analisejuntada_multiplaeunitaria`
 
-    Expedição de intimações e notificações eletrônicas: :doc:projud_32_expedicaomandado
+    Expedição de intimações e notificações eletrônicas: :doc:`projud_32_expedicaomandado`
 
-    Intimação de perito e oficial de justiça: :doc:projud_34_intimarperitooj
+    Intimação de perito e oficial de justiça: :doc:`projud_34_intimarperitooj`
 
 Procedimento de Intimação
 ---------------------------
@@ -68,9 +68,9 @@ A citação para audiência de conciliação e transação penal visa a informar
 
 .. seealso:: Saiba mais sobre:
 
-    Como pautar e agendar audiências: :doc:projud_45_listasaudiencias, :doc:projud_46_comopautaraudiencia
+    Como pautar e agendar audiências: :doc:`projud_45_listasaudiencias`, :doc:`projud_46_comopautaraudiencia`
 
-    Cadastro de medidas alternativas - Transação Penal: :doc:projud_54_cadastromedidasalternativas
+    Cadastro de medidas alternativas - Transação Penal: :doc:`projud_54_cadastromedidasalternativas`
 
 
 
@@ -90,7 +90,7 @@ Informar ao acusado sobre a proposta de suspensão condicional do processo, nos 
 
 .. seealso:: Saiba mais sobre:
 
-    Cadastro da suspensão condicional do processo: :doc:projud_55_cadastrosuspensao
+    Cadastro da suspensão condicional do processo: :doc:`projud_55_cadastrosuspensao`
 
 
 Citação para Audiência de Instrução e Julgamento (AIJ)
@@ -109,11 +109,11 @@ Convocar o acusado para a audiência de instrução e julgamento, onde serão ou
 
 .. seealso:: Saiba mais sobre:
 
-    Agendamento de audiências: :doc:projud_46_comopautaraudiencia
+    Agendamento de audiências: :doc:`projud_46_comopautaraudiencia`
 
-    Movimentação de audiência e inserção de termo: :doc:projud_47_movimentacaoaudiencia
+    Movimentação de audiência e inserção de termo: :doc:`projud_47_movimentacaoaudiencia`
 
-    Citação por edital e cumprimento de mandado: :doc:projud_33_ordenarcumprimento
+    Citação por edital e cumprimento de mandado: :doc:`projud_33_ordenarcumprimento`
 
 
 Intimação de Partes e Testemunhas
@@ -131,9 +131,9 @@ Informar as partes e testemunhas sobre a data e hora das audiências, decisões,
 
 .. seealso:: Saiba mais sobre:
 
-    Como realizar intimações a partes e oficiais de justiça: :doc:projud_34_intimarperitooj
+    Como realizar intimações a partes e oficiais de justiça: :doc:`projud_34_intimarperitooj`
 
-    Expedição de mandado para oficial de justiça: :doc:projud_32_expedicaomandado
+    Expedição de mandado para oficial de justiça: :doc:`projud_32_expedicaomandado`
 
 
 
@@ -146,6 +146,6 @@ A secretaria deve manter um controle rigoroso dos prazos para a realização dos
 
 .. seealso:: Saiba mais sobre:
 
-    Contagem dos prazos processuais no Projudi: :doc:projud_31_contagemprazo, :doc:projud_60_contagemprazosprocessuais
+    Contagem dos prazos processuais no Projudi: :doc:`projud_31_contagemprazo`, :doc:`projud_60_contagemprazosprocessuais`
 
-    Suspensão e interrupção de prazos: :doc:projud_38_interrupcaoprazo, :doc:projud_39_suspensaosobrestamento
+    Suspensão e interrupção de prazos: :doc:`projud_38_interrupcaoprazo`, :doc:`projud_39_suspensaosobrestamento`

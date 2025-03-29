@@ -23,21 +23,21 @@ Nesta fase processual a Vara deverá realizar as seguintes diligências.
 
 .. seealso:: Saiba mais sobre:
 
-    Como realizar a evolução de classe: :doc:projud_19_evolucao_retificacao
+    Como realizar a evolução de classe: :doc:`projud_19_evolucao_retificacao`
 
-    Atualização de cadastro e histórico de partes: :doc:projud_23_cadastroparte
+    Atualização de cadastro e histórico de partes: :doc:`projud_23_cadastroparte`
 
-    Cadastro de partes com citação online: :doc:projud_24_cadastropartecitacaoonline
+    Cadastro de partes com citação online: :doc:`projud_24_cadastropartecitacaoonline`
 
-    Emissão e expedição de mandado de citação: :doc:projud_32_expedicaomandado
+    Emissão e expedição de mandado de citação: :doc:`projud_32_expedicaomandado`
 
-    Como analisar o cumprimento do mandado e emitir edital: :doc:projud_33_ordenarcumprimento
+    Como analisar o cumprimento do mandado e emitir edital: :doc:`projud_33_ordenarcumprimento`
 
-    Citação por edital: :doc:projud_44_cartaprecatoriaeletronica
+    Citação por edital: :doc:`projud_44_cartaprecatoriaeletronica`
 
-    Contagem e análise de prazo: :doc:projud_31_contagemprazo
+    Contagem e análise de prazo: :doc:`projud_31_contagemprazo`
 
-    Vista à Defensoria e intimações: :doc:projud_34_intimarperitooj
+    Vista à Defensoria e intimações: :doc:`projud_34_intimarperitooj`
 
 Evolução de Classe
 --------------------
@@ -47,6 +47,6 @@ As varas devem se atentar para a obrigatoriedade deste procedimento de evoluçã
 
 .. seealso:: Saiba mais sobre:
 
-    Evolução de classe após o recebimento da denúncia: :doc:projud_19_evolucao_retificacao
+    Evolução de classe após o recebimento da denúncia: :doc:`projud_19_evolucao_retificacao`
 
-    Cadastro da denúncia para fins de cálculo de prescrição: :doc:projud_53_cadastrodenuncia
+    Cadastro da denúncia para fins de cálculo de prescrição: :doc:`projud_53_cadastrodenuncia`

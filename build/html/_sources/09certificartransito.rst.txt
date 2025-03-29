@@ -45,7 +45,7 @@ Após a verificação de que não há mais possibilidade de recurso, siga os seg
 
 .. seealso:: Saiba mais sobre como certificar o trânsito em julgado no Projudi:
 
-   Procedimento para trânsito em julgado por parte ou processo: :doc:projud_40_transitaremjulgado
+   Procedimento para trânsito em julgado por parte ou processo: :doc:`projud_40_transitaremjulgado`
 
 
 Movimentação e Registro do Trânsito em Julgado
@@ -60,11 +60,11 @@ Movimentação e Registro do Trânsito em Julgado
 
 .. seealso:: Saiba mais sobre:
 
-   Como movimentar o processo após trânsito em julgado: :doc:projud_40_transitaremjulgado
+   Como movimentar o processo após trânsito em julgado: :doc:`projud_40_transitaremjulgado`
 
-   Arquivamento dos autos após o trânsito: :doc:projud_41_arquivamento
+   Arquivamento dos autos após o trânsito: :doc:`projud_41_arquivamento`
 
-   Execução penal e cumprimento de sentença (medidas posteriores): :doc:projud_53_cadastrodenuncia e :doc:projud_54_cadastromedidasalternativas
+   Execução penal e cumprimento de sentença (medidas posteriores): :doc:`projud_53_cadastrodenuncia` e :doc:`projud_54_cadastromedidasalternativas`
 
 
 Finalização
@@ -77,6 +77,6 @@ Modelos de Certidões
 
 .. seealso:: Saiba mais sobre:
 
-   Criação e personalização de modelos de documentos no sistema: :doc:projud_48_criandomodelo
+   Criação e personalização de modelos de documentos no sistema: :doc:`projud_48_criandomodelo`
 
-   Uso de variáveis em modelos (como nome da parte, data do trânsito etc.): :doc:projud_49_variaveis
+   Uso de variáveis em modelos (como nome da parte, data do trânsito etc.): :doc:`projud_49_variaveis`

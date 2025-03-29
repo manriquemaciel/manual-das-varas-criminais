@@ -39,15 +39,15 @@ Nesta fase pré-processual a Vara deverá realizar as seguintes diligências, an
 
 .. seealso:: Saiba mais sobre como realizar:
 
-    Cadastro de Partes/Representantes: :doc:projud_23_cadastroparte
+    Cadastro de Partes/Representantes: :doc:`projud_23_cadastroparte`
 
-    Inclusão de Histórico de Partes: :doc:projud_23_cadastroparte
+    Inclusão de Histórico de Partes: :doc:`projud_23_cadastroparte`
 
-    Inclusão de Tarjas processuais: :doc:projud_11_telainicialprocesso
+    Inclusão de Tarjas processuais: :doc:`projud_11_telainicialprocesso`
 
-    Verificação do Assunto Principal: :doc:projud_23_cadastroparte
+    Verificação do Assunto Principal: :doc:`projud_23_cadastroparte`
 
-    Expedição de Certidão de Antecedentes Criminais: :doc:projud_35_enviarconcluso
+    Expedição de Certidão de Antecedentes Criminais: :doc:`projud_35_enviarconcluso`
 
 Inclusão de Tarjas Processuais
 -------------------------------------
@@ -58,7 +58,7 @@ Determinadas informações são fundamentais no momento de classificar o process
 
 .. seealso:: Saiba mais sobre como adicionar tarjas no sistema:
 
-    Tarjas e sigilo: :doc:projud_13_alterarsigilo
+    Tarjas e sigilo: :doc:`projud_13_alterarsigilo`
 
 
 
@@ -68,7 +68,7 @@ Conferência do Banco Nacional de Mandados de Prisão
 
 .. seealso:: Saiba mais sobre cadastro de mandado de prisão:
 
-    Cadastro de mandado de prisão: :doc:projud_32_expedicaomandado
+    Cadastro de mandado de prisão: :doc:`projud_32_expedicaomandado`
 
 
 Expedição de Certidão de Antecedentes Criminais 
@@ -87,7 +87,7 @@ Após preencher os campos clique em “Salvar”. Aguarde alguns instantes e cli
 
 .. seealso:: Saiba mais sobre como gerar certidões e realizar remessas:
 
-    Expedição de certidões e remessas: :doc:projud_35_enviarconcluso
+    Expedição de certidões e remessas: :doc:`projud_35_enviarconcluso`
 
 Autos conclusos
 -------------------
@@ -96,6 +96,6 @@ Superada todas as pendências necessárias para subsidiar a decisão do magistra
 
 .. seealso:: Saiba mais sobre como concluir um processo no sistema:
 
-    Enviar concluso ao magistrado: :doc:projud_35_enviarconcluso
+    Enviar concluso ao magistrado: :doc:`projud_35_enviarconcluso`
 
-    Utilização de agrupadores para organização: :doc:projud_51_agrupador
+    Utilização de agrupadores para organização: :doc:`projud_51_agrupador`

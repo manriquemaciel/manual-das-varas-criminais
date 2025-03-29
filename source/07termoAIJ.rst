@@ -26,9 +26,9 @@ Caso a testemunha não compareça, recomenda-se ao magistrado(a) a declaração 
 
 .. seealso:: Saiba mais sobre:
 
-    Intimação de partes e testemunhas: :doc:projud_34_intimarperitooj
+    Intimação de partes e testemunhas: :doc:`projud_34_intimarperitooj`
 
-    Atos intimatórios: :doc:projud_58_cadastrocumprimentomedida
+    Atos intimatórios: :doc:`projud_58_cadastrocumprimentomedida`
 
 Realização Parcial da Instrução Criminal e Redesignação
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -40,7 +40,7 @@ Essas informações devem ser juntadas aos autos até 15 (quinze) dias antes da 
 
 .. seealso:: Saiba mais sobre:
 
-    Movimentação de audiência, cancelamento e redesignação: :doc:projud_47_movimentacaoaudiencia
+    Movimentação de audiência, cancelamento e redesignação: :doc:`projud_47_movimentacaoaudiencia`
 
 
 Encerramento da Instrução Criminal
@@ -51,7 +51,7 @@ Podem solicitar a realização de diligências, desde que sua necessidade decorr
 
 .. seealso:: Saiba mais sobre:
 
-    Inserção de termo de audiência e registro da instrução: :doc:projud_47_movimentacaoaudiencia
+    Inserção de termo de audiência e registro da instrução: :doc:`projud_47_movimentacaoaudiencia`
 
 
 
@@ -65,4 +65,4 @@ Depositados os memoriais, tanto da acusação quanto da defesa, os autos devem s
 
 .. seealso:: Saiba mais sobre:
 
-    Como movimentar os autos após a audiência e encaminhar conclusos ao juiz: :doc:projud_35_enviarconcluso
+    Como movimentar os autos após a audiência e encaminhar conclusos ao juiz: :doc:`projud_35_enviarconcluso`

@@ -18,11 +18,11 @@ Caso seja interposto recurso em sentido estrito, cujo processamento poderá ocor
 
 .. seealso:: Saiba mais sobre:
 
-    Cadastro e atualização do histórico de partes: :doc:projud_23_cadastroparte
+    Cadastro e atualização do histórico de partes: :doc:`projud_23_cadastroparte`
 
-    Como realizar conclusões: :doc:projud_35_enviarconcluso
+    Como realizar conclusões: :doc:`projud_35_enviarconcluso`
 
-    Cadastro de movimentações: :doc:projud_11_telainicialprocesso
+    Cadastro de movimentações: :doc:`projud_11_telainicialprocesso`
 
 Denúncia recebida
 ---------------------
@@ -37,13 +37,13 @@ Dentre as deliberações judiciais e as atividades cartorárias a serem cumprida
 
 .. seealso:: Saiba mais sobre:
 
-    Conclusão com agrupador para recebimento da denúncia: :doc:projud_51_agrupador
+    Conclusão com agrupador para recebimento da denúncia: :doc:`projud_51_agrupador`
 
-    Cadastro de denúncia e cálculo da prescrição: :doc:projud_53_cadastrodenuncia
+    Cadastro de denúncia e cálculo da prescrição: :doc:`projud_53_cadastrodenuncia`
 
-    Evolução de classe processual: :doc:projud_19_evolucao_retificacao
+    Evolução de classe processual: :doc:`projud_19_evolucao_retificacao`
 
-    Cadastro de infrações e penas: :doc:projud_52_cadastroinfracoes
+    Cadastro de infrações e penas: :doc:`projud_52_cadastroinfracoes`
 
 Citação
 ^^^^^^^^^
@@ -52,11 +52,11 @@ Com o recebimento da denúncia e a ordem de citação, a secretaria deverá empr
 
 .. seealso:: Saiba mais sobre:
 
-    Citação de réu preso ou solto via mandado: :doc:projud_32_expedicaomandado
+    Citação de réu preso ou solto via mandado: :doc:`projud_32_expedicaomandado`
 
-    Controle de cumprimento de mandado: :doc:projud_59_juntadahabeascorpus
+    Controle de cumprimento de mandado: :doc:`projud_59_juntadahabeascorpus`
 
-    Cadastro de citação por edital: :doc:projud_44_cartaprecatoriaeletronica e :doc:projud_33_ordenarcumprimento
+    Cadastro de citação por edital: :doc:`projud_44_cartaprecatoriaeletronica` e :doc:`projud_33_ordenarcumprimento`
 
 
 * Mandado de citação de réu ou ré presos
@@ -89,7 +89,7 @@ Com o recebimento da denúncia e a ordem de citação, a secretaria deverá empr
 
 .. seealso:: Saiba mais sobre:
 
-    Cadastro de edital de citação no Projudi: :doc:projud_33_ordenarcumprimento
+    Cadastro de edital de citação no Projudi: :doc:`projud_33_ordenarcumprimento`
 
 
 * Evolução de Classe
@@ -99,4 +99,4 @@ Com o recebimento da denúncia e a ordem de citação, a secretaria deverá empr
 
 .. seealso:: Saiba mais sobre:
 
-    Como evoluir a classe processual: :doc:projud_19_evolucao_retificacao
+    Como evoluir a classe processual: :doc:`projud_19_evolucao_retificacao`
