@@ -16,6 +16,14 @@ Caso a denúncia seja rejeitada, a decisão é publicada e a secretaria deve lan
 Dever-se-á aguardar o decurso do prazo recursal.
 Caso seja interposto recurso em sentido estrito, cujo processamento poderá ocorrer nos próprios autos ou em autos apartados, dever-se-á tornar os autos conclusos para decisão judicial. 
 
+.. seealso:: Saiba mais sobre:
+
+    Cadastro e atualização do histórico de partes: :doc:projud_23_cadastroparte
+
+    Como realizar conclusões: :doc:projud_35_enviarconcluso
+
+    Cadastro de movimentações: :doc:projud_11_telainicialprocesso
+
 Denúncia recebida
 ---------------------
 
@@ -26,10 +34,30 @@ Sugere-se ao magistrado ou magistrada que, nesse momento em que tenha recebido a
 Portanto, é relevante que se possa concentrar o máximo de deliberações a serem cumpridas pela secretaria da Vara. 
 Dentre as deliberações judiciais e as atividades cartorárias a serem cumpridas, elencamos abaixo as seguintes:
 
+
+.. seealso:: Saiba mais sobre:
+
+    Conclusão com agrupador para recebimento da denúncia: :doc:projud_51_agrupador
+
+    Cadastro de denúncia e cálculo da prescrição: :doc:projud_53_cadastrodenuncia
+
+    Evolução de classe processual: :doc:projud_19_evolucao_retificacao
+
+    Cadastro de infrações e penas: :doc:projud_52_cadastroinfracoes
+
 Citação
 ^^^^^^^^^
 
 Com o recebimento da denúncia e a ordem de citação, a secretaria deverá empreender os seguintes esforços abaixo: 
+
+.. seealso:: Saiba mais sobre:
+
+    Citação de réu preso ou solto via mandado: :doc:projud_32_expedicaomandado
+
+    Controle de cumprimento de mandado: :doc:projud_59_juntadahabeascorpus
+
+    Cadastro de citação por edital: :doc:projud_44_cartaprecatoriaeletronica e :doc:projud_33_ordenarcumprimento
+
 
 * Mandado de citação de réu ou ré presos
 
@@ -59,7 +87,16 @@ Com o recebimento da denúncia e a ordem de citação, a secretaria deverá empr
     Esse edital lançado nos autos, será publicado no Diário de Justiça Eletrônico - DJE com o fim de ser levado ao conhecimento do réu ou ré que não fora localizado para ser citado. 
     Esse edital possui o prazo de 15 (quinze) dias. Com isso, uma vez emitido nos autos e publicado, deve a secretaria da Vara controlar o decurso do prazo de 15 (quinze) dias. Uma vez decorrido o prazo, iniciar-se-á o prazo de 10 (dez) dias para o réu ou ré constituir advogado e apresentar sua resposta escrita. Caso decorra o prazo in albis, a secretaria da Vara deve tornar os autos conclusos ao Juiz ou já proceder a iniciativa de suspender o processo e o curso do prazo prescricional, nos termos do art. 366 do CPP, desde que tenha ordem judicial nesse sentido. 
 
+.. seealso:: Saiba mais sobre:
+
+    Cadastro de edital de citação no Projudi: :doc:projud_33_ordenarcumprimento
+
+
 * Evolução de Classe
 
     Com o recebimento da denúncia, deve a secretaria da Vara proceder à evolução de classe e o devido preenchimento do histórico de partes. Essa atividade é estritamente fundamental para o controle estatístico de processos e definição de estratégias futuras pelo Tribunal de Justiça. 
     A evolução de classe consiste na atividade cartorária de lançar no sistema SAJ a informação de que o outrora inquérito policial ou peças de informações passaram a ser tratados como ação penal, haja vista o juízo de admissibilidade proferido pelo Juiz com a decisão de recebimento da denúncia. 
+
+.. seealso:: Saiba mais sobre:
+
+    Como evoluir a classe processual: :doc:projud_19_evolucao_retificacao

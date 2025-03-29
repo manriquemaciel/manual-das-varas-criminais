@@ -23,6 +23,13 @@ Designada a data para a audiência de instrução criminal, as partes (acusaçã
 O não fornecimento dessas informações pode levar à preclusão e expedição dos atos intimatórios nos endereços cadastrados.
 Caso a testemunha não compareça, recomenda-se ao magistrado(a) a declaração de perecimento do direito de produção daquela prova, conforme a Recomendação Conjunta nº 01, de 21 de março de 2024, art. 3º, ressalvadas as exceções do art. 2º da referida Recomendação.  
 
+
+.. seealso:: Saiba mais sobre:
+
+    Intimação de partes e testemunhas: :doc:projud_34_intimarperitooj
+
+    Atos intimatórios: :doc:projud_58_cadastrocumprimentomedida
+
 Realização Parcial da Instrução Criminal e Redesignação
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -31,11 +38,22 @@ Nesse caso, deve apresentar informações atualizadas sobre o endereço das test
 
 Essas informações devem ser juntadas aos autos até 15 (quinze) dias antes da data pautada para a audiência, sob pena de preclusão da produção da referida prova (Recomendação Conjunta nº 01, de 21 de março de 2024, art. 2º, §§1º e 2º).
 
+.. seealso:: Saiba mais sobre:
+
+    Movimentação de audiência, cancelamento e redesignação: :doc:projud_47_movimentacaoaudiencia
+
+
 Encerramento da Instrução Criminal
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Concluídas a oitiva da vítima (se existente nos autos), a inquirição das testemunhas de acusação e defesa, e o interrogatório do réu ou ré, as partes têm a oportunidade de apresentar requerimentos finais. 
 Podem solicitar a realização de diligências, desde que sua necessidade decorra de circunstâncias ou fatos apurados na instrução. (CPP, art. 402).
+
+.. seealso:: Saiba mais sobre:
+
+    Inserção de termo de audiência e registro da instrução: :doc:projud_47_movimentacaoaudiencia
+
+
 
 Fase de Alegações Finais
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -44,3 +62,7 @@ Encerrada a instrução criminal, as partes devem apresentar suas derradeiras al
 Caso qualquer das partes deixe de oferecer as alegações finais, recomenda-se à secretaria proceder a nova intimação via ato ordinatório, sem prejuízo de tornar os autos conclusos ao Juiz para deliberação. 
 
 Depositados os memoriais, tanto da acusação quanto da defesa, os autos devem ser remetidos ao Juiz para prolação da sentença.
+
+.. seealso:: Saiba mais sobre:
+
+    Como movimentar os autos após a audiência e encaminhar conclusos ao juiz: :doc:projud_35_enviarconcluso
