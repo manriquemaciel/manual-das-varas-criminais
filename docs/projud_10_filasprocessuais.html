@@ -1,0 +1,284 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="pt-BR" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Filas Processuais e Mover de Fila &mdash; manual das varas criminais 1.0 documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=92fd9be5" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
+
+  
+      <script src="_static/jquery.js?v=5d32c60e"></script>
+      <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="_static/documentation_options.js?v=05d536ce"></script>
+      <script src="_static/doctools.js?v=9a2dae69"></script>
+      <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Tela Inicial do Processo" href="projud_11_telainicialprocesso.html" />
+    <link rel="prev" title="Aba Outros Cumprimentos" href="projud_09_outroscumprimentos.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="index.html" class="icon icon-home">
+            manual das varas criminais
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="01processos_entrados.html">Processos Entrados (Análise do cartório)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="02analisedenuncia.html">Análise da denúncia (Jurídico)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="03recebimento_denuncia.html">Após recebimento da denúncia</a></li>
+<li class="toctree-l1"><a class="reference internal" href="04analiseDefesa_pautaraij.html">Análise da Defesa Escrita</a></li>
+<li class="toctree-l1"><a class="reference internal" href="05pautaraij.html">Pautar Audência de Instrução e Julgamento</a></li>
+<li class="toctree-l1"><a class="reference internal" href="06atosintimatorios.html">Atos Intimatórios</a></li>
+<li class="toctree-l1"><a class="reference internal" href="07termoAIJ.html">Audiência de Instrução e Julgamento</a></li>
+<li class="toctree-l1"><a class="reference internal" href="08sentenca_disposicoesfinais.html">Sentença - Disposições finais</a></li>
+<li class="toctree-l1"><a class="reference internal" href="09certificartransito.html">Certidão de Trânsito em Julgado</a></li>
+<li class="toctree-l1"><a class="reference internal" href="10expedir_guia_execucao.html">Expedição de guia de execução</a></li>
+<li class="toctree-l1"><a class="reference internal" href="11decisao_recebimento_apelacao.html">Decisão de recebimento da apelação (judicial)</a></li>
+<li class="toctree-l1"><a class="reference internal" href="12encaminhar_segundo_grau.html">Procedimento de envio para o segundo grau</a></li>
+<li class="toctree-l1"><a class="reference internal" href="13baixa%20definitiva.html">Baixa definitiva</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="manualprojudi.html">Manual PROJUDI</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="projud_01_visaogeral.html">Sistema Projudi: Visão Geral</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_02_senhacertificado.html">Certificado e Senha</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_03_abainicio.html">Aba Início</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_04_analisemultipla.html">Análise Múltipla de Decurso de Prazo na Aba Citações e Intimações</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_05_analisejuntada.html">Análise de Juntadas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_06_analisejuntada_multiplaeunitaria.html">Análise Múltipla e Unitária de Juntadas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_07_analisejuntada_multiplaeunitariaconclusos.html">Análise Múltipla e Unitária de Retorno de Conclusão</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_08_multiplaeunitariamov.html">Análise Múltipla com Movimentação Múltipla</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_09_outroscumprimentos.html">Aba Outros Cumprimentos</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Filas Processuais e Mover de Fila</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#objetivo-da-aba">Objetivo da Aba</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#acesso-e-utilizacao">Acesso e Utilização</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#movimentacoes-disponiveis">Movimentações Disponíveis</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#verificacao">Verificação</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#funcionalidade-extra">Funcionalidade Extra</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#resumo">Resumo</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="projud_11_telainicialprocesso.html">Tela Inicial do Processo</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_12_favoritar.html">Favoritar, Anotações e Lembretes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_13_alterarsigilo.html">Alterar Sigilo de Processos, Documentos e Movimentações</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_14_iaarandu.html">Análise Processual Automática (IA Arandu)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_15_juntardocumento.html">Juntar Documento</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_16_navegandoprocessos.html">Navegando nos Autos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_17_visualizandomovimentos.html">Visualizando as Movimentações</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_18_exportarprocesso.html">Exportar Processo</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_19_evolucao_retificacao.html">Evolução e Retificação de Classe Processual e Prioridade</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_20_cadastrodeposito.html">Cadastro de Depósito Judicial</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_21_cadastrobempenhora.html">Cadastro de Bem de Penhora</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_22_cadastroperiodo.html">Cadastro de Perito, Acordo e Suspeição</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_23_cadastroparte.html">Cadastro de Parte e CPF/CNPJ</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_24_cadastropartecitacaoonline.html">Cadastro de Parte com Citação Online</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_25_cadastro%20reupreso.html">Cadastro de Réu Preso</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_26_habilitaradvogado.html">Habilitar Advogado</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_27_desmembramentoprocesso.html">Desmembramento de Processos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_28_apensamentos.html">Apensamentos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_29_intimacaoARdigital.html">Intimação Pessoal por AR Digital</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_30_cita%C3%A7%C3%A3oeletronica.html">Citação Eletrônica</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_31_contagemprazo.html">Contagem do Prazo nas Intimações e Citações</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_32_expedicaomandado.html">Expedição de Mandado para Oficial de Justiça</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_33_ordenarcumprimento.html">Ordenar Cumprimentos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_34_intimarperitooj.html">Intimar Perito e Oficial de Justiça</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_35_enviarconcluso.html">Enviar Concluso</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_36_realizarremessa.html">Realizar Remessa</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_37_remessasegundograu.html">Remessa ao 2º Grau e Turma Recursal</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_38_interrupcaoprazo.html">Interrupção do Prazo</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_39_suspensaosobrestamento.html">Suspensão e Sobrestamento do Processo</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_40_transitaremjulgado.html">Transitar em Julgado</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_41_arquivamento.html">Arquivamento dos Autos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_42_abasuperiorprocesso.html">Aba Superior: Processos</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_43_buscarelacaoreupreso.html">Buscas e Relação de Réu Preso</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_44_cartaprecatoriaeletronica.html">Carta Precatória Eletrônica</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_45_listasaudiencias.html">Listas de Audiências</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_46_comopautaraudiencia.html">Como Pautar Audiência</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_47_movimentacaoaudiencia.html">Movimentação de Audiência</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_48_criandomodelo.html">Criando Modelos de Documento</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_49_variaveis.html">Variáveis</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_50_localizador.html">Localizador</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_51_agrupador.html">Agrupador</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_52_cadastroinfracoes.html">Cadastro de Infrações e Penas para fins de Prescrição</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_53_cadastrodenuncia.html">Cadastro da Denúncia ou Queixa para fins da Prescrição</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_54_cadastromedidasalternativas.html">Cadastro de Medidas Alternativas: Transação Penal</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_55_cadastrosuspensao.html">Cadastro de Suspensões (Parte)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_56_cadastromedidacautelar.html">Cadastro de Medida Cautelar de Monitoração Eletrônica</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_57_medidaprotetivaagressor.html">Cadastro de Medida Protetiva ao Agressor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_58_cadastrocumprimentomedida.html">Cumprimentos de Medidas Alternativas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_59_juntadahabeascorpus.html">Juntada de Habeas Corpus</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_60_contagemprazosprocessuais.html">Contagem dos Prazos Processuais</a></li>
+<li class="toctree-l2"><a class="reference internal" href="projud_61_acompanhamentoprescricao.html">Mesa do Escrivão Criminal: Análise de Prescrições</a></li>
+</ul>
+</li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="index.html">manual das varas criminais</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
+          <li class="breadcrumb-item"><a href="manualprojudi.html">Manual PROJUDI</a></li>
+      <li class="breadcrumb-item active">Filas Processuais e Mover de Fila</li>
+      <li class="wy-breadcrumbs-aside">
+            <a href="_sources/projud_10_filasprocessuais.rst.txt" rel="nofollow"> View page source</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="filas-processuais-e-mover-de-fila">
+<h1>Filas Processuais e Mover de Fila<a class="headerlink" href="#filas-processuais-e-mover-de-fila" title="Link to this heading"></a></h1>
+<p>Nesta aula, vamos explorar a aba <strong>Filas Processuais</strong>, um recurso recente do sistema ProJUDI que visa proporcionar <strong>maior organização e eficiência</strong> na rotina cartorária.</p>
+<section id="objetivo-da-aba">
+<h2>Objetivo da Aba<a class="headerlink" href="#objetivo-da-aba" title="Link to this heading"></a></h2>
+<p>A aba <strong>Filas Processuais</strong> permite:</p>
+<ul class="simple">
+<li><p>Agrupar processos conforme sua situação processual</p></li>
+<li><p>Otimizar o fluxo de trabalho</p></li>
+<li><p>Auxiliar no controle e distribuição de tarefas</p></li>
+</ul>
+</section>
+<section id="acesso-e-utilizacao">
+<h2>Acesso e Utilização<a class="headerlink" href="#acesso-e-utilizacao" title="Link to this heading"></a></h2>
+<ol class="arabic simple">
+<li><p>Clique na aba <strong>Filas Processuais</strong></p></li>
+<li><p>Será exibida uma lista com diversas filas, como:
+- Aguardando análise de AR
+- Audiência
+- Preliminar
+- Avaliação
+- Decisão
+- Decurso de prazo
+- Entre outras</p></li>
+<li><p>Clique em uma das filas (ex: <strong>Decisão</strong>) para visualizar os processos ali contidos</p></li>
+<li><p>Use o campo de busca para filtrar processos pelo número</p></li>
+</ol>
+</section>
+<section id="movimentacoes-disponiveis">
+<h2>Movimentações Disponíveis<a class="headerlink" href="#movimentacoes-disponiveis" title="Link to this heading"></a></h2>
+<p>### 1. <strong>Copiar para outra fila</strong></p>
+<ul class="simple">
+<li><p>O processo <strong>permanece em ambas as filas</strong></p></li>
+<li><p>Exemplo: da fila “Decisão” para “Aguardando cálculo de execução”</p></li>
+</ul>
+<p>### 2. <strong>Mover para outra fila</strong></p>
+<ul class="simple">
+<li><p>O processo é <strong>removido da fila atual</strong> e transferido para a nova</p></li>
+<li><p>Exemplo: da fila “Decisão” para “Aguardando audiência”</p></li>
+</ul>
+<p>### 3. <strong>Remover processo da fila</strong></p>
+<ul class="simple">
+<li><p>Exclui o processo de determinada fila, sem movê-lo para outra</p></li>
+</ul>
+<p>### 4. <strong>Mover Múltiplo</strong></p>
+<ul class="simple">
+<li><p>Selecione dois ou mais processos</p></li>
+<li><p>Clique em <strong>“Mover”</strong> (canto inferior direito)</p></li>
+<li><p>Escolha a nova fila e confirme</p></li>
+</ul>
+<p>### 5. <strong>Copiar Múltiplo</strong></p>
+<ul class="simple">
+<li><p>Idêntico ao mover múltiplo, mas mantém os processos também na fila original</p></li>
+</ul>
+</section>
+<section id="verificacao">
+<h2>Verificação<a class="headerlink" href="#verificacao" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>Após mover ou copiar, acesse novamente a fila para confirmar se os processos foram corretamente inseridos</p></li>
+<li><p>Também é possível verificar a <strong>fila atual</strong> na tela principal do processo</p></li>
+</ul>
+</section>
+<section id="funcionalidade-extra">
+<h2>Funcionalidade Extra<a class="headerlink" href="#funcionalidade-extra" title="Link to this heading"></a></h2>
+<p>Na <strong>tela principal do processo</strong>, é possível:</p>
+<ul class="simple">
+<li><p><strong>Mover para outra fila</strong></p></li>
+<li><p><strong>Copiar para outra fila</strong></p></li>
+<li><p><strong>Excluir da fila</strong></p></li>
+</ul>
+<p>&gt; Essas ações estão disponíveis no painel lateral da página do processo.</p>
+<p>⚠️ <strong>Importante:</strong>
+Mover um processo para a fila “Decisão” <strong>não significa</strong> que ele será automaticamente direcionado para o gabinete ou será incluído em uma minuta.</p>
+<p>Exemplo:</p>
+<ul class="simple">
+<li><p>Processo movido para a fila “Decisão”</p></li>
+<li><p>Última movimentação: “Recebido os autos da instância superior”</p></li>
+<li><p>Necessário ainda:
+- Acessar aba <strong>Movimentações</strong>
+- Clicar em <em>Movimentar a partir desta movimentação</em>
+- Selecionar <strong>“Enviar Concluso”</strong></p></li>
+</ul>
+</section>
+<section id="resumo">
+<h2>Resumo<a class="headerlink" href="#resumo" title="Link to this heading"></a></h2>
+<p>A aba <strong>Filas Processuais</strong> é uma ferramenta poderosa para:</p>
+<ul class="simple">
+<li><p>Organizar a carga de trabalho</p></li>
+<li><p>Atribuir tarefas por status ou grupo</p></li>
+<li><p>Planejar o andamento dos processos com mais clareza</p></li>
+</ul>
+<p>Contudo, ela <strong>não substitui as movimentações formais</strong> exigidas pelo sistema para o encaminhamento ao magistrado ou para atos processuais específicos.</p>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
+        <a href="projud_09_outroscumprimentos.html" class="btn btn-neutral float-left" title="Aba Outros Cumprimentos" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="projud_11_telainicialprocesso.html" class="btn btn-neutral float-right" title="Tela Inicial do Processo" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2025, TJAM.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
