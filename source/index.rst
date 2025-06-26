@@ -76,6 +76,7 @@ Agradecemos a todos os envolvidos neste projeto e esperamos que este manual seja
    06atosintimatorios
    07termoAIJ
    08sentenca_disposicoesfinais
+   09ciencia_sentenca
    09certificartransito
    10expedir_guia_execucao
    11decisao_recebimento_apelacao
