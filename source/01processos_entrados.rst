@@ -4,7 +4,7 @@ Processos Entrados (Análise do cartório)
 01 - Introdução
 ===============
 
-Nas Varas Criminais os autos processuais entram por meio da **Análise de Juntada** e das seguintes filas:
+Nas Varas Criminais os autos processuais entram por meio da **Análise de Juntada** e das seguintes filas (fauncionalidade em construção):
 
 - **Processos Redistribuídos** (Processos oriundos de outras varas ou VGPIP)
 - **Processos Entrados** (Inquéritos peticionados pela delegacia)
