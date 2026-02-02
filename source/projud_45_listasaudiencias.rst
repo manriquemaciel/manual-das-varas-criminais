@@ -67,4 +67,3 @@ A aba de **Audiências** permite:
 - Pesquisar rapidamente qualquer audiência por diversos critérios.
 
 É essencial movimentar corretamente as audiências para evitar pendências e manter o fluxo processual em ordem.
-

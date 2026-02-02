@@ -84,4 +84,3 @@ Considerações Finais
 
 - Os registros de cumprimento, descumprimento e comprovações são automaticamente inseridos nas movimentações do processo.
 - O sistema oferece uma **gestão clara, detalhada e atualizada** das medidas alternativas aplicadas.
-

@@ -27,10 +27,10 @@ Clique em **OK** para continuar.
 
 Na próxima tela:
 
-- Selecione as **partes que serão copiadas** para o novo processo  
+- Selecione as **partes que serão copiadas** para o novo processo
   (ex: Ministério Público, testemunhas, alguns indiciados)
 
-- Selecione as **partes que serão movidas** definitivamente  
+- Selecione as **partes que serão movidas** definitivamente
   (ex: o promovido, réu específico, etc.)
 
 Clique em **Próximo Passo**.
@@ -52,7 +52,7 @@ Resultado
 - O processo original exibirá uma **referência ao processo desmembrado**
 - O novo processo herdará os documentos e partes conforme selecionado
 
-> ✅ É possível clicar no número do novo processo para acessá-lo diretamente  
+> ✅ É possível clicar no número do novo processo para acessá-lo diretamente
 > ✅ A tramitação dos processos seguirá de forma **independente**
 
 Resumo
@@ -65,4 +65,3 @@ O **desmembramento de processos** é útil em situações como:
 - Agilização da tramitação de temas autônomos
 
 No ProJUDI, esse procedimento é feito de forma **guiada, segura e rastreável**.
-

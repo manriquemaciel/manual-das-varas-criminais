@@ -1,81 +1,53 @@
-.. _analise_defesa:
+04 - Decisão (análise de Defesa Escrita e pautar AIJ) (Judicial)
+==================================================================
 
-Análise da Defesa Escrita
-=========================
+04 - Resposta à Acusação
+------------------------
 
-Se recebida a denúncia, os autos seguem para a Defesa apresentar a **Resposta à Acusação** ou **Defesa Preliminar**.
+Se recebida a Denúncia, os autos vão à Defesa para apresentação de Resposta à Acusação ou Defesa Preliminar.
 
-.. _prazo_resposta:
+04.1 - Do Prazo
+~~~~~~~~~~~~~~~
 
-Prazo para Resposta à Acusação
-------------------------------
+Conforme o art. 396 do CPP, o réu citado possuirá o prazo de 10 (dez) dias para responder à acusação. A contagem do referido prazo deverá observar o teor da Súmula 710 do STF, dando-se início a partir da citação do acusado. Dessa forma, sendo o acusado citado por mandado, em balcão ou na unidade prisional, o prazo para apresentação da resposta á acusação começará a correr a partir da data de sua intimação.
+Na praxe forense é recomendável que nos mandados, sendo eles destinados à citação de réus em liberdade ou encarcerados, conste o apelo para o agente que irá realizar a intimação indague do citando se este possui condições de constituir advogado particular. Sendo a resposta positiva, a Secretaria aguardará o prazo fixado na Lei para a apresentação da defesa, caso não seja apresentada, será nomeada a Defensoria Pública por meio do Defensor Público atuante na Serventia, na forma do art. 396-A, §2º, do CPP. Frise-se que a Defensoria Pública possui prazo em dobro para todas as suas manifestações, consoante art. 128, I, da LC nº 80/94.
+Caso a resposta do citando seja negativa e o citando afirmar que não possui condições financeiras para constituir um advogado, o agente certificará nos autos ou informará  no anverso do mandado, podendo a Secretaria desde já nomear a Defensoria Pública, realizando assim economia de tempo de tramitação e mais eficiência no procedimento, pois evitará desnecessariamente que a Secretaria controle o prazo processual para só após o seu decurso realizar a remessa dos autos à DPE.
 
-Conforme o art. 396 do CPP\ [#art396]_, o réu citado terá o prazo de **10 (dez) dias** para responder à acusação. A contagem deverá observar a **Súmula 710 do STF**\ [#súmula710]_, iniciando-se a partir da data da citação.
+.. list-table::
+   :header-rows: 1
+   :widths: 32 38 30
 
-Na prática forense, recomenda-se que nos mandados de citação (liberdade ou presos), o agente certifique se o réu possui condições de constituir advogado particular:
+   * - Situação
+     - Conduta Recomendada
+     - Consequência para o Procedimento
+   * - Réu afirma que possui condições de constituir advogado ou não se manifesta a respeito
+     - A Secretaria aguarda o prazo legal (art. 396-A do CPP) para a apresentação da defesa.
+     - Se não apresentada a defesa no prazo, nomeia-se a Defensoria Pública para atuar, evitando nova intimação.
+   * - Réu afirma que NÃO possui condições financeiras para constituir advogado
+     - O agente certifica nos autos ou informa no anverso do mandado. A Secretaria já nomeia a Defensoria Pública imediatamente.
+     - Gera economia de tempo e maior eficiência, dispensando o controle de prazos pela Secretaria para posterior remessa à Defensoria.
+   * - Defensoria Pública é nomeada para atuar
+     - Possui prazo em dobro para todas as manifestações (art. 128, I, da LC nº 80/1994).
+     - Prazos processuais são automaticamente contados em dobro, sem necessidade de requerimento.
 
-- Se **afirmar que possui**, a Secretaria aguarda o prazo legal e, se não houver defesa, **nomeia a Defensoria Pública** (art. 396-A, §2º do CPP)\ [#art396a]_.
-- Se **afirmar que não possui**, a Secretaria **já nomeia a Defensoria Pública**, otimizando o trâmite.
-- A Defensoria tem **prazo em dobro** para manifestações (art. 128, I, LC nº 80/94)\ [#art128]_.
+04.2 - Análise da Resposta à Acusação
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-+--------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------+
-| Situação                                   | Conduta Recomendada                                         | Consequência para o Procedimento                        |
-+============================================+=============================================================+=========================================================+
-| Réu com advogado ou silêncio               | Secretaria aguarda o prazo do art. 396-A do CPP             | Após o prazo, nomeia-se a DPE se não houver defesa      |
-+--------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------+
-| Réu afirma não ter condições financeiras   | Certificação nos autos e nomeação imediata da DPE           | Evita controle de prazo e agiliza tramitação            |
-+--------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------+
-| Nomeação da Defensoria Pública             | Aplica-se prazo em dobro automaticamente                    | Sem necessidade de pedido específico                    |
-+--------------------------------------------+-------------------------------------------------------------+---------------------------------------------------------+
+Segundo a Doutrina e Jurisprudência, a Resposta à Acusação possui natureza mista, podendo a Defesa arguir argumentos de mérito ou preliminares, tais como nulidades, inépcia da denúncia, ausência de pressupostos processuais ou condições da ação.
+Na praxe forense se observa que há defesas técnicas que apresentam uma Resposta à acusação apontando preliminares, prejudiciais de mérito ou até tecem comentários acerca do próprio mérito e outras defesas se restringem a tecer considerações apenas quando da realização da audiência una de instrução e julgamento e em sede de alegações finais.
+No primeiro caso, a jurisprudência entende que é necessário que seja oportunizado ao Ministério Público o direito de se manifestar acerca do alegado pela Defesa, considerando o princípio do contraditório. Nesses casos se costuma conferir ao órgão ministerial, em razão do princípio da paridade de armas, o mesmo prazo da Resposta à Acusação (10 dias). Após a manifestação ministerial ou o decurso do prazo sem manifestação, o processo seguirá o procedimento previsto no art. 397 do CPP, onde o Juiz analisará se é caso de absolvição sumária. É comum e representa uma boa prática processual que o Juiz nesse momento - caso não verificado quando do recebimento da denúncia - também verifique se é caso de conexão, continência, litispendência, coisa julgada, prescrição ou outra nulidade, matérias também comumente arguidas pelas Defesas em suas Respostas à Acusação.
+No segundo caso, o processo não demanda da análise da autoridade judicial, pois não foi arguido pela Defesa nenhuma nulidade, preliminar, prejudicial ou hipóteses de absolvição sumária, tendo a própria Defesa optado por se manifestar em outro momento processual. Nesses casos, para fins de economia e eficiência processual se recomenda que seja certificado nos autos e incluído o processo em pauta para audiência de instrução e julgamento, mediante a observância das prioridades legais e normativas do CNJ.
 
-.. _analise_resposta:
+.. list-table::
+   :header-rows: 1
+   :widths: 32 38 30
 
-Análise da Resposta à Acusação
-------------------------------
-
-A Resposta à Acusação tem natureza **mista**, permitindo à Defesa:
-
-- Alegar nulidades
-- Prejudiciais de mérito
-- Ausência de pressupostos processuais ou condições da ação
-- Ou ainda, antecipar teses de mérito
-
-Duas situações práticas surgem com frequência:
-
-**1. Defesa apresenta preliminares ou mérito:**
-
-- Deve-se abrir **vista ao Ministério Público** por 10 dias, assegurando contraditório e paridade de armas. Tal prática, embora não prevista expressamente na legislação, tem respaldo na jurisprudência do STJ\ [#jurisprudencia]_, como forma de evitar cerceamento de defesa.
-- Após manifestação (ou silêncio), o Juiz analisa a hipótese de **absolvição sumária** conforme art. 397 do CPP.
-- Também pode avaliar outras questões preliminares: **conexão, continência, litispendência, prescrição, coisa julgada ou nulidades**.
-
-**2. Defesa silencia sobre questões preliminares:**
-
-- Deve-se **certificar** nos autos que não houve arguição relevante.
-- Em seguida, o feito é incluído em pauta para a **audiência de instrução e julgamento**, respeitando as prioridades legais e normativas do CNJ.
-
-+--------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
-| Situação                                               | Conduta Recomendada                                        | Consequência para o Procedimento                             |
-+========================================================+============================================================+==============================================================+
-| Defesa com preliminares, prejudiciais ou mérito        | Vista ao MP por 10 dias (contraditório)                    | Após manifestação ou silêncio, análise judicial (art. 397)   |
-+--------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
-| Defesa sem preliminares ou alegações                   | Certificar e pautar audiência de instrução e julgamento    | Processo segue sem necessidade de decisão intermediária      |
-+--------------------------------------------------------+------------------------------------------------------------+--------------------------------------------------------------+
-
-.. seealso::
-
-   - :ref:`recebimento_denuncia`
-   - :ref:`pautar_aij`
-   - :ref:`sentenca_final`
-   - :ref:`certificar_transito`
-
-.. rubric:: Notas de rodapé
-
-.. [#art396] **Art. 396 do CPP** – “Nos procedimentos ordinário e sumário, oferecida a denúncia ou queixa, o juiz, se não a rejeitar liminarmente, recebê-la-á e ordenará a citação do acusado para responder à acusação, por escrito, no prazo de 10 (dez) dias.”
-
-.. [#súmula710] **Súmula 710-STF** – “No processo penal, contam-se os prazos da data da intimação, e não da juntada aos autos do mandado ou da carta precatória ou de ordem.”
-
-.. [#art396a] **Art. 396-A, §2º do CPP** – “Não apresentada a resposta no prazo legal, ou se o acusado, citado, não constituir defensor, o juiz nomeará defensor para oferecê-la, concedendo-lhe vista dos autos por 10 (dez) dias.”
-
-.. [#art128] **Art. 128, I, da LC nº 80/94** – “São prerrogativas dos membros da Defensoria Pública do Estado: I – receber, inclusive quando necessário, mediante entrega dos autos com vista, intimação pessoal em qualquer processo e grau de jurisdição ou instância administrativa, contando-se-lhes em dobro todos os prazos.”
-
-.. [#jurisprudencia] **STJ - AgRg no RHC 124304/SP** – “A manifestação acusatória após a defesa inicial, embora não prevista em lei, vem justamente a atender ao princípio do contraditório...”. (Rel. Min. Nefi Cordeiro, DJe 15/05/2020)
+   * - Situação
+     - Conduta Recomendada
+     - Consequência para o Procedimento
+   * - Defesa apresenta Resposta à Acusação com preliminares, prejudiciais de mérito ou análise de mérito
+     - Oportunizar vista ao Ministério Público para manifestação no prazo de 10 dias, em observância ao contraditório e paridade de armas.
+     - Após a manifestação do MP ou decurso de prazo, o Juiz analisará o cabimento de absolvição sumária (art. 397 do CPP) e eventuais matérias preliminares (conexão, continência, litispendência, prescrição, coisa julgada ou nulidades).
+   * - Defesa limita-se a apresentar manifestação reservando-se para instrução ou alegações finais
+     - Certificar nos autos que não foram arguidas preliminares, prejudiciais ou nulidades e pautar o feito para audiência de instrução e julgamento, observando prioridades legais e normativas do CNJ.
+     - O processo segue diretamente para pautar audiência, sem necessidade de análise judicial prévia de absolvição sumária ou nulidades.

@@ -88,4 +88,3 @@ A funcionalidade **"Navegar"** oferece:
 - Facilidade na organização e auditoria das ações no processo
 
 Essa ferramenta é fundamental para uma análise processual detalhada e transparente.
-

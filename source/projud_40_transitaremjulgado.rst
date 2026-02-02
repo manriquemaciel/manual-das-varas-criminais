@@ -57,4 +57,3 @@ Observações
 
 - É possível que a gestão da secretaria exija também a juntada de uma **certidão** confirmando o trânsito.
 - O uso correto da funcionalidade garante que o sistema Projudi reconheça o fim da fase recursal e bloqueie novos recursos.
-

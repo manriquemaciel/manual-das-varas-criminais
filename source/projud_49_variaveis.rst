@@ -70,4 +70,3 @@ Conclusão
 Agora que você já sabe utilizar variáveis, seus modelos ficarão mais dinâmicos, personalizados e prontos para uso automático no sistema Projudi.
 
 Na próxima aula, veremos como **utilizar modelos criados com variáveis** em documentos reais.
-

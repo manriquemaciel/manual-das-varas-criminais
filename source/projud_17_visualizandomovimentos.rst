@@ -72,4 +72,3 @@ A aba de movimentações permite:
 - Ver detalhes como prazos, responsáveis e protocolos
 
 O botão **"Navegar"** complementa essa função com uma visualização ampliada e organizada dos eventos.
-

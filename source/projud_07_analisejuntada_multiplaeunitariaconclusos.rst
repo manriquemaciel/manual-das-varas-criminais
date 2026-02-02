@@ -79,7 +79,6 @@ Mensagem de sucesso:
 
 Conclusões analisadas com sucesso.
 
-
 Resumo
 -------
 
@@ -87,4 +86,3 @@ Resumo
 - Pode ser analisado individualmente ou em lote
 - Permite movimentações posteriores, como intimações, remessas e arquivamentos
 - O uso de filtros e agrupadores torna o trabalho mais organizado e produtivo
-

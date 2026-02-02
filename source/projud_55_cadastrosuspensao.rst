@@ -8,7 +8,7 @@ Acesso ao Cadastro
 --------------------
 
 1. Na **tela principal** do processo, vá até:
-   
+
    ``Informações Adicionais`` → ``Benefícios, Medidas e Suspensões`` → ``Suspensão``
 
 2. Clique em **"Cadastrar"**
@@ -27,7 +27,7 @@ Suspensão com Base no Art. 89 da Lei 9.099/95
 ----------------------------------------------
 
 1. Acesse novamente:
-   
+
    ``Informações Adicionais`` → ``Benefícios, Medidas e Suspensões`` → ``Suspensão``
 
 2. Insira:
@@ -65,4 +65,3 @@ Conclusão
 ----------
 
 O cadastro correto da suspensão **por parte** é essencial para o controle processual, especialmente em casos de réus ausentes ou que tenham aceitado propostas de suspensão condicional do processo.
-

@@ -65,4 +65,3 @@ Além de prisões, é possível realizar buscas por:
 - **Benefícios ou suspensão de medidas**
 
 Essas opções também estarão disponíveis na **Mesa do Escrivão Criminal**, que será abordada em aula futura.
-

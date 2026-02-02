@@ -75,4 +75,3 @@ A aba **Informações Adicionais** permite o gerenciamento de dados financeiros 
 - **Controlar levantamentos e beneficiários**
 
 Essa funcionalidade é importante tanto na área **cível** quanto **criminal**, e ajuda a manter o controle e a transparência dos valores movimentados no processo.
-

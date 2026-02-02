@@ -83,10 +83,9 @@ Resumo
 
 A funcionalidade de **Cadastro de Prisão e Soltura** no ProJUDI permite:
 
-✅ Transparência na **situação carcerária** da parte  
-✅ Controle automático de **dias de prisão**  
-✅ Registro de **histórico de prisões e solturas**  
-✅ Conformidade com decisões judiciais e mandados  
+✅ Transparência na **situação carcerária** da parte
+✅ Controle automático de **dias de prisão**
+✅ Registro de **histórico de prisões e solturas**
+✅ Conformidade com decisões judiciais e mandados
 
 É essencial para o andamento adequado de processos **criminais e civis com prisão**.
-

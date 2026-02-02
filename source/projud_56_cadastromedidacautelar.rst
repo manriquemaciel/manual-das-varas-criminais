@@ -74,4 +74,3 @@ Conclusão
 -----------
 
 Este recurso permite **controle centralizado e eficaz** das medidas cautelares eletrônicas, com previsão de vencimento, relatórios e vinculação a outras condições cautelares.
-

@@ -21,7 +21,7 @@ Você tem duas opções:
 - **Apensar este processo a um principal** (mais comum)
 - **Tornar este processo o principal e apensar outros a ele**
 
-Selecione a segunda opção:  
+Selecione a segunda opção:
 **“Apensar este processo a um principal”**
 
 ### Informações a Preencher
@@ -68,9 +68,8 @@ Resumo
 
 A funcionalidade de **apensamento** é útil para:
 
-✅ Processos com objetos similares ou interdependentes  
-✅ Situações de conexão ou continência  
+✅ Processos com objetos similares ou interdependentes
+✅ Situações de conexão ou continência
 ✅ Execuções relacionadas à mesma sentença
 
 > O ProJUDI permite fazer o controle de apensamento com rastreabilidade e bloqueio, se necessário.
-

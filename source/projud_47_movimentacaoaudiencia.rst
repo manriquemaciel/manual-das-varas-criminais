@@ -67,4 +67,3 @@ O sistema Projudi permite:
 - Registro do status e resultado da audiência
 - Prolação direta de sentença homologatória com impacto na produtividade
 - Movimentações ágeis, sem necessidade de envio concluso ao magistrado em alguns casos
-

@@ -27,7 +27,6 @@ Cadastro de Perito
 Mensagem de confirmação:
 Dados registrados com sucesso.
 
-
 O perito será habilitado provisoriamente, e o sistema irá gerar uma **movimentação automática** vinculada ao processo.
 
 Cadastro de Acordo
@@ -46,7 +45,6 @@ Cadastro de Acordo
 
 Mensagem de confirmação:
 Acordo cadastrado com sucesso.
-
 
 O acordo aparecerá listado em **Informações Adicionais** e será registrado nas movimentações.
 
@@ -76,4 +74,3 @@ A aba **Informações Adicionais** permite registrar elementos fundamentais que 
 - Registro de **impedimentos e suspeições**
 
 Esses registros geram movimentações automáticas, garantindo **transparência e rastreabilidade**.
-

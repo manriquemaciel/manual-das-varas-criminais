@@ -1,68 +1,49 @@
-Audiência de Instrução e Julgamento
-====================================
+07 - Termo de AIJ (Judicial)
+============================
 
+AUDIÊNCIA DE INSTRUÇÃO e JULGAMENTO
 
-A audiência de instrução constitui ato processual relevante no curso da ação penal. 
-Trata-se da oportunidade conferida às partes para produzir suas provas, sobretudo as testemunhais. 
-O que é produzido na audiência deve ser registrado nos autos. Para isso, o Juiz, com o auxílio da secretaria da Vara, emite o termo de audiência, no qual são consignados os principais e relevantes eventos ocorridos.
+A audiência de instrução constitui ato processual relevante no curso da ação penal.
+A audiência de instrução é a oportunidade processual conferida às partes para produzir suas provas, sobretudo as testemunhais.
+O que é produzido na audiência deve ser registrado nos autos. Para isso, o Juiz, com o auxílio da secretaria da Vara, emite o termo de audiência. Nesse termo consignam-se os principais e relevantes eventos ocorridos durante a audiência.
+Na data agendada para a audiência, a secretaria da Vara deve realizar o pregão no horário designado para a audiência.
+Uma vez realizado o pregão, a secretaria da Vara deverá registrar os presentes e informar ao Juiz para consignar no termo de audiência e para deliberações seguintes.
+Registrada a presença da acusação, geralmente representada pelo membro do Ministério Público, e pela defesa, seja por meio de advogado ou defensor público, deve ser aberto o ato processual pelo Juiz com a oitiva da vítima, se possível, e das demais testemunhas, sendo primeiro, via de regra, inquiridas as testemunhas de acusação e, em seguida, as de defesa. Após a inquirição das testemunhas, deve ser interrogado o réu, a ré ou os réus.
+Na fase da audiência de instrução devem ser observadas as seguintes situações:
 
-Na data agendada, a secretaria da Vara deve realizar o pregão no horário designado para a audiência. 
-Uma vez realizado o pregão, a secretaria deve registrar os presentes e informar ao Juiz para a devida anotação no termo de audiência e para deliberações seguintes.  
+1.1 - Indicação prévia de endereços pelas partes e juntada de laudos periciais
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Registrada a presença da acusação, geralmente representada pelo Ministério Público, e da defesa, seja por advogado ou defensor público, o Juiz deve iniciar o ato processual com a oitiva da vítima, se possível, e das demais testemunhas. 
-Via de regra, são inquiridas primeiramente as testemunhas de acusação e, em seguida, as de defesa. 
-Após a inquirição das testemunhas, deve ser interrogado o réu ou a ré. 
+Designada data para a audiência de instrução criminal, as partes, seja acusação ou defesa, devem ser intimadas para indicarem, no prazo de 05 (cinco) dias, todos os endereços e telefones disponíveis das vítimas e testemunhas arroladas, sob pena de preclusão e expedição de atos intimatórios nos endereços cadastrados e, em caso de não comparecimento da testemunha, recomenda-se ao magistrado ou magistrada a declaração de perecimento do direito de produção daquela prova, conforme consta da Recomendação Conjunta nº 01, de 21 de março de 2024, art. 3º, ressalvadas as hipóteses previstas no art. 2º da referida Recomendação.
+Com relação aos laudos periciais que tenham sido objeto de requisição na fase inquisitorial, recomenda-se aos magistrados e magistradas que, antes do início da instrução criminal, concedam às partes a oportunidade de buscarem tais elementos de prova e providenciem as suas juntadas aos autos, de modo a subsidiar o feito de elementos suficientes e, a um só tempo, permitir que os autos avancem rumo à fase de alegações finais, sem que hajam óbices que impeçam o desfecho da ação penal.
+A medida a ser adotada encontra fundamento no corolário constitucional da Razoável Duração do Processo, previsto no art. 5º, LXXVIII da CF/88, eis que não se afigura prudente que a instrução criminal seja indefinidamente estendida e constantemente redesignada.
+Com relação
 
-Situações a serem observadas:
----------------------------------
+1.2 - Realização parcial da instrução criminal. Redesignação
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Indicação de Endereços pelas Partes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+No caso de terem se apresentado apenas uma ou algumas testemunhas de acusação e a acusação insistir na inquirição da testemunha faltante, caso em que pugnará pela redesignação da audiência, deverá a parte interessada apresentar informações atualizadas acerca do endereço da testemunha ou vítima do processo, acompanhada da fonte das novas informações. (Recomendação Conjunta nº 01, de 21 de março de 2024, art. 2º)
+Essas informações sobre o endereço da(s) testemunha(s) faltante(s) deverá ser trazida aos autos pela parte interessada e, no caso de a audiência já ter sido designada, deverá tal informação ser  juntada até 15 (quinze) dias antes da data pautada, sob pena de preclusão da produção da referida prova  (Recomendação Conjunta nº 01, de 21 de março de 2024, art. 2º, §§1º e 2º)
 
-Designada a data para a audiência de instrução criminal, as partes (acusação e defesa) devem ser intimadas para indicarem, no prazo de 05 (cinco) dias, todos os endereços e telefones disponíveis das vítimas e testemunhas arroladas. 
-O não fornecimento dessas informações pode levar à preclusão e expedição dos atos intimatórios nos endereços cadastrados.
-Caso a testemunha não compareça, recomenda-se ao magistrado(a) a declaração de perecimento do direito de produção daquela prova, conforme a Recomendação Conjunta nº 01, de 21 de março de 2024, art. 3º, ressalvadas as exceções do art. 2º da referida Recomendação.  
+1.3 - Reconhecimento de Pessoas durante a instrução criminal
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+No caso de ser requerido por quaisquer das partes o reconhecimento de pessoas, deve o magistrado ou magistrada seguir os ditames previstos na Resolução nº 484, DE 19 DE DEZEMBRO DE 2022. Nele, o Conselho Nacional de Justiça fixou o procedimento a ser seguido para o reconhecimento de pessoas em procedimentos e processos criminais.
 
-.. seealso:: Saiba mais sobre:
+1.4 - Acareação
+~~~~~~~~~~~~~~~
 
-    Intimação de partes e testemunhas: :doc:`projud_34_intimarperitooj`
+Caso seja deferida a realização de acareação, deve tal fato ser prontamente registrado no termo de audiência.
+As hipóteses de cabimento e o procedimento estão normatizadas nos artigos 229 e 230, ambos do Código de Processo Penal.
 
-    Atos intimatórios: :doc:`projud_58_cadastrocumprimentomedida`
+1.5 - Encerramento da Instrução Criminal
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Realização Parcial da Instrução Criminal e Redesignação
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+No caso da oitiva da vítima - acaso existente nos autos - e a inquirição das testemunhas de acusação e defesa e o interrogatório do réu ou ré, oportunizar-se-ão às partes fazer requerimentos finais, inclusive solicitando a realização de diligências, desde que sua necessidade se origine de circunstâncias ou fatos apurados na instrução. (CPP, art. 402)
 
-Caso apenas algumas testemunhas de acusação compareçam e a acusação insista na inquirição das ausentes, deverá pugnar pela redesignação da audiência. 
-Nesse caso, deve apresentar informações atualizadas sobre o endereço das testemunhas ou vítimas, acompanhadas da fonte das novas informações. (Recomendação Conjunta nº 01, de 21 de março de 2024, art. 2º).
+1.6 - Fase de alegações finais
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Essas informações devem ser juntadas aos autos até 15 (quinze) dias antes da data pautada para a audiência, sob pena de preclusão da produção da referida prova (Recomendação Conjunta nº 01, de 21 de março de 2024, art. 2º, §§1º e 2º).
-
-.. seealso:: Saiba mais sobre:
-
-    Movimentação de audiência, cancelamento e redesignação: :doc:`projud_47_movimentacaoaudiencia`
-
-
-Encerramento da Instrução Criminal
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Concluídas a oitiva da vítima (se existente nos autos), a inquirição das testemunhas de acusação e defesa, e o interrogatório do réu ou ré, as partes têm a oportunidade de apresentar requerimentos finais. 
-Podem solicitar a realização de diligências, desde que sua necessidade decorra de circunstâncias ou fatos apurados na instrução. (CPP, art. 402).
-
-.. seealso:: Saiba mais sobre:
-
-    Inserção de termo de audiência e registro da instrução: :doc:`projud_47_movimentacaoaudiencia`
-
-
-
-Fase de Alegações Finais
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Encerrada a instrução criminal, as partes devem apresentar suas derradeiras alegações antes da sentença do Juiz. 
-Caso qualquer das partes deixe de oferecer as alegações finais, recomenda-se à secretaria proceder a nova intimação via ato ordinatório, sem prejuízo de tornar os autos conclusos ao Juiz para deliberação. 
-
-Depositados os memoriais, tanto da acusação quanto da defesa, os autos devem ser remetidos ao Juiz para prolação da sentença.
-
-.. seealso:: Saiba mais sobre:
-
-    Como movimentar os autos após a audiência e encaminhar conclusos ao juiz: :doc:`projud_35_enviarconcluso`
+Encerrada a instrução criminal, as partes são instadas a oferecer suas derradeiras alegações, antes da sentença do Juiz.
+Caso qualquer das partes deixe de oferecer as alegações finais, recomenda-se à secretaria proceder a nova intimação, via ato ordinatório, sem prejuízo de tornar os autos conclusos ao Juiz para deliberação.
+Depositados os memoriais, tanto da acusação quanto da defesa, os autos devem ser feitos conclusos ao Juiz para proferir sentença.

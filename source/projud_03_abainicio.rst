@@ -57,4 +57,3 @@ Ao final da aba, o sistema exibe:
 Observação:
 
 > A estrutura e funcionalidades da aba **Início** são as mesmas tanto na **área cível** quanto na **área criminal**.
-

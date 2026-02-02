@@ -57,7 +57,7 @@ Níveis disponíveis:
 3. Uma tarja será exibida com a mensagem:
    - *"Movimentação sem visibilidade externa"*
 
-**Importante:**  
+**Importante:**
 A movimentação continuará visível **somente para o cartório**. Para reverter, basta acessar novamente e permitir a visibilidade externa.
 
 Resumo
@@ -70,4 +70,3 @@ No sistema ProJUDI, você pode configurar sigilo em três níveis:
 3. **Movimentações específicas**
 
 Isso permite atender às determinações legais, proteger dados sensíveis e garantir o controle de acesso adequado aos processos.
-

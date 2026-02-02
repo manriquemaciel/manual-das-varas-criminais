@@ -76,4 +76,3 @@ Com a **análise múltipla**, é possível:
 - Movimentar em lote para várias finalidades
 
 Essa funcionalidade reduz o tempo de trabalho, aumenta a eficiência e organiza o fluxo de tramitação de forma automatizada.
-

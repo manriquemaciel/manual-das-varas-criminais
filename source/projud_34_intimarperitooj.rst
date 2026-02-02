@@ -44,8 +44,7 @@ Este procedimento é utilizado, por exemplo, **quando o cumprimento de um mandad
 Resumo
 --------
 
-✅ Intimações de **peritos** e **oficiais de justiça** são realizadas a partir da movimentação base  
-✅ O perito precisa estar **previamente habilitado** no processo  
-✅ O oficial de justiça deve estar **vinculado ao mandado**  
+✅ Intimações de **peritos** e **oficiais de justiça** são realizadas a partir da movimentação base
+✅ O perito precisa estar **previamente habilitado** no processo
+✅ O oficial de justiça deve estar **vinculado ao mandado**
 ✅ A intimação gera uma **movimentação automática no processo**
-

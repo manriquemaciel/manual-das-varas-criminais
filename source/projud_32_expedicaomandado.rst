@@ -105,9 +105,8 @@ Confirmação
 Resumo
 --------
 
-✅ Expedição de mandados via sistema Projudi  
-✅ Envio automático à Central de Mandados  
-✅ Opção de digitação ou inserção de modelo  
-✅ Inclusão de documentos obrigatórios  
+✅ Expedição de mandados via sistema Projudi
+✅ Envio automático à Central de Mandados
+✅ Opção de digitação ou inserção de modelo
+✅ Inclusão de documentos obrigatórios
 ✅ Assinatura e controle de leitura do mandado
-

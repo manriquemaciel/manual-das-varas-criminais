@@ -85,9 +85,8 @@ Resumo
 
 A **citação eletrônica** via ProJUDI possibilita:
 
-✅ Comunicação ágil com entes cadastrados no sistema  
-✅ Geração automatizada de mandados com contrafé  
+✅ Comunicação ágil com entes cadastrados no sistema
+✅ Geração automatizada de mandados com contrafé
 ✅ Registro e controle da entrega pelo sistema
 
 > Essa funcionalidade é amplamente utilizada para citar **entes públicos**, como **municípios, estados, INSS, bancos** e **empresas conveniadas** com citação online.
-

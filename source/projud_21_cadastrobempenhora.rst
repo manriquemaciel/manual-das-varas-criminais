@@ -55,7 +55,7 @@ Confirmação
 
 Após a conclusão do cadastro:
 
-- Uma mensagem de sucesso será exibida:  
+- Uma mensagem de sucesso será exibida:
   *“Dados registrados com sucesso”*
 
 - O auto de penhora será listado na aba **Informações Adicionais**
@@ -70,4 +70,3 @@ Essa funcionalidade permite:
 - Organizar as informações patrimoniais do processo
 
 O recurso é especialmente importante nos processos de **execução**, **cumprimento de sentença**, ou em **processos criminais com apreensão de bens**.
-

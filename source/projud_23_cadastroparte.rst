@@ -22,7 +22,10 @@ Adicionando uma Nova Parte
 ### Tela de Seleção de Parte
 
 - Você pode buscar por:
-  - CPF
+
+Cpf
+~~~
+
   - Nome
   - Nome da mãe
   - Tipo (pessoa física, jurídica, órgão, entidade)
@@ -83,11 +86,10 @@ Resumo
 
 A funcionalidade de **cadastro de partes** permite:
 
-✅ Adicionar partes ao processo (físicas ou jurídicas)  
-✅ Corrigir dados pessoais e regularizar CPF/CNPJ  
-✅ Alterar o polo processual  
-✅ Excluir (dar baixa) ou reativar partes  
-✅ Atender às exigências do **CNJ** com transparência e rastreabilidade  
+✅ Adicionar partes ao processo (físicas ou jurídicas)
+✅ Corrigir dados pessoais e regularizar CPF/CNPJ
+✅ Alterar o polo processual
+✅ Excluir (dar baixa) ou reativar partes
+✅ Atender às exigências do **CNJ** com transparência e rastreabilidade
 
 Essas ações garantem um cadastro processual **completo, válido e atualizado** no ProJUDI.
-

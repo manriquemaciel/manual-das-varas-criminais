@@ -54,4 +54,3 @@ Esta funcionalidade é complementar às análises já vistas nas aulas anteriore
 - **Interrupção de Prazo**
 
 A aba **Prazos** agrega todas essas movimentações em uma única visualização, facilitando o gerenciamento do processo.
-

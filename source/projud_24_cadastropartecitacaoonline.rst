@@ -66,9 +66,8 @@ Resumo
 
 O cadastro correto da parte com **citação online** é essencial para:
 
-✅ Garantir que empresas e órgãos recebam comunicações judiciais eletrônicas  
-✅ Automatizar citações e intimações  
+✅ Garantir que empresas e órgãos recebam comunicações judiciais eletrônicas
+✅ Automatizar citações e intimações
 ✅ Reduzir custos e acelerar a tramitação processual
 
 Essa funcionalidade é indispensável para processos envolvendo **grandes demandantes**.
-

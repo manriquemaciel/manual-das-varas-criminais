@@ -10,7 +10,7 @@ Identificação de Processos
 Os processos podem ser localizados de diversas formas:
 
 - **Número do processo**: digite e filtre diretamente
-- **Por grupos**: 
+- **Por grupos**:
   - Analista
   - Magistrado
   - Advogado
@@ -46,7 +46,6 @@ Análise Unitária
 Sem a remoção da pendência, não é possível movimentar o processo. O sistema apresentará a mensagem:
 
 Movimentação não permitida. O processo possui juntadas pendentes a serem analisadas.
-
 
 Após dispensar a pendência, é possível:
 
@@ -88,11 +87,9 @@ Mensagem de sucesso:
 
 Conclusões analisadas com sucesso.
 
-
 Resumo
 -------
 
 - A **análise unitária** permite examinar e movimentar processos individualmente.
 - A **análise múltipla** agiliza a tramitação de processos semelhantes.
 - O uso de pendências e filtros ajuda a organizar e priorizar o fluxo de trabalho.
-

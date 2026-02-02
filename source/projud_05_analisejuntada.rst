@@ -67,4 +67,3 @@ Resumo
 - Utilize **Retorno de Conclusão** para tratar os processos que retornaram do magistrado.
 
 Essas duas filas são essenciais para o funcionamento do cartório e fazem parte da rotina diária de trabalho nas varas cíveis e criminais.
-

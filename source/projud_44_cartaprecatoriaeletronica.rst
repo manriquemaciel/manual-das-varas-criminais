@@ -80,4 +80,3 @@ Resumo
 - Cartas precatórias eletrônicas são tramitadas internamente entre comarcas que usam o Projudi.
 - O sistema permite **confeccionar, gerenciar, acompanhar e arquivar** todas as fases da carta.
 - A ferramenta é fundamental para a comunicação interjurisdicional eficiente e ágil dentro do mesmo sistema.
-

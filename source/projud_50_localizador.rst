@@ -68,4 +68,3 @@ Resumo
 - É útil em **intimações em lote**, **retorno de conclusões** e para **ações administrativas** específicas.
 
 Utilize o recurso para tornar sua rotina mais produtiva e os processos mais fáceis de localizar no sistema.
-

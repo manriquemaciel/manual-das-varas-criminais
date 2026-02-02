@@ -72,7 +72,7 @@ Exemplo Prático: Remessa ao Ministério Público
 Resultado
 ^^^^^^^^^^^^
 
-✅ O processo é remetido ao MP  
+✅ O processo é remetido ao MP
 ✅ Ainda é possível realizar outras ações, como:
    - Enviar Concluso
    - Fazer nova remessa à Defensoria
@@ -80,4 +80,3 @@ Resultado
 ⚠️ Observação:
 - **Remessas não bloqueiam** o processo para outras ações.
 - **Conclusões sim bloqueiam**: não é possível fazer intimações, citações, ou ordenar cumprimento enquanto o processo estiver concluso.
-

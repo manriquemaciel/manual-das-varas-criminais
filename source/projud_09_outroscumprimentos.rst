@@ -89,4 +89,3 @@ A aba **Outros Cumprimentos** funciona como:
 - Uma **rede de energia processual** para organizar e cumprir decisões que envolvam documentos diversos
 
 Essa aba é essencial para o bom andamento da secretaria e será aprofundada em aulas específicas sobre a expedição de documentos como mandados e alvarás.
-

@@ -88,4 +88,3 @@ A aba **Informações Processuais** permite ajustes fundamentais no cadastro do 
 - Organizar o acervo físico e eletrônico
 
 Essas ações garantem a **correção, transparência e rastreabilidade** da tramitação processual no ProJUDI.
-

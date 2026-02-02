@@ -66,4 +66,3 @@ Na aba **Processos**, o usuário encontra diversas opções que facilitam o acom
 
 **11. Cartas Precatórias Eletrônicas**
    - Será tema de uma **aula específica futura**.
-

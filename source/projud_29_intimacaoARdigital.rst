@@ -84,9 +84,8 @@ Resumo
 
 A **intimação pessoal via AR digital** permite:
 
-✅ Maior agilidade e rastreabilidade na comunicação processual  
-✅ Geração de AR digital e controle pela própria secretaria  
+✅ Maior agilidade e rastreabilidade na comunicação processual
+✅ Geração de AR digital e controle pela própria secretaria
 ✅ Registro automático na movimentação do processo
 
 Essa funcionalidade é essencial para processos que exigem intimações físicas, mesmo em meio eletrônico.
-

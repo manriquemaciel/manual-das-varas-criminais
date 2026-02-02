@@ -73,7 +73,7 @@ Na **tela principal do processo**, é possível:
 
 > Essas ações estão disponíveis no painel lateral da página do processo.
 
-⚠️ **Importante:**  
+⚠️ **Importante:**
 Mover um processo para a fila "Decisão" **não significa** que ele será automaticamente direcionado para o gabinete ou será incluído em uma minuta.
 
 Exemplo:
@@ -95,4 +95,3 @@ A aba **Filas Processuais** é uma ferramenta poderosa para:
 - Planejar o andamento dos processos com mais clareza
 
 Contudo, ela **não substitui as movimentações formais** exigidas pelo sistema para o encaminhamento ao magistrado ou para atos processuais específicos.
-

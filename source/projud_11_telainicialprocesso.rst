@@ -66,4 +66,3 @@ A partir das próximas aulas, cada um desses itens será abordado de forma **det
 - Utilizar ferramentas de navegação e exportação
 
 Essa abordagem será válida tanto para **varas cíveis** quanto para **varas criminais**, destacando aquilo que for específico de cada área, sempre que necessário.
-

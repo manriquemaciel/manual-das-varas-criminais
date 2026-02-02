@@ -60,7 +60,7 @@ Resultado do Agendamento
 Após o agendamento:
 
 - Na **tela inicial do processo**, será gerada uma **pendência** de audiência.
-- A informação aparecerá como:  
+- A informação aparecerá como:
   ``Audiência Preliminar em aberto - [Data e horário]``
 - Em **Movimentações**, será registrada a movimentação de designação de audiência.
 
@@ -72,4 +72,3 @@ Com os recursos da aba **Audiências**, é possível:
 - Criar pautas manuais ou em lote para diferentes tipos de audiência.
 - Agendar facilmente um processo para um horário disponível.
 - Acompanhar o agendamento diretamente na tela do processo.
-

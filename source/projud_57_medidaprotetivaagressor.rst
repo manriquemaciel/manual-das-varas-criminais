@@ -41,4 +41,3 @@ Considerações Finais
 ----------------------
 
 Mesmo estando em fase de implantação, a estrutura do cadastro já segue o padrão do sistema Projudi e poderá, em breve, ser utilizada de forma completa.
-

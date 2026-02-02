@@ -19,7 +19,10 @@ Antes de realizar a remessa, é necessário verificar:
 ✅ **Cadastro das partes**:
    - Todas as partes devem estar devidamente cadastradas com:
      - **Nome completo**
-     - **CPF/CNPJ**
+
+**Cpf/Cnpj**
+~~~~~~~~~~~~
+
      - **Advogado habilitado**
 
 Caso essas condições não sejam atendidas, o sistema **bloqueará** a remessa.
@@ -45,7 +48,7 @@ Resultado da Remessa
 
 Após a confirmação:
 
-✅ O processo será remetido com sucesso.  
+✅ O processo será remetido com sucesso.
 ✅ Aparecerá no topo da tela a seguinte **mensagem**:
    ::
 
@@ -54,4 +57,3 @@ Após a confirmação:
 ⚠️ **Restrições**:
 - O processo **fica bloqueado para movimentações**.
 - **Não é possível** inserir documentos, realizar intimações, conclusões ou outras movimentações enquanto ele estiver em trâmite na instância superior.
-

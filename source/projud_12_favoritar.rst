@@ -81,7 +81,7 @@ Lembretes são usados para criar alertas específicos dentro do processo.
     - Marcar como concluído
     - Excluir
 
-**Exemplo de uso:**  
+**Exemplo de uso:**
 - “Intimar por telefone”
 - “Verificar cumprimento de prazo”
 - “Agendar audiência”
@@ -94,4 +94,3 @@ Essas ferramentas são ideais para melhorar a **comunicação interna**, **organ
 - **Favoritos:** triagem de prioridades
 - **Anotações:** marcações rápidas e padronizadas
 - **Lembretes:** alertas com data e conteúdo personalizado
-

@@ -1,42 +1,44 @@
-Encaminhar os autos ao Segundo Grau
-========================================
+11 - Encaminhar para o Segundo Grau (Cartório)
+===============================================
+
+11 - Encaminhar os autos ao Segundo Grau
+----------------------------------------
 
 Sendo recebida a Apelação ou o Recurso em Sentido Estrito, os autos deverão ser encaminhados imediatamente à segunda instância.
 
-11.1 – Dos prazos
------------------
+11.1 - Dos prazos
+~~~~~~~~~~~~~~~~~
 
-A Apelação e o Recurso em Sentido Estrito deverão ser encaminhados ao Segundo Grau no prazo de **05 (cinco) dias**, conforme:
+A apelação e o Recurso em Sentido Estrito deverão ser encaminhados ao Segundo Grau no prazo de 05 (cinco) dias, conforme art. 601 e 591, ambos do CPP.
 
-- Art. 601 do CPP (Apelação);  
-- Art. 591 do CPP (Recurso em Sentido Estrito).
+11.2 - Do procedimento
+~~~~~~~~~~~~~~~~~~~~~~
 
-11.2 – Do procedimento
-----------------------
+Após finalizar o procedimento de interposição recursal, a Secretaria encaminhará os autos ao Segundo Grau.
 
-Após finalizar o procedimento de interposição recursal, a Secretaria deverá encaminhar os autos ao Segundo Grau.  
+Para tanto:
+1) verificar e retirar as pendências, tais como: “retorno de conclusão”, “parte sem CPF cadastrado” ou “Ação Penal sem Denúncia (clique para cadastrar)”, etc.
+2) Após, ir na aba “Movimentações”, clicar na movimentação correspondente à decisão de admissibilidade recursal e “Movimentar a Partir Desta Movimentação” >
+3) Em seguida, na aba “Ações”, no canto esquerdo da tela e clicar em “Autos ao Tribunal de Justiça”.
 
-**Passos práticos:**
+Clicar em “Próximo passo” até chegar à tela de Informações iniciais.
 
-1. Verificar e retirar eventuais pendências, tais como:
-   - “Retorno de conclusão”;
-   - “Parte sem CPF cadastrado”;
-   - “Ação Penal sem Denúncia (clique para cadastrar)”, entre outras.  
-2. Acessar a aba **“Movimentações”**, localizar a decisão de admissibilidade recursal e clicar em **“Movimentar a Partir Desta Movimentação”**.  
-3. Ir na aba **“Ações”**, no canto esquerdo da tela, e selecionar **“Autos ao Tribunal de Justiça”**.
+Preencher todos os campos obrigatórios.
+- Clicar em “Próximo passo”.
 
-11.3 – Localizador do processo após o envio ao Segundo Grau
------------------------------------------------------------
+Na aba Partes do recurso: = Informar corretamente o Recorrente. = Informar corretamente o Recorrido.
 
-Após a remessa dos autos à segunda instância, o processo ficará com o **Status: “EM INSTÂNCIA SUPERIOR”**.  
+Clicar em “Próximo” até a aba Finalização.
 
-.. note::
+- Selecionar a matéria do recurso.
 
-   É importante que, além do status, a Secretaria mantenha um **localizador específico** para tais processos, a fim de proporcionar maior controle.  
-   A Corregedoria-Geral de Justiça do Amazonas (CGJ/AM) determina que, nas inspeções judiciais, o Juízo de 1º Grau **diligencie sobre o julgamento de recursos remetidos há mais de 01 (um) ano**.
+- Finalizar a movimentação.
 
-Referência normativa
---------------------
+Autos devidamente enviados ao Segundo Grau
 
-- **Provimento nº 481/2024 – CGJ/AM** (art. 14, IV, do Manual de Correições):  
-  “IV – Nos processos remetidos à segunda instância há mais de 01 (um) ano, o provimento deve determinar ao Diretor/Escrivão para verificar o julgamento do recurso.”
+11.3 - Localizado do processo após o envio ao Segundo Grau
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Após remessa dos autos à segunda instância o processo ficará com o Status de “EM INSTÂNCIA SUPERIOR”
+
+É importante que além do status a Secretaria possua um localizador específico para tais processos, proporcionando maior controle, visto que o a CGJ/AM determina que nas inspeções judiciais o Juízo de 1º Grau diligencie acerca do julgamento do recurso remetido há mais de 01 (um) ano.

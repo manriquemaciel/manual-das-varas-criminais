@@ -47,4 +47,3 @@ O que acontece após a interrupção?
 --------------------------------------
 
 🕒 O **sistema Projudi recalcula o prazo** de forma automática, preservando a parte restante da contagem original.
-

@@ -43,9 +43,8 @@ Resumo
 
 A funcionalidade de habilitação de advogado permite:
 
-✅ Associar corretamente representantes legais às partes processuais  
-✅ Registrar defensores públicos ou advogados particulares  
+✅ Associar corretamente representantes legais às partes processuais
+✅ Registrar defensores públicos ou advogados particulares
 ✅ Garantir a atuação jurídica no processo conforme a legislação
 
 Essa etapa é essencial para assegurar a **representação adequada** das partes nos autos.
-

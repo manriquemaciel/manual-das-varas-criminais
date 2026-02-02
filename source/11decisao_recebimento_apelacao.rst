@@ -1,101 +1,89 @@
-Recebimento da Apelação
-=============================
+10 - Decisão Recebimento Apelação
+====================================
 
-A Apelação Criminal é um recurso interposto em face de decisões de mérito criminais, sendo a mais comum a Sentença.  
-Diferentemente da sistemática do Processo Civil, no Processo Penal quem exerce o **primeiro juízo de admissibilidade recursal** é o Juízo de 1º Grau.  
+10 - Recebimento da Apelação
+----------------------------
 
-Além disso, a interposição da Apelação no Processo Penal possui múltiplas formas de apresentação.
+A Apelação Criminal é um recurso interposto em face de decisões de mérito criminais, sendo a mais comum a Sentença.
+Diferentemente da sistemática do Direito Processual Civil, no Processo Penal quem ainda exerce o primeiro juízo de admissibilidade recursal da Apelação é o Juízo de 1º Grau.
+Além disso, a interposição da Apelação no Processo Penal possui múltiplas formas de interposição, veremos.
 
-10.1 – Interposição com fulcro no art. 600, §4º do CPP
-------------------------------------------------------
+10.1 - Interposição da Apelação com fulcro no art. 600, §4º do CPP
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Nessa hipótese, a parte manifesta apenas a intenção de apelar, por meio de petição ou termo (nos casos de sentença proferida em AIJ ou Sessão de Julgamento), com base no art. 600, §4º, do CPP:
+Nesse caso a parte manifesta apenas a intenção de apelar por meio de petição ou conseguida em termo, nos casos de sentença proferida em AIJ/Sessão de Julgamento, com base no §4º do art. 600 do CPP, que dispõe:
 
-.. epigraph::
+"Se o apelante declarar, na petição ou no termo, ao interpor a apelação, que deseja arrazoar na superior instância serão os autos remetidos ao tribunal ad quem onde será aberta vista às partes, observados os prazos legais, notificadas as partes pela publicação oficial.”
 
-   “Se o apelante declarar, na petição ou no termo, ao interpor a apelação, que deseja arrazoar na superior instância serão os autos remetidos ao tribunal ad quem onde será aberta vista às partes, observados os prazos legais, notificadas as partes pela publicação oficial.”  
+A partir de então, procederá o Juízo de 1º grau:
 
-**Providências da Secretaria:**
+Verificar a tempestividade da interposição (5 dias após intimação da sentença).
 
-- Verificar a **tempestividade** da interposição (5 dias após intimação da sentença).  
-- Receber a apelação (se presentes os requisitos de admissibilidade).  
-- Declarar expressamente o recebimento nos autos e determinar a **remessa imediata ao Juízo ad quem**.
+Receber a apelação, caso presentes os requisitos de admissibilidade, declarando expressamente nos autos e determinando a remessa imediata ao Juízo ad quem.
 
-10.2 – Apelação já interposta com as respectivas razões
--------------------------------------------------------
+10.2 - Apelação já interposta com as respectivas razões
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-A parte apresenta a petição de apelação **já instruída com as razões** no mesmo momento.
+A parte apresenta a petição de apelação já instruída com os fundamentos jurídicos (razões) no mesmo momento.
 
-**Procedimentos:**
+Antes de submeter à análise da autoridade judiciária, recomenda-se que a própria Secretaria, com fulcro no art. 93, inciso XIV da CF/88, já faça a remessa/intimação da parte contrária para apresentar contrarrazões no prazo de 08 (oito) dias para o Ministério Público, Assistente de Acusação e Defesa constituída por advogado particular ou 16 (dezesseis) dias para réu assistido pela Defensoria Pública.
 
-1. A Secretaria deve intimar a parte contrária para apresentar contrarrazões:  
-   - 08 dias para MP, Assistente de Acusação ou Defesa com advogado particular;  
-   - 16 dias para réu assistido pela Defensoria Pública.  
-2. Após o decurso do prazo (com ou sem contrarrazões), os autos são conclusos ao magistrado para análise de admissibilidade.  
-3. **Recebido o recurso:** remessa ao Juízo ad quem.  
-4. **Não recebido o recurso:** intimar as partes para ciência. Possibilidade de interposição de **Recurso em Sentido Estrito** (art. 581, XV, do CPP).  
-   - Se decorrido o prazo sem interposição: certificar o trânsito em julgado da sentença e adotar as providências posteriores.
+Após, decorrido o prazo, com ou sem a apresentação das contrarrazões, façam-se os autos conclusos para análise de admissibilidade recursal pelo magistrado.
 
-10.3 – Apelação sem razões e sem invocação do §4º
--------------------------------------------------
+Recebido o recurso, determina-se a remessa ao Juízo ad quem.
 
-Nessa hipótese, a parte apenas assina o termo de apelação, com fulcro no art. 600, caput, do CPP:
+Em caso de não recebimento do recurso, as partes devem ser intimadas para ciência, oportunizando a interposição de recurso em sentido estrito (art. 581, inciso XV, do CPP). Após decorrido o prazo sem interposição, certifica-se o trânsito em julgado da sentença e procede-se às providências posteriores.
 
-.. epigraph::
+10.3 - Apelação interposta sem razões, mas sem invocação do art. 600, §4º
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-   “Assinado o termo de apelação, o apelante e, depois dele, o apelado terão o prazo de oito dias cada um para oferecer razões, salvo nos processos de contravenção, em que o prazo será de três dias.”  
+A parte poderá interpor apelação com fulcro no art. 600, caput, do CPP. Que dispõe:
 
-**Providências:**
+“Assinado o termo de apelação, o apelante e, depois dele, o apelado terão o prazo de oito dias cada um para oferecer razões, salvo nos processos de contravenção, em que o prazo será de três dias.”
 
-- O Juízo de 1º Grau recebe a apelação e **intima o Apelante** para apresentar as razões no prazo legal.  
-- **Se o Apelante apresentar razões:** intimar o Apelado para contrarrazões; após o prazo, remeter os autos ao Tribunal.  
-- **Se o Apelante não apresentar razões:** certificar a inércia e remeter os autos ao Tribunal (art. 601 do CPP).  
-- **Se o Apelado não apresentar contrarrazões:** certificar o decurso do prazo e remeter ao Tribunal.
+Nesses casos, o Juízo de 1º Grau analisa os requisitos de admissibilidade recursal e tendo recebida a Apelação, intimará o Apelante para apresentar as razões no prazo legal.
 
-Quadro comparativo das hipóteses
---------------------------------
+Caso o Apelante apresente as razões, deve a secretaria intimar a parte contrária para apresentar contrarrazões e após remeter o processo ao Juízo ad quem.
+
+Caso o Apelante não apresente as razões dentro do prazo legal, o processo ainda assim será remetido ao Juízo ad quem, conforme previsão do art. 601 do CPP e entendimento jurisprudencial.
+
+Caso o Apelante apresente as razões e intimado, o Apelado não apresente as contrarrazões no prazo legal, o processo também será remetido ao Juízo ad quem, consoante art. 601 do CPP.
 
 .. list-table::
    :header-rows: 1
-   :widths: 25 35 20 30
+   :widths: 35 65
+
+   * - Situação
+     - Providência da Secretaria
+   * - Apelante apresenta as razões
+     - Intimar o Apelado para apresentar contrarrazões; após o prazo, remeter os autos ao Juízo ad quem.
+   * - Apelante não apresenta as razões no prazo legal
+     - Certificar a inércia e remeter os autos ao Juízo ad quem, conforme art. 601 do CPP.
+   * - Apelado não apresenta contrarrazões no prazo legal
+     - Certificar o decurso de prazo e remeter os autos ao Juízo ad quem, conforme art. 601 do CPP.
+
+Abaixo segue um quadro comparativo das hipóteses:
+
+.. list-table::
+   :header-rows: 1
+   :widths: 24 42 16 18
 
    * - Hipótese
      - Descrição
      - Base Legal
      - Providências da Secretaria
-   * - Interposição com fulcro no art. 600, §4º
-     - Parte manifesta apenas a intenção de apelar, declarando que apresentará razões na instância superior.
+   * - Interposição com fulcro no art. 600, §4º do CPP
+     - Parte manifesta apenas a intenção de apelar e declara que apresentará razões na instância superior. Juízo de 1º grau recebe a apelação e remete imediatamente ao Juízo ad quem.
      - Art. 600, §4º do CPP
-     - Verifica a tempestividade, certifica e remete imediatamente ao Tribunal.
+     - Verifica a tempestividade, certifica e remete os autos ao Juízo ad quem.
    * - Apelação já interposta com razões
-     - Apelação já instruída com razões; Secretaria intima a parte contrária para contrarrazões; após prazo, autos ao juiz para admissibilidade e remessa.
+     - Apelação é apresentada com razões. A Secretaria já intima a parte contrária para apresentar contrarrazões. Após, os autos são conclusos para análise de admissibilidade pelo magistrado e remetidos ao Tribunal.
      - Art. 600, caput do CPP; CF/88, art. 93, XIV
-     - Intima parte contrária para contrarrazões (8 ou 16 dias); após, conclusão ao juiz e remessa ao Tribunal.
+     - Intima parte contrária para contrarrazões (8 ou 16 dias - DPE). Após, faz conclusão para admissibilidade e remessa ao Juízo ad quem.
    * - Apelação sem razões e sem invocação do §4º
-     - Apelação apenas interposta; apelante intimado para razões; com ou sem razões, após contrarrazões ou decurso, remessa ao Tribunal.
+     - Apelação é interposta sem razões e sem menção ao §4º. Juízo de 1º grau deve intimar o Apelante para apresentar razões. Com ou sem razões, e após contrarrazões ou decurso, o processo será remetido ao Juízo ad quem.
      - Art. 600, caput e art. 601 do CPP
-     - Intima o Apelante para razões; após razões ou inércia, certifica e remete ao Tribunal.
+     - Intima o Apelante para razões. Após razões (ou inércia), certifica e remete ao Juízo ad quem, com ou sem contrarrazões.
 
 .. warning::
-
-   Nos casos de réus presos provisórios, em obediência à **Resolução CNJ nº 113/2010**, é necessário expedir a **Guia de Execução Provisória** antes da remessa da Apelação ao Tribunal.  
-   O Juiz de 1º Grau deve consignar expressamente esse comando na decisão de admissibilidade.
-
-Requisitos de admissibilidade recursal
---------------------------------------
-
-Para que a apelação seja admitida, devem estar presentes:
-
-- **Tempestividade**;  
-- **Legitimidade** da parte;  
-- **Interesse recursal**;  
-- **Cabimento** do recurso;  
-- **Regularidade formal**;  
-- **Inexistência de fato impeditivo ou extintivo**.
-
-Referências
------------
-
-1. CPP, arts. 591, 600 e 601.  
-2. CF/88, art. 93, XIV (delegação a servidores para atos de mero expediente).  
-3. Art. 603 do CPP – findos os prazos, autos remetidos ao Tribunal com ou sem razões (prazo de 5 dias; 30 dias em caso específico).
+   Nos casos em que existam réus presos provisórios, em obediência a Resolução CNJ nº 113/2010, é necessário que, antes de remetida a Apelação ao Tribunal, seja de imediato expedida a Guia de Execução Provisória, devendo o Juiz de 1º grau consignar expressamente o respectivo comando na Decisão de Admissibilidade Recursal.

@@ -63,7 +63,6 @@ Mensagem:
 
 Processos movimentados com sucesso.
 
-
 Verificação
 ------------
 
@@ -84,4 +83,3 @@ Resumo
   - Citação + remessa
   - Intimação + arquivamento
 - Gera **economia de tempo**: dezenas de movimentações em poucos minutos
-

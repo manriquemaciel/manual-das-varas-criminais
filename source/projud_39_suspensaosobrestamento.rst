@@ -57,4 +57,3 @@ Quando a causa da suspensão cessar, será necessário **encerrar o status suspe
 5. Clique em **Finalizar**.
 
 ✅ A movimentação será registrada e o **processo voltará ao seu estado normal** de tramitação.
-

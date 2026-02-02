@@ -90,4 +90,3 @@ A aba **Mesa do Escrivão Criminal** é uma poderosa ferramenta de **gestão da 
 - Detecção proativa de riscos de prescrição
 - Priorização no andamento de feitos sensíveis
 - Apoio direto à chefia de secretaria e gabinete
-

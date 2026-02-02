@@ -58,4 +58,3 @@ Resultado
 --------------
 
 A juntada do Habeas Corpus foi realizada com sucesso. A movimentação correspondente é registrada e vinculada ao processo principal, com visibilidade em todas as abas relevantes.
-

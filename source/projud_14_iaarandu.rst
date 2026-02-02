@@ -30,12 +30,12 @@ Como utilizar a funcionalidade:
 
 Exemplos práticos:
 
-- **Processo 1**:  
-  - Análise realizada  
+- **Processo 1**:
+  - Análise realizada
   - Resultado: *"Nenhum processo semelhante encontrado"*
 
-- **Processo 2**:  
-  - Análise realizada  
+- **Processo 2**:
+  - Análise realizada
   - Resultado: *"Foi encontrado um processo com 93.58% de similaridade"*
 
 Informações fornecidas:
@@ -70,4 +70,3 @@ A **IA Arandu** é uma ferramenta de apoio à gestão processual, que:
 - Colabora com o enfrentamento de **demandas predatórias**
 
 Esse recurso está disponível **em todos os processos**, diretamente na tela principal.
-

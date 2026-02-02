@@ -13,7 +13,7 @@ A função **Juntar Documento** é usada principalmente para:
 - **Inserção de documentos administrativos**
 - **Anexos sem movimentação processual formal**
 
-⚠️ **Importante:**  
+⚠️ **Importante:**
 Movimentações realizadas por esse botão **não contabilizam para a produtividade**, por isso não são recomendadas para atos processuais formais.
 
 Como utilizar a funcionalidade
@@ -44,7 +44,6 @@ Mensagem de sucesso:
 
 Dados registrados com sucesso.
 
-
 Verificação
 ------------
 
@@ -62,4 +61,3 @@ A funcionalidade **Juntar Documento** é indicada para anexos administrativos e 
 - Não interfere na contagem de produtividade
 - Serve como complemento ao processo
 - Documentos inseridos ficam visíveis no histórico de movimentações
-

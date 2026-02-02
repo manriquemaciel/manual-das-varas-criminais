@@ -83,9 +83,8 @@ Resumo
 
 A contagem automática de prazos no ProJUDI oferece:
 
-✅ Transparência nos atos processuais  
-✅ Precisão nos prazos, com exclusão de feriados e fins de semana  
+✅ Transparência nos atos processuais
+✅ Precisão nos prazos, com exclusão de feriados e fins de semana
 ✅ Facilidade para análise e movimentação a partir das pendências
 
 > 📌 Utilize sempre a aba **"Detalhamento do Cálculo do Prazo"** para uma visualização segura e juridicamente respaldada dos prazos em curso.
-

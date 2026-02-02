@@ -50,8 +50,7 @@ Na tela de envio, preencha as seguintes informações:
 Resultado
 -----------
 
-✅ O processo é movimentado com sucesso  
-✅ A conclusão aparece na **fila do gabinete do magistrado**, aguardando análise  
-✅ O **agrupador** facilita a triagem das conclusões  
+✅ O processo é movimentado com sucesso
+✅ A conclusão aparece na **fila do gabinete do magistrado**, aguardando análise
+✅ O **agrupador** facilita a triagem das conclusões
 ✅ O juiz poderá despachar, decidir ou sentenciar o processo
-

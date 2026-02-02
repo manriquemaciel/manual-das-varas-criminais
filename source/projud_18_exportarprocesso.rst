@@ -74,4 +74,3 @@ A função **Exportar Processo** oferece total controle sobre o que será gerado
 - Conferência de prazos
 - Compartilhamento com partes
 - Consulta offline
-

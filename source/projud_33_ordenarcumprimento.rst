@@ -69,8 +69,7 @@ Diferente dos documentos assinados pela secretaria, **documentos que exigem assi
 Resumo
 --------
 
-✅ Ordenar Cumprimentos é um recurso versátil do Projudi  
-✅ Permite expedir documentos como mandados, alvarás, cartas e guias  
-✅ Em varas criminais, há documentos específicos como mandado de prisão e guia de recolhimento  
-✅ Documentos como **editais** devem ser **encaminhados para assinatura judicial**  
-
+✅ Ordenar Cumprimentos é um recurso versátil do Projudi
+✅ Permite expedir documentos como mandados, alvarás, cartas e guias
+✅ Em varas criminais, há documentos específicos como mandado de prisão e guia de recolhimento
+✅ Documentos como **editais** devem ser **encaminhados para assinatura judicial**

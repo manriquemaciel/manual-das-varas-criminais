@@ -42,4 +42,3 @@ Observações
 
 - O arquivamento definitivo é recomendado apenas quando **todas as etapas processuais estiverem encerradas**.
 - O arquivamento provisório é útil em situações que dependem de prazo ou manifestação futura.
-
