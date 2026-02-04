@@ -1,96 +1,112 @@
-===================================================
+.. coding: utf-8
+
 Favoritar, Anotações e Lembretes
-===================================================
+===============================
 
-Nesta aula, vamos conhecer três ferramentas muito úteis para organização e comunicação dentro do processo digital no sistema ProJUDI:
+Nesta aula, são apresentadas três ferramentas fundamentais para **organização**, **gestão de prioridades** e **comunicação interna** no processo digital do sistema ProJUDI:
 
-- **Favoritar**
-- **Anotações nos Autos**
-- **Lembretes**
+- **Favoritar processos**;
+- **Anotações nos autos**;
+- **Lembretes**.
 
-Esses recursos funcionam como os antigos post-its nos autos físicos, agora integrados digitalmente ao sistema.
+Esses recursos funcionam como os antigos *post-its* dos autos físicos, agora integrados de forma estruturada ao ambiente digital.
 
-Favoritar Processos
----------------------
+Favoritar processos
+-------------------
 
-O recurso de favoritos permite marcar processos com diferentes níveis de prioridade para facilitar a triagem e organização da rotina.
+O recurso **Favoritar** permite marcar processos com diferentes níveis de relevância, facilitando a triagem e a organização da rotina de trabalho.
 
-**Como adicionar um favorito:**
+Como adicionar um favorito
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Clique na **estrela** no topo da tela do processo.
-2. Na tela *Adicionar Favorito*:
-   - Escolha a **relevância**: alta, média ou baixa
-   - Descreva o motivo do favoritamento (ex: *Prioridade pessoal*, *Réu preso com 90+ dias*, etc.)
-3. Clique em **Salvar**
+1. Clique no ícone de **estrela**, localizado no topo da tela do processo;
+2. Na janela *Adicionar Favorito*:
+   - Selecione a **relevância**: alta, média ou baixa;
+   - Descreva o motivo do favoritamento (ex.: *Prioridade pessoal*, *Réu preso há mais de 90 dias*, etc.);
+3. Clique em **Salvar**.
 
-**Visualização:**
+Visualização
+^^^^^^^^^^^^
 
-- A estrela ficará **amarela** indicando que o processo está favoritado
-- Ao passar o cursor sobre a estrela, é possível visualizar:
-  - A descrição
-  - A relevância definida
+- A estrela ficará destacada em **amarelo**, indicando que o processo está favoritado;
+- Ao posicionar o cursor sobre a estrela, o sistema exibirá:
+  - A descrição informada;
+  - O nível de relevância atribuído.
 
-**Como encontrar os processos favoritados:**
+Como localizar processos favoritados
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Vá até a **aba "Processos"**
-2. Clique em **"Favoritos"**
-3. Uma lista será exibida com:
-   - Número do processo
-   - Relevância
-   - Descrição
+1. Acesse a aba **Processos**;
+2. Clique na opção **Favoritos**;
+3. Será exibida uma lista contendo:
+   - Número do processo;
+   - Relevância;
+   - Descrição do favoritamento.
 
-Anotações nos Autos
----------------------
+Anotações nos autos
+-------------------
 
-As anotações permitem registrar informações padronizadas dentro do processo.
+As **anotações** permitem registrar informações padronizadas e visíveis diretamente na tela inicial do processo.
 
-**Como inserir uma anotação:**
+Como inserir uma anotação
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Clique no ícone de **caneta**
+1. Clique no ícone de **caneta**;
 2. Na tela de anotações:
-   - Clique na **seta** para selecionar uma anotação pré-definida pelo sistema (ex: *Liminar*, *Tutela antecipada*, *Embargos*, etc.)
-   - Clique em **Salvar**
-3. As anotações aparecerão destacadas em **verde** na tela inicial do processo
+   - Clique na **seta** para selecionar uma anotação pré-definida pelo sistema
+     (ex.: *Liminar*, *Tutela antecipada*, *Embargos*, etc.);
+   - Clique em **Salvar**.
 
-> É possível adicionar múltiplas anotações, cada uma representando uma situação processual relevante.
+As anotações passarão a ser exibidas em **destaque na cor verde** na tela inicial do processo.
 
-⚠️ **Observação:** Não há uma aba central para listar todas as anotações feitas em todos os processos.
+.. note::
+
+   É possível inserir múltiplas anotações no mesmo processo, cada uma representando
+   uma situação processual relevante.
+
+.. warning::
+
+   O sistema não possui uma aba centralizada para listagem global de todas as
+   anotações realizadas em diferentes processos.
 
 Lembretes
-----------
+---------
 
-Lembretes são usados para criar alertas específicos dentro do processo.
+Os **lembretes** são utilizados para criar alertas personalizados vinculados ao processo.
 
-**Como adicionar um lembrete:**
+Como adicionar um lembrete
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Vá até a aba **Informações Gerais**
-2. Clique em **"Novo Lembrete"**
+1. Acesse a aba **Informações Gerais**;
+2. Clique em **Novo Lembrete**;
 3. Preencha os campos:
-   - Assunto (ex: *Semana de Conciliação 2024*)
-   - Descrição livre
-4. Clique em **Salvar**
+   - **Assunto** (ex.: *Semana de Conciliação 2024*);
+   - **Descrição** livre;
+4. Clique em **Salvar**.
 
-**O lembrete aparecerá:**
+Exibição dos lembretes
+^^^^^^^^^^^^^^^^^^^^^^
 
-- Na parte superior central da tela do processo, em **texto laranja destacado**
-- Na aba **"Início"**, opção **"Lembretes"**, onde você encontra:
-  - Todos os lembretes ativos
-  - Histórico de lembretes adicionados
-  - Possibilidade de:
-    - Encaminhar
-    - Marcar como concluído
-    - Excluir
+O lembrete será exibido:
 
-**Exemplo de uso:**
-- “Intimar por telefone”
-- “Verificar cumprimento de prazo”
-- “Agendar audiência”
+- Na parte superior central da tela do processo, em **texto destacado na cor laranja**;
+- Na aba **Início**, opção **Lembretes**, onde é possível:
+  - Visualizar todos os lembretes ativos;
+  - Consultar o histórico de lembretes;
+  - Encaminhar, marcar como concluído ou excluir lembretes.
+
+Exemplos de uso
+^^^^^^^^^^^^^^^
+
+- “Intimar por telefone”;
+- “Verificar cumprimento de prazo”;
+- “Agendar audiência”.
 
 Resumo
---------
+------
 
-Essas ferramentas são ideais para melhorar a **comunicação interna**, **organizar tarefas** e **personalizar a gestão dos processos**:
+As ferramentas apresentadas contribuem diretamente para a melhoria da rotina cartorária e da gestão processual:
 
-- **Favoritos:** triagem de prioridades
-- **Anotações:** marcações rápidas e padronizadas
-- **Lembretes:** alertas com data e conteúdo personalizado
+- **Favoritos:** organização e priorização de processos;
+- **Anotações:** marcações rápidas e padronizadas;
+- **Lembretes:** alertas personalizados para controle de prazos e providências.

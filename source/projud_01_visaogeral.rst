@@ -1,131 +1,148 @@
-==============================
+.. coding: utf-8
+
+.. raw:: pdf
+
+   PageBreak
+
 Sistema Projudi: Visão Geral
-==============================
+===========================
 
-Vantagens e Funcionalidades da Tela Externa
--------------------------------------------
+Vantagens e funcionalidades da tela externa
+--------------------------------------------
 
-O sistema **ProJUDI** é um programa de computador acessado via internet, com funcionamento simples e seguro. Seu principal objetivo é **agilizar a justiça**, **reduzir custos**, **aumentar a capacidade de processamento** e **facilitar o trabalho** de advogados, servidores e usuários em geral.
+O sistema **Projudi** é um sistema de processo judicial eletrônico acessado via internet, desenvolvido para **agilizar a prestação jurisdicional**, **reduzir custos operacionais**, **aumentar a capacidade de processamento** e **facilitar o trabalho** de magistrados, servidores, advogados e demais usuários do sistema de justiça.
 
-Vantagens do sistema:
+Seu funcionamento é simples, seguro e integralmente baseado em ambiente web.
 
-- Sistema sem barreiras ou fronteiras
-- Acesso aos processos de qualquer lugar com internet
-- Compatível com computadores, tablets e celulares
-- Certificação digital nativa (sem necessidade de token)
-- Automação de rotinas processuais
-- Rapidez na tramitação
-- Segurança de dados com controle de acesso e assinatura digital
-- Redundância de dados e controle antivírus
+**Principais vantagens do sistema:**
 
-Funcionalidades da tela inicial:
+- Acesso sem barreiras geográficas ou territoriais;
+- Consulta e movimentação processual a partir de qualquer local com conexão à internet;
+- Compatibilidade com computadores, tablets e dispositivos móveis;
+- Certificação digital nativa, dispensando o uso de token físico;
+- Automação de rotinas processuais;
+- Maior celeridade na tramitação dos feitos;
+- Segurança da informação com controle de acesso e assinatura digital;
+- Redundância de dados e proteção antivírus.
 
-- Link para cadastro de advogado com geração de certificado digital
-- Consulta pública por foro, número do processo, partes ou OAB
-- Solicitação de certidão negativa
-- Calendário com histórico de disponibilidade do sistema
-- Listagem de grandes demandantes (para citação/intimação online)
-- Contatos do suporte técnico
-- Notícias importantes do sistema
+**Funcionalidades disponíveis na tela inicial externa:**
 
-Demonstração de acesso:
+- Link para cadastro de advogados, com geração de certificado digital;
+- Consulta pública de processos por foro, número, partes ou OAB;
+- Solicitação de certidão negativa;
+- Calendário com histórico de disponibilidade do sistema;
+- Listagem de grandes demandantes (para fins de citação ou intimação eletrônica);
+- Contatos do suporte técnico;
+- Publicação de notícias e comunicados relevantes.
 
-1. Acesse o site do TJAM
-2. Clique no ícone ou link "Projudi"
-3. Navegue pelas funcionalidades da tela externa antes do login
+**Demonstração básica de acesso:**
 
-----
+1. Acessar o site institucional do TJAM;
+2. Clicar no ícone ou link “Projudi”;
+3. Navegar pelas funcionalidades da tela externa antes do login.
 
-Perfis do Sistema Projudi
---------------------------
+Perfis do sistema Projudi
+-------------------------
 
-Diferenças entre as áreas:
+O sistema Projudi possui **perfis distintos de atuação**, cujas funcionalidades variam conforme a competência da unidade jurisdicional.
 
-Área Cível:
+**Área Cível**
 
-- Mesa do Analista / Técnico
-- Início
-- Citações e Intimações
-- Análise de Juntada
-- Outros Cumprimentos
-- Lembretes
-- Filas Processuais
+Inclui, entre outras, as seguintes funcionalidades:
 
-Área Criminal:
+- Mesa do Analista / Técnico;
+- Início;
+- Citações e Intimações;
+- Análise de Juntadas;
+- Outros Cumprimentos;
+- Lembretes;
+- Filas Processuais.
 
-Inclui todos os itens da área cível, com acréscimos:
+**Área Criminal**
 
-- **Cumprimentos de Medidas**
-- **Mesa do Escrivão Criminal**
+A área criminal contempla todas as funcionalidades da área cível, acrescidas de recursos específicos, tais como:
 
-Aplicações:
+- **Cumprimentos de Medidas**;
+- **Mesa do Escrivão Criminal**.
 
-- Varas Criminais
-- Juizados Especiais Criminais (Violência Doméstica, Tráfico, Trânsito)
-- Vara da Infância e Juventude Criminal
-- Vara de Meio Ambiente Criminal
+**Aplicações da área criminal:**
 
-Área Cível abrange:
+- Varas Criminais;
+- Juizados Especiais Criminais (Violência Doméstica, Tráfico, Trânsito);
+- Vara da Infância e Juventude Criminal;
+- Vara de Meio Ambiente Criminal.
 
-- Varas Cíveis
-- Juizados Especiais Cíveis e da Fazenda Pública
-- Registros Públicos
-- Infância e Juventude Cível
-- Meio Ambiente Cível
+**Área Cível abrange, dentre outras unidades:**
 
-O curso é modular, considerando:
+- Varas Cíveis;
+- Juizados Especiais Cíveis e da Fazenda Pública;
+- Registros Públicos;
+- Infância e Juventude Cível;
+- Vara de Meio Ambiente Cível.
 
-- Perfil do juiz, assessor, técnico
-- Funcionalidades específicas de 1º e 2º grau
+O curso e o manual são estruturados de forma **modular**, considerando:
 
-----
+- O perfil do usuário (magistrado, assessor, servidor técnico);
+- As funcionalidades específicas do **1º e do 2º grau de jurisdição**.
 
-Principais Funcionalidades
----------------------------
+Principais funcionalidades do sistema
+--------------------------------------
 
-O sistema ProJUDI é **100% web**:
+O Projudi é um sistema **100% web**, o que significa que:
 
-- Acesso de qualquer local com internet
-- Não exige download, aplicativo, nem VPN
-- Certificado digital gerado no próprio sistema
+- Pode ser acessado de qualquer local com internet;
+- Não exige instalação de aplicativos ou programas;
+- Dispensa o uso de VPN;
+- Possui certificado digital gerado no próprio sistema.
 
-Funcionalidades destacadas:
+**Funcionalidades de destaque:**
 
-**1. Análise Múltipla de Processos**
+1. Análise múltipla de processos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Disponível em:
+Disponível nas seguintes abas:
 
-- Citações e Intimações
-- Decurso de Prazo
-- Análise de Juntadas
-- Retorno de Conclusão
+- Citações e Intimações;
+- Decurso de Prazo;
+- Análise de Juntadas;
+- Retorno de Conclusão.
 
-Exemplo:
+**Exemplo de uso:**
 
-- Selecionar processos
-- Clicar em *"Analisar em lote"*
-- Executar ações em massa: citar, intimar, suspender, arquivar
+- Selecionar múltiplos processos;
+- Clicar em *“Analisar em lote”*;
+- Executar ações em massa, tais como: citar, intimar, suspender ou arquivar processos.
 
-**2. Contagem de Prazos**
+2. Contagem automática de prazos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Disponível na aba *Prazos* do processo:
+Disponível na aba **Prazos** do processo:
 
-- Detalhamento automático da contagem
-- Início e término do prazo
-- Desconsideração de feriados
-- Visualização por clique na data de leitura
+- Exibição automática do início e término do prazo;
+- Desconsideração automática de feriados e finais de semana;
+- Detalhamento da contagem;
+- Visualização do prazo mediante clique na data de leitura.
 
-**3. Mesa do Escrivão Criminal**
+3. Mesa do Escrivão Criminal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Recursos exclusivos da área criminal:
+Ferramenta exclusiva da área criminal, destinada ao controle e monitoramento de feitos sensíveis, permitindo:
 
-- Listas de processos por categoria
-- Prescrições vencidas e a vencer
-- Monitoramento eletrônico
-- Prisões provisórias sem sentença (90+ dias)
+- Organização de processos por categorias;
+- Identificação de prescrições vencidas e a vencer;
+- Acompanhamento de monitoramento eletrônico;
+- Controle de prisões provisórias sem sentença há mais de 90 dias.
 
-**4. Prescrição e Decadência**
+4. Prescrição e decadência
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Acesso pelo menu *Informações Adicionais* > *Infrações Penais*
-- Tela de cadastro exibe: data do fato, denúncia, sentença
-- Detalhamento do cálculo da prescrição da pena
+Disponível no menu:
+
+**Informações Adicionais > Infrações Penais**
+
+Essa funcionalidade permite:
+
+- Cadastro e visualização da data do fato;
+- Registro da data do recebimento da denúncia;
+- Lançamento da data da sentença;
+- Visualização detalhada do cálculo da prescrição da pretensão punitiva ou executória.

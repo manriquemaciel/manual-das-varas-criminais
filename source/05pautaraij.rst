@@ -1,26 +1,45 @@
-05 - Pautar AIJ (Cartório)
-===========================
+.. coding: utf-8
 
-05 - Pautar AIJ
----------------
+05 - Pautar Audiência de Instrução e Julgamento – AIJ (Cartório)
+==============================================================
 
-Apesar de parecer algo rotineiro, organizar uma pauta eficiente é algo que demanda lógica e estratégia.
+1. Considerações iniciais
+-------------------------
 
-05.1 - Do Prazo
-~~~~~~~~~~~~~~~
+Embora possa aparentar tratar-se de atividade meramente rotineira, a organização da pauta de audiências de instrução e julgamento exige planejamento, lógica e estratégia, a fim de garantir eficiência, observância das prioridades legais e adequada gestão da unidade jurisdicional.
 
-Segundo o art. 400 do CPP, a audiência de instrução e julgamento deverá ocorrer em até 60 (sessenta) dias após a decisão que confirma o recebimento da denúncia e afasta as hipóteses de absolvição sumária ou reconhecimento de causas prejudiciais (ex: prescrição, decadência).
+1.1 Do prazo
+^^^^^^^^^^^^
 
-Obs: apesar do teor do art. 399 indique que “recebida a denúncia ou queixa, o juiz designará dia e hora para a audiência (...)”, esse comando deve ser interpretado sistematicamente com o conjunto normativo do própria lei processual penal, que estabelece um rito prévio, que é o da apresentação da resposta à acusação (art. 396) e a análise das preliminares, prejudiciais e hipóteses de absolvição sumária, podendo o juiz confirmar ou não o recebimento da denúncia (art. 397). Dessa forma, não há sentido lógico do ponto de vista do princípio da razoável duração do processo, que a AIJ seja pautada desde o recebimento da denúncia, posto que não se sabe se esse recebimento será confirmado posteriormente.
+Nos termos do art. 400 do Código de Processo Penal, a audiência de instrução e julgamento deverá ocorrer no prazo máximo de 60 (sessenta) dias, contado da decisão que confirma o recebimento da denúncia e afasta as hipóteses de absolvição sumária ou o reconhecimento de causas prejudiciais, como prescrição ou decadência.
 
-05.2 - Da organização da Pauta
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Embora o art. 399 do CPP disponha que, “recebida a denúncia ou queixa, o juiz designará dia e hora para a audiência”, tal comando deve ser interpretado de forma sistemática com o rito processual penal. Com efeito, a legislação prevê etapa prévia consistente na apresentação da resposta à acusação (art. 396 do CPP) e na análise de preliminares, prejudiciais e hipóteses de absolvição sumária (art. 397 do CPP), ocasião em que o magistrado pode confirmar ou não o recebimento da denúncia.
 
-A organização da pauta de audiências deve sempre observar as prioridades legais e normativas do CNJ, sendo as mais comuns em processos que envolvam: 1) réus presos provisoriamente pela unidade jurisdicional; 2) julgamento de crimes hediondos (art. 394-A do CPP); 3) violência contra a mulher (art. 394-A do CPP e art. 1.048, inciso II do CPC); 4) crimes contra idosos ou que figurem pessoas idosas na qualidade de rés (art. 71 do Estatuto do Idoso - Lei nº 10.741/2003 e Resolução nº 14/2007 CNJ e art. 1.048, inciso I do CPC); 5) portadores de doenças graves (art. 1.048, inciso I, do CPC); 6) pessoas com deficiência (art. 9º, inciso VII, da Lei nº 13.146/2015); 7) crianças ou adolescentes como vítimas ou testemunhas (art. 4º do ECA, art. 227 da CF/88 e Lei nº 13.431/2017 e art. 1.048, inciso II, do CPC); 8) vítimas ou testemunhas ameaçadas e protegidas pelo programa PROVITA/PPCAM (art. 19-A da Lei nº 9.807/1999 e Recomendação nº 07 do CNJ); 9) Incluídos na Meta 02, Meta 06, Meta 07 e processos antigos.
-É recomendável que a Secretaria não deixe represados processos nos localizadores/filas aguardando pautar audiências, recomendação essa que foi objeto de orientações do CNJ nas inúmeras inspeções realizadas.
+Assim, não se mostra razoável, sob a ótica do princípio da duração razoável do processo, pautar a audiência imediatamente após o recebimento da denúncia, uma vez que ainda não se tem certeza quanto à superação das fases processuais subsequentes.
+
+1.2 Da organização da pauta
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+A organização da pauta de audiências deve observar rigorosamente as prioridades legais e as normativas do Conselho Nacional de Justiça. Dentre as situações mais recorrentes, destacam-se os processos que envolvem:
+
+1. Réus presos provisoriamente pela unidade jurisdicional  
+2. Crimes hediondos (art. 394-A do CPP)  
+3. Violência contra a mulher (art. 394-A do CPP e art. 1.048, II, do CPC)  
+4. Crimes contra idosos ou processos em que figurem pessoas idosas como rés (art. 71 do Estatuto do Idoso – Lei nº 10.741/2003; Resolução CNJ nº 14/2007; art. 1.048, I, do CPC)  
+5. Portadores de doenças graves (art. 1.048, I, do CPC)  
+6. Pessoas com deficiência (art. 9º, VII, da Lei nº 13.146/2015)  
+7. Crianças ou adolescentes como vítimas ou testemunhas (art. 4º do ECA; art. 227 da CF/88; Lei nº 13.431/2017; art. 1.048, II, do CPC)  
+8. Vítimas ou testemunhas ameaçadas e protegidas pelos programas PROVITA ou PPCAM (art. 19-A da Lei nº 9.807/1999; Recomendação CNJ nº 07)  
+9. Processos inseridos nas Metas 02, 06 e 07, bem como processos antigos  
+
+É recomendável que a Secretaria evite manter processos represados em localizadores ou filas aguardando pauta de audiência, orientação esta que tem sido reiteradamente destacada pelo CNJ durante inspeções realizadas nas unidades judiciais.
+
 .. warning::
-   Sabe-se que atualmente é quase impossível que a unidade jurisdicional realize a AIJ dentro do prazo previsto no art. 400 do CPP. Dessa forma, recomenda-se que seja de imediato pautado a audiência, ainda que seja para prazo longínquo, evitando-se a responsabilização do Diretor/Escrivão. Diante dessa situação, para melhor organização da pauta, recomenda-se também que sejam deixados espaços vazios dentro da pauta para encaixe dos processos recebidos posteriormente que possuam prioridades legais e normativas.
 
-É também de suma importância que ao definir a quantidade de processos a serem incluídos na pauta do dia, seja observada a quantidade de partes a serem ouvidas (ofendidos, testemunhas, réus), evitando-se fracionamentos do ato, o que gera maior demanda à Secretaria.
-Para uma melhor organização, como o Projudi somente emite a Pauta de Audiências em formato corrido (relação de processo), a Secretaria da unidade poderá utilizar planilhas no Google Sheets para gerenciar melhor a Pauta, deixando os espaços relacionados aos processos que ainda irão ingressar e que possuam prioridade.
-Destaque-se também que é recomendável à unidade que paute as audiências observando o calendário oficial do tribunal, evitando pautar audiência em dia de ponto facultativo ou feriado previamente definido pela Corte Estadual.
+   Considerando que, na prática, muitas unidades jurisdicionais enfrentam dificuldades para realizar a AIJ dentro do prazo previsto no art. 400 do CPP, recomenda-se que a audiência seja pautada imediatamente, ainda que para data futura distante. Tal providência visa evitar eventual responsabilização administrativa do Diretor ou Escrivão. Para melhor organização da pauta, recomenda-se, ainda, a reserva de espaços livres para posterior inclusão de processos que venham a ingressar e que possuam prioridade legal ou normativa.
+
+Ao definir a quantidade de processos a serem incluídos em determinada pauta, a Secretaria deve observar o número de partes a serem ouvidas — ofendidos, testemunhas e réus — a fim de evitar o fracionamento do ato, o que acarreta aumento de demanda administrativa e retrabalho.
+
+Para aprimorar a organização, considerando que o Projudi emite a pauta de audiências apenas em formato corrido (lista de processos), a unidade poderá utilizar planilhas eletrônicas, como o Google Sheets, para gerenciar previamente a pauta, reservando espaços destinados a processos prioritários que ainda venham a ingressar.
+
+Por fim, recomenda-se que a definição das datas de audiência observe o calendário oficial do Tribunal, evitando-se a designação de atos em dias de feriado ou ponto facultativo previamente estabelecidos pela Corte Estadual.

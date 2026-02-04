@@ -1,147 +1,173 @@
-09 - Ciência da Sentença
-==========================
+.. coding: utf-8
 
 09 - Ciência da Sentença
-------------------------
+=======================
 
-A Sentença é o ato judicial formal que põe fim à fase de conhecimento, podendo, no direito processual penal, ser: condenatória, absolutória e extintiva da punibilidade. Subsidiariamente também podemos trabalhar com sentenças terminativas, tais como aquelas que encerram o procedimento por perda de objeto ou conclusão do procedimento, sem constituir julgamento de mérito para o crime.
+A sentença é o ato judicial formal que põe fim à fase de conhecimento do processo penal. No âmbito do direito processual penal, ela pode assumir natureza **condenatória**, **absolutória** ou **extintiva da punibilidade**.
 
-Entre os principais tipos de sentença, destacamos o seguinte quadro comparativo:
+De forma subsidiária, também se admitem as chamadas **sentenças terminativas**, que encerram o procedimento sem julgamento do mérito, como ocorre nos casos de perda do objeto ou conclusão anômala do processo.
+
+1. Tipos de sentença
+--------------------
+
+Entre os principais tipos de sentença, destaca-se o quadro comparativo a seguir:
 
 .. list-table::
    :header-rows: 1
    :widths: 20 18 18 22 22
 
-   * - Tipo de Sentença
-     - Fundamento Legal
-     - Efeito Principal
-     - Exemplos de Aplicação
+   * - Tipo de sentença
+     - Fundamento legal
+     - Efeito principal
+     - Exemplos de aplicação
      - Observações
    * - Condenatória
-     - Art. 387 do CPP e Art. 91 do CP
+     - Art. 387 do CPP e art. 91 do CP
      - Aplica pena ao réu
      - Homicídio com provas suficientes de autoria e materialidade
-     - Pode implicar prisão, multa, perda de bens, etc.
+     - Pode implicar prisão, multa e perda de bens
    * - Absolutória
      - Art. 386 do CPP (incisos I a VIII)
      - Reconhece que o réu não deve ser punido
      - Fato atípico ou ausência de provas da autoria
-     - Pode ainda haver responsabilidade civil
-   * - Extinção da Punibilidade
+     - Pode subsistir responsabilidade civil
+   * - Extinção da punibilidade
      - Art. 107 do CP
-     - Reconhece que o Estado perdeu o direito de punir
-     - Prescrição, morte do agente, acordo de não persecução penal
-     - Não há julgamento de mérito quanto à culpa ou inocência
+     - Reconhece a perda do direito de punir pelo Estado
+     - Prescrição, morte do agente, ANPP
+     - Não há julgamento do mérito quanto à culpa
 
-09.1 - Da intimação da sentença
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2. Intimação da sentença
+------------------------
 
-Para que o ato judicial (sentença) possua validade é necessário que haja intimação das partes e publicação.
+Para que a sentença produza efeitos válidos, é indispensável a regular **intimação das partes** e a **publicação do ato judicial**.
 
-09.1.1 - Da intimação do Ministério Público e Defensoria Pública
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2.1 Intimação do Ministério Público e da Defensoria Pública
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-No sistema Projudi, a intimação do Ministério Público e da Defensoria Pública não se dá de forma automática, sendo necessário realizar manualmente a remessa a estes órgãos que possuem prerrogativa de intimação pessoal, consoante arts. 180, 183, §1º, 186, §1º e  art. 270, parágrafo único do CPC, aplicável subsidiariamente (art. 3º do CPP), considerando tratar-se de parte representada por órgão com cadastro no sistema eletrônico.
+No sistema Projudi, a intimação do Ministério Público e da Defensoria Pública **não ocorre de forma automática**, sendo necessária a remessa manual dos autos a esses órgãos, que possuem prerrogativa de **intimação pessoal**.
 
-09.1.2 - Da intimação da advocacia privada e o Diário de Justiça Nacional (DJEN)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Tal prerrogativa encontra fundamento nos arts. 180, 183, §1º, 186, §1º, e art. 270, parágrafo único, do Código de Processo Civil, aplicáveis subsidiariamente ao processo penal por força do art. 3º do CPP.
 
-O Conselho Nacional de Justiça (CNJ) regulamentou a intimação pelo Diário de Justiça Eletrônico Nacional (DJEN) por meio da Resolução CNJ nº 455/2022, posteriormente alterada pela Resolução CNJ nº 569/2024. Essas normativas estabeleceram o DJEN como o meio oficial de publicação de atos judiciais e contagem de prazos processuais em todo o Poder Judiciário brasileiro.
-Conforme o art. 13 da Resolução CNJ nº 455/2022, devem ser publicados no DJEN:
-- Despachos, decisões interlocutórias, dispositivos das sentenças e ementas dos acórdãos;
-- Intimações destinadas aos advogados nos sistemas de processo judicial eletrônico, cuja ciência não exija vista ou intimação pessoal;
+2.2 Intimação da advocacia privada e o DJEN
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+O Conselho Nacional de Justiça regulamentou a intimação da advocacia privada por meio do **Diário de Justiça Eletrônico Nacional (DJEN)**, instituído pela Resolução CNJ nº 455/2022 e posteriormente alterado pela Resolução CNJ nº 569/2024.
+
+Essas normativas consolidaram o DJEN como meio oficial de publicação dos atos judiciais e de contagem de prazos processuais em todo o Poder Judiciário.
+
+Consoante o art. 13 da Resolução CNJ nº 455/2022, devem ser publicados no DJEN:
+
+- Despachos, decisões interlocutórias, dispositivos de sentenças e ementas de acórdãos;
+- Intimações destinadas aos advogados em sistemas de processo eletrônico que não exijam vista ou intimação pessoal;
 - Listas de distribuição previstas na legislação processual;
 - Atos destinados à plataforma de editais do CNJ;
-- Demais atos cuja publicação esteja prevista em lei ou normativos dos tribunais.
-Contagem de Prazos
-A Resolução CNJ nº 569/2024 alterou o §3º do art. 11 da Resolução CNJ nº 455/2022, estabelecendo que, nos casos em que a lei não exigir vista ou intimação pessoal, os prazos processuais serão contados a partir da publicação no DJEN, conforme o art. 224 do Código de Processo Civil.
-Obrigatoriedade de Uso
-A partir de 16 de maio de 2025, todos os tribunais do país passaram a adotar o DJEN como meio oficial para a publicação de atos judiciais e contagem de prazos processuais
-Dessa forma, as intimações da advocacia privada passaram a ser realizadas por meio unificado, no DJEN.
+- Demais atos cuja publicação seja exigida por lei ou normativos internos.
 
-No âmbito do Tribunal de Justiça do Amazonas, a SETIC integrou a aba “Pré-Análise” > Dados da Conclusão > Dados para Publicação
+**Contagem de prazos**
 
-Desse modo, deve a assessoria, sempre que minutar, recordar para incluir o conteúdo dos despachos/decisões e dispositivos de sentenças dentro da caixa de texto acima.
+A Resolução CNJ nº 569/2024 alterou o §3º do art. 11 da Resolução CNJ nº 455/2022, estabelecendo que, nos casos em que não for exigida vista ou intimação pessoal, os prazos processuais serão contados a partir da publicação no DJEN, nos termos do art. 224 do Código de Processo Civil.
 
-Estando regular, o sistema emitirá uma certidão:
+**Obrigatoriedade de uso**
 
-09.2 - Do retorno da conclusão
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A partir de **16 de maio de 2025**, o DJEN passou a ser o meio oficial obrigatório para publicação dos atos judiciais e contagem de prazos processuais em todo o território nacional.
 
-O retorno de conclusão é um procedimento específico do sistema Projudi no qual todos os processos em que houve manifestação judicial são destinados à aba Mesa do Analista Judiciário > Análise de Juntadas> Retorno de Conclusão > Dt. Retorno > “finalizar conclusão pendente”
+No âmbito do Tribunal de Justiça do Amazonas, a SETIC integrou ao Projudi a aba:
+
+**“Pré-Análise > Dados da Conclusão > Dados para Publicação”**
+
+Desse modo, a assessoria deverá, sempre que minutar despachos, decisões ou sentenças, inserir o respectivo conteúdo no campo destinado à publicação. Estando o procedimento regular, o sistema emitirá automaticamente a certidão de publicação.
+
+3. Retorno de conclusão
+-----------------------
+
+O retorno de conclusão é procedimento próprio do sistema Projudi, utilizado após manifestação judicial.
+
+O fluxo a ser seguido é o seguinte:
+
+**Mesa do Analista Judiciário > Análise de Juntadas > Retorno de Conclusão > Data de Retorno > “Finalizar conclusão pendente”**
 
 .. warning::
-   Antes de realizar o procedimento acima incluir o localizador/fila processual pertinente a fim de realizar o correto andamento processual.
 
-09.3 - Dos prazos
-~~~~~~~~~~~~~~~~~
+   Antes de finalizar a conclusão pendente, deve-se incluir o **localizador ou fila processual** pertinente, garantindo o correto andamento processual.
 
-O prazo para interpor recurso contra a Sentença Penal é de 05 (cinco) dias para Apelação e 02 (dois) dias para Embargos.
+4. Prazos recursais
+-------------------
 
-A contagem do prazo processual penal obedece a regra prevista nos artigos 798, §§1º e 3º, ambos do CPP. (excluir o primeiro dia do prazo e “pular” a contagem quando o prazo se encerrar no final de semana ou feriado).
+O prazo para impugnação da sentença penal é de:
 
-Apelação
+- **5 (cinco) dias** para interposição de apelação;
+- **2 (dois) dias** para interposição de embargos de declaração.
+
+A contagem do prazo processual penal observa as regras previstas no art. 798, §§1º e 3º, do CPP, devendo-se excluir o dia do começo e desconsiderar sábados, domingos e feriados.
+
+4.1 Apelação
+^^^^^^^^^^^^
 
 .. list-table::
    :header-rows: 1
    :widths: 18 22 22 18 20
 
-   * - Parte Recorrente
-     - Prazo para Interposição de apelação
-     - Prazos de Razões / Contrarrazões
-     - Fundamento Legal
+   * - Parte recorrente
+     - Prazo para interposição
+     - Prazos para razões / contrarrazões
+     - Fundamento legal
      - Observações
-   * - Advogado Particular
-     - 5 dias (a partir da publicação no DJEN - Res. CNJ 455/2022)
-     - 8 dias para razões / 8 dias para contrarrazões
-     - Art. 593, CPP; Res. CNJ 455/2022 e 569/2024
-     - Prazo conta-se da publicação no DJEN, dia útil seguinte
+   * - Advogado particular
+     - 5 dias
+     - 8 / 8 dias
+     - Art. 593 do CPP; Res. CNJ nº 455/2022 e nº 569/2024
+     - Prazo conta-se da publicação no DJEN
    * - Defensoria Pública
-     - 10 dias (prazo em dobro - LC 80/94, art. 5º, §5º)
-     - 16 dias para razões / 16 dias para contrarrazões (prazo em dobro)
-     - Art. 5º, §5º, LC 80/94; STF e STJ
-     - Prazo em dobro, mesmo em processo eletrônico. Conta-se a partir da ciência expressa ou tácita (10 dias após a remessa - art. 5º, §3º da Lei nº 11.419/2006)
+     - 10 dias (prazo em dobro)
+     - 16 / 16 dias
+     - LC nº 80/1994, art. 5º, §5º
+     - Prazo em dobro, inclusive em processo eletrônico
    * - Ministério Público
-     - 5 dias (Lei 11.419/2006, art. 5º c/c art. 3º do CPP)
-     - 8 dias para razões / 8 dias para contrarrazões
-     - Lei 11.419/2006, art. 5º; Art. 593, CPP
-     - Conta-se a partir da ciência expressa ou tácita (10 dias após a remessa - art. 5º, §3º da Lei nº 11.419/2006)
-   * - Assistente de Acusação
-     - 5 dias (art. 598 do CPP)
-     - 8 dias para razões / 8 dias para contrarrazões
+     - 5 dias
+     - 8 / 8 dias
+     - Art. 593 do CPP; Lei nº 11.419/2006
+     - Conta-se da ciência expressa ou tácita
+   * - Assistente de acusação
+     - 5 dias
+     - 8 / 8 dias
      - Art. 598 do CPP
-     - Pode apelar mesmo sem o MP recorrer
-   * - Apelação Adesiva
-     - Mesmo prazo das contrarrazões (8 dias)
-     - N/A (segue o da apelação principal)
-     - Art. 500, CPC c/c art. 3º, CPP
-     - Só é válida se a parte contrária interpuser apelação principal
+     - Pode recorrer mesmo sem recurso do MP
+   * - Apelação adesiva
+     - Mesmo prazo das contrarrazões
+     - Conforme apelação principal
+     - Art. 500 do CPC c/c art. 3º do CPP
+     - Depende da existência de recurso principal
 
-Embargos de Declaração
+4.2 Embargos de declaração
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table::
    :header-rows: 1
    :widths: 18 16 16 20 15 15
 
    * - Parte
-     - Prazo para Interposição
-     - Fundamento Legal
+     - Prazo
+     - Fundamento legal
      - Cabimento
      - Efeitos
-     - Forma de Apresentação
-   * - Qualquer das partes (MP, DPE, advogado, assistente, réu)
-     - 2 dias (contados da intimação da decisão/sentença)
+     - Forma de apresentação
+   * - Qualquer das partes
+     - 2 dias
      - Art. 382 do CPP
-     - Quando houver na sentença ou decisão: obscuridade, contradição, omissão ou ambiguidade
-     - Interrompe o prazo para interposição de outros recursos (art. 613, §1º do CPP)
-     - Petição simples ou termo nos autos, indicando o ponto controvertido. A parte contrária possui o direito de apresentar contrarrazões no mesmo prazo.
+     - Obscuridade, contradição, omissão ou ambiguidade
+     - Interrompe os prazos recursais
+     - Petição simples ou termo nos autos
 
-09.4 - Da intimação do réu
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+5. Intimação do réu
+-------------------
 
-Quando se tratar de réu preso preventivamente no processo ou por outro processo, é necessária a intimação no presídio, na forma do art. 392, I, do CPP.  Para verificar o presídio em que o réu se encontra, consultar o link abaixo pelo seu nome e nome de sua mãe:
-https://office365prodam-my.sharepoint.com/:x:/g/personal/estatistica_cosipe_seap_am_gov_br/EXDSi4AmN1RLtvZhVtjNBKABgTGEX4DVOB04G1JFYtr0Bg?rtime=y4_uCNVZ2kg
-Se tratar de sentença absolutória de réu preso ou em sentença condenatória que for revogada a prisão preventiva, deverá ser imediatamente expedido o Alvará de Soltura (art. 596 do CPP).
-Para os réus soltos com advogado constituído ou defensor público designado, não é necessária a intimação pessoal do réu, desde que tenha sido intimado o advogado pelo DJEN ou realizada remessa dos autos à DPE, conforme art. 392, II (segunda parte) e inciso III, do CPP. Nesse sentido, o Tribunal de Justiça do Amazonas editou o seguinte enunciado Sumular: Súmula 19 “No processo penal, tratando-se de réu solto, é suficiente a intimação do defensor constituído ou mesmo do defensor público designado, pessoalmente ou através da publicação no órgão de imprensa oficial, acerca da sentença condenatória.” (DJE 23/08/2024).
-.. warning::
-   Nos casos em que o réu for declarado ausente/”revel” (art. 367 do CPP) ou estiver foragido, ainda que pode ser aplicado o entendimento acima, recomenda-se por prudência, a intimação da Defesa e a publicação de Edital no prazo de 90 (noventa) dias (pena privativa de liberdade igual ou superior a 01 ano) ou 60 (sessenta) dias nos demais casos, na forma do art. 392, §1º do CPP.
+A forma de intimação do réu varia conforme sua situação processual.
+
+- **Réu preso preventivamente ou por outro processo:** intimação pessoal no estabelecimento prisional, nos termos do art. 392, inciso I, do CPP.
+- **Réu absolvido preso** ou **revogação da prisão preventiva:** deve ser expedido, de imediato, Alvará de Soltura, conforme art. 596 do CPP.
+- **Réu solto com advogado constituído ou Defensor Público:** é suficiente a intimação do defensor, nos termos do art. 392, incisos II e III, do CPP, conforme entendimento consolidado na Súmula nº 19 do TJAM.
+- **Réu ausente, revel ou foragido:** recomenda-se, por cautela, a intimação da Defesa e a publicação de edital, nos termos do art. 392, §1º, do CPP, pelo prazo de:
+  
+  - 90 (noventa) dias, quando a pena for igual ou superior a 1 (um) ano;
+  - 60 (sessenta) dias, nos demais casos.

@@ -1,72 +1,115 @@
-=====================================================================
+.. coding: utf-8
+
 Alterar Sigilo de Processos, Documentos e Movimentações
-=====================================================================
+======================================================
 
-Nesta aula, vamos aprender como alterar o **nível de sigilo** de processos, documentos e movimentações no sistema ProJUDI.
+Nesta aula, é apresentado o procedimento para **alteração do nível de sigilo**
+de **processos**, **documentos** e **movimentações** no sistema ProJUDI,
+conforme as necessidades legais e determinações judiciais.
 
-Sigilo do Processo
---------------------
+Sigilo do processo
+------------------
 
-O sistema ProJUDI permite configurar diferentes níveis de sigilo para processos. Para acessar a função:
+O ProJUDI permite a configuração de diferentes níveis de sigilo para o processo
+como um todo.
 
-1. Clique no ícone de **cadeado ao lado da palavra "Sigilo"**
-2. Será exibida a tela com os seguintes níveis:
+Para acessar a funcionalidade:
 
-   - **Público**: acessível a todos os servidores do Judiciário, órgãos públicos parceiros e advogados
-   - **Médio**: acessível apenas aos servidores da unidade onde o processo tramita, às partes e envolvidos expressamente incluídos
+1. Clique no ícone de **cadeado**, localizado ao lado da indicação **"Sigilo"**;
+2. Será exibida a tela com os níveis de sigilo disponíveis.
 
-**Como alterar para sigilo médio:**
+Níveis de sigilo do processo
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Clique no campo de nível de sigilo
-2. Selecione **"Sigilo Médio"**
-3. Clique em **Salvar**
+- **Público**  
+  Acessível a todos os servidores do Poder Judiciário, órgãos públicos parceiros
+  e advogados habilitados.
 
-**Adicionar permissões de acesso:**
+- **Médio**  
+  Acessível apenas aos servidores da unidade onde o processo tramita, às partes
+  e aos usuários expressamente autorizados.
 
-- Caso o juiz determine que outro usuário tenha acesso:
-  1. Clique em **"Adicionar Permissão"**
-  2. Pesquise o usuário por **perfil** ou **login**
-  3. Selecione o usuário e clique em **Salvar**
+Como alterar para sigilo médio
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Sigilo de Documentos e Movimentações
---------------------------------------
+1. Clique no campo correspondente ao nível de sigilo;
+2. Selecione a opção **Sigilo Médio**;
+3. Clique em **Salvar**.
 
-Além do processo como um todo, é possível tornar **documentos específicos** ou **movimentações** sigilosos.
+Adicionar permissões de acesso
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-### Como tornar um documento sigiloso:
+Caso haja determinação judicial para ampliar o acesso a usuários específicos:
 
-1. Vá até a aba **Movimentações**
-2. Clique sobre a movimentação desejada (ex: *Sentença*)
-3. Na tela aberta, altere o campo **"Nível de sigilo"**
+1. Clique em **Adicionar Permissão**;
+2. Pesquise o usuário por **perfil** ou **login**;
+3. Selecione o usuário desejado;
+4. Clique em **Salvar**.
 
-Níveis disponíveis:
+Sigilo de documentos e movimentações
+------------------------------------
 
-- **Público** – acessível a todos
-- **Segredo** – acessível a partes e colaboradores da Justiça
-- **Mínimo** – apenas servidores da mesma competência
-- **Médio** – servidores da unidade e partes autorizadas
-- **Intenso** – apenas magistrado, diretor, escrivão, oficial, assessor
-- **Absoluto** – apenas o magistrado e usuários autorizados
+Além do sigilo do processo como um todo, o sistema permite atribuir sigilo
+específico a **documentos** ou **movimentações individuais**.
 
-> O sistema mostra uma **tabela comparativa** explicando cada nível.
+Tornar um documento ou movimentação sigilosa
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-### Como ocultar a visibilidade externa de uma movimentação:
+1. Acesse a aba **Movimentações**;
+2. Clique sobre a movimentação desejada (ex.: *Sentença*);
+3. Na tela aberta, localize o campo **Nível de sigilo**;
+4. Selecione o nível apropriado.
 
-1. Ainda na tela da movimentação, clique em **"Ocultar Visibilidade"**
-2. Confirme a ação quando a caixa de diálogo for exibida
-3. Uma tarja será exibida com a mensagem:
-   - *"Movimentação sem visibilidade externa"*
+Níveis de sigilo disponíveis
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Importante:**
-A movimentação continuará visível **somente para o cartório**. Para reverter, basta acessar novamente e permitir a visibilidade externa.
+- **Público**  
+  Acessível a todos os usuários externos e internos.
+
+- **Segredo**  
+  Acessível às partes e aos colaboradores da Justiça.
+
+- **Mínimo**  
+  Acessível apenas aos servidores da mesma competência.
+
+- **Médio**  
+  Acessível aos servidores da unidade e às partes autorizadas.
+
+- **Intenso**  
+  Acessível somente ao magistrado, diretor, escrivão, oficial de justiça e assessor.
+
+- **Absoluto**  
+  Acessível exclusivamente ao magistrado e aos usuários expressamente autorizados.
+
+.. note::
+
+   O sistema apresenta uma tabela comparativa com a descrição detalhada
+   de cada nível de sigilo, auxiliando na escolha adequada.
+
+Ocultar visibilidade externa de uma movimentação
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+É possível impedir que determinada movimentação seja visualizada externamente:
+
+1. Na tela da movimentação, clique em **Ocultar Visibilidade**;
+2. Confirme a ação na caixa de diálogo exibida;
+3. O sistema exibirá uma tarja com a mensagem:
+   *"Movimentação sem visibilidade externa"*.
+
+.. warning::
+
+   A movimentação permanecerá visível apenas para o cartório.
+   Para reverter a restrição, basta acessar novamente a movimentação
+   e restabelecer a visibilidade externa.
 
 Resumo
---------
+------
 
-No sistema ProJUDI, você pode configurar sigilo em três níveis:
+No ProJUDI, o controle de sigilo pode ser realizado em três níveis distintos:
 
-1. **Processo completo** (nível de sigilo geral)
-2. **Documentos específicos**
-3. **Movimentações específicas**
+1. **Sigilo do processo** (configuração geral);
+2. **Sigilo de documentos específicos**;
+3. **Sigilo de movimentações específicas**.
 
-Isso permite atender às determinações legais, proteger dados sensíveis e garantir o controle de acesso adequado aos processos.
+Essa flexibilidade garante a proteção de dados sensíveis, o cumprimento das
+determinações legais e o controle adequado de acesso às informações processuais.

@@ -1,90 +1,119 @@
-========================================================================
+.. coding: utf-8
+
+.. raw:: latex
+
+   \newpage
+
+
 Evolução e Retificação de Classe Processual e Prioridade
-========================================================================
+========================================================
 
-Nesta aula, vamos explorar a aba **Informações Processuais**, onde é possível realizar **alterações importantes** no cadastro do processo no sistema ProJUDI. Essas alterações fazem parte da rotina da secretaria, especialmente nos casos de:
 
-- **Retificação ou evolução de classe processual**
-- **Alteração de prioridade**
-- **Atualização de dados processuais e físicos**
+Nesta aula, será abordada a utilização da aba **Informações Processuais**, por meio da qual a secretaria pode realizar **alterações estruturais relevantes** no cadastro do processo no sistema ProJUDI.
 
-Acesso à Aba
---------------
+Essas alterações integram a rotina cartorária, especialmente nos casos de:
 
-1. Acesse a **tela inicial do processo**
-2. Role até o final e clique em **"Informações Gerais"**
+- Retificação ou evolução da classe processual;
+- Alteração ou inclusão de prioridade legal;
+- Atualização de dados processuais e físicos do feito.
 
-Essa seção fornece dados como:
 
-- Comarca e vara
-- Datas de autuação, distribuição e arquivamento
-- Situação e chave do processo
-- Local físico do processo (ex: arquivo, secretaria)
-- Número antigo, lembretes, localizadores, juiz responsável, etc.
+Acesso à aba
+-------------
 
-Alteração de Classe Processual
---------------------------------
 
-Para alterar a classe processual:
+1. Acesse a **tela inicial do processo**;
+2. Role a página até o final;
+3. Clique na aba **Informações Gerais**.
 
-1. Clique em **"Alterar"**
-2. Na nova tela, clique na **lupa** ao lado de *Classe Processual*
-3. Pesquise a nova classe (ex: *Carta Precatória Criminal*)
-4. Selecione o **Tipo de Movimento**
-5. Escolha entre:
-   - **Retificação de Classe**: quando foi cadastrada incorretamente
-   - **Evolução de Classe**: quando o processo muda de fase (ex: conhecimento → execução)
-6. Clique em **Salvar**
+Nessa seção são exibidos, entre outros, os seguintes dados:
 
-> Também é possível corrigir o **assunto principal** do processo nessa tela.
+- Comarca e unidade judiciária;
+- Datas de autuação, distribuição e arquivamento;
+- Situação e chave do processo;
+- Local físico do processo (ex.: secretaria, arquivo);
+- Número antigo;
+- Lembretes e localizadores;
+- Magistrado responsável.
 
-Exemplo:
 
-- De: *Ação de Conhecimento*
-- Para: *Execução de Sentença*
+Alteração da classe processual
+-------------------------------
 
-Alteração de Prioridade
+
+Para alterar a classe processual do feito, proceda da seguinte forma:
+
+1. Clique em **Alterar**;
+2. Na tela seguinte, clique na **lupa** ao lado do campo *Classe Processual*;
+3. Pesquise a nova classe desejada (ex.: *Carta Precatória Criminal*);
+4. Selecione o **Tipo de Movimento**;
+5. Escolha uma das opções:
+   
+   - **Retificação de Classe**: quando a classe foi cadastrada incorretamente;
+   - **Evolução de Classe**: quando o processo muda de fase procedimental (ex.: conhecimento → execução);
+
+6. Clique em **Salvar**.
+
+Também é possível, nessa mesma tela, **corrigir ou ajustar o assunto principal** do processo.
+
+Exemplo prático:
+
+- Classe anterior: *Ação de Conhecimento*;
+- Nova classe: *Execução de Sentença*.
+
+
+Alteração de prioridade
 ------------------------
 
-Para incluir ou modificar a prioridade:
 
-1. Clique novamente em **"Alterar"**
-2. Clique na **lupa** ao lado de *Prioridade*
-3. Exemplo: selecione *Violência Doméstica*
-4. Clique em **Selecionar** e depois **Salvar**
+Para incluir ou modificar a prioridade legal do processo:
 
-A prioridade aparecerá registrada em destaque no processo.
+1. Clique novamente em **Alterar**;
+2. Clique na **lupa** ao lado do campo *Prioridade*;
+3. Selecione a prioridade aplicável (ex.: *Violência Doméstica*);
+4. Clique em **Selecionar** e, em seguida, em **Salvar**.
 
-Outras Alterações Possíveis
------------------------------
+A prioridade será registrada em destaque na tela inicial do processo.
 
-Você pode ainda editar:
 
-- **Magistrado responsável**
-- **Situação processual** (ex: sentenciado, arquivado)
-- **Local físico do processo** (ex: *Caixa Criminal nº 11 de 2016*)
-- **Objeto e pedido**
-- **Necessidade de intervenção do MP**
-- **Dados complementares** para procedimentos investigatórios:
-  - Data da infração
-  - Delegacia, comarca
-  - Latitude, localidade
-  - Número do inquérito
-  - Magnitude ambiental, etc.
+Outras alterações possíveis
+----------------------------
+
+
+Na aba **Informações Gerais**, também é possível editar:
+
+- Magistrado responsável;
+- Situação processual (ex.: em tramitação, sentenciado, arquivado);
+- Local físico do processo (ex.: *Caixa Criminal nº 11/2016*);
+- Objeto e pedido;
+- Indicação de necessidade de intervenção do Ministério Público;
+- Dados complementares de procedimentos investigatórios, tais como:
+  
+  - Data da infração;
+  - Delegacia de origem;
+  - Comarca;
+  - Localidade e latitude;
+  - Número do inquérito policial;
+  - Informações ambientais (quando aplicável).
+
 
 Finalização
 -------------
 
-Após preencher os campos desejados, clique em **Salvar**. O sistema registrará todas as alterações com sucesso.
+
+Após preencher ou ajustar os campos desejados, clique em **Salvar**.  
+O sistema registrará as alterações realizadas, garantindo a atualização correta do cadastro processual.
+
 
 Resumo
 --------
 
+
 A aba **Informações Processuais** permite ajustes fundamentais no cadastro do processo, sendo especialmente útil para:
 
-- Corrigir erros de classe ou assunto
-- Atualizar prioridade (ex: idosos, violência doméstica)
-- Evoluir processos conforme sua tramitação
-- Organizar o acervo físico e eletrônico
+- Corrigir erros de classe ou assunto;
+- Atualizar prioridades legais;
+- Promover a evolução processual conforme a fase do feito;
+- Organizar o acervo físico e eletrônico da unidade.
 
-Essas ações garantem a **correção, transparência e rastreabilidade** da tramitação processual no ProJUDI.
+Essas ações asseguram **correção, transparência e rastreabilidade** na tramitação dos processos no sistema ProJUDI.

@@ -1,76 +1,126 @@
-=================================
+.. coding: utf-8
+
+.. raw:: latex
+
+   \newpage
+
+
 Exportar Processo
-=================================
+=================
+
 
 Nesta aula, vamos aprender a utilizar o botão **Exportar** no sistema ProJUDI, com foco especial em:
 
-- Como gerar o processo completo em PDF
-- Como entender a **numeração de páginas e eventos**
-- Como exportar documentos específicos
+- Como gerar o processo completo em PDF;
+- Como compreender a **numeração de páginas e eventos**;
+- Como exportar documentos específicos de forma personalizada.
 
-Acesso à Função
------------------
+
+Acesso à função
+----------------
+
 
 Na tela inicial do processo, clique em:
 
-- **"Exportar"** → *"Exportar Processo"*
+- **Exportar** → *Exportar Processo*
 
-O sistema abrirá uma nova tela com opções de exportação personalizáveis.
+O sistema abrirá uma nova tela contendo **opções personalizáveis de exportação**, permitindo adequar o arquivo final à finalidade desejada (leitura, conferência, impressão ou compartilhamento).
 
-Opções de Exportação
-----------------------
 
-### 1. **Gerar movimentações**: *Sim*
+Opções de exportação
+---------------------
 
-- O sistema incluirá:
-  - **Detalhes de cada movimentação**
-  - Número do evento (ou movimentação)
-  - Data da juntada
-  - Tipo de documento
-- Permite rastrear, no PDF gerado, qual documento corresponde a qual **evento no sistema**
 
-**Exemplo:**
+1. Gerar movimentações: **Sim**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| Página | Conteúdo                      | Evento       |
-|--------|-------------------------------|--------------|
-| 1      | Capa do processo              | -            |
-| 2      | Certidão ou petição inicial   | 1.0          |
-| 3      | Documento complementar        | 1.1          |
 
-### 2. **Gerar movimentações**: *Não*
+Quando selecionada essa opção, o sistema incluirá no PDF:
 
-- O sistema **omite os detalhes das movimentações**
-- O PDF resultante conterá apenas os documentos, sem a numeração de eventos ou data da juntada
-- Útil para versões mais enxutas, porém **sem referência cruzada com o sistema**
+- Detalhes de cada movimentação;
+- Numeração do evento (ou movimentação);
+- Data da juntada;
+- Tipo de documento.
 
-### 3. **Exportar documentos específicos**
+Essa configuração permite **correlação direta entre o PDF exportado e os eventos do sistema ProJUDI**, facilitando auditorias, conferência de prazos e leitura técnica dos autos.
 
-1. Clique em **"Desmarcar todos"**
-2. Marque apenas os documentos desejados (ex: *Petição Inicial*)
-3. Clique em **"Exportar"**
-4. O sistema gerará um PDF apenas com os documentos selecionados
+Exemplo ilustrativo:
 
-Resumo das Vantagens
-----------------------
+.. list-table::
+   :header-rows: 1
+   :widths: 15 45 20
 
-✅ Exportar com movimentações:
-- Permite identificar qual documento está ligado a qual evento (ex: evento 8.0)
-- Útil para conferência, auditoria e prazos
+   * - Página
+     - Conteúdo
+     - Evento
+   * - 1
+     - Capa do processo
+     - –
+   * - 2
+     - Certidão ou petição inicial
+     - 1.0
+   * - 3
+     - Documento complementar
+     - 1.1
 
-✅ Exportar sem movimentações:
-- Gera um PDF mais limpo e leve
-- Ideal para leitura rápida ou impressão simplificada
 
-✅ Exportar por seleção:
-- Personaliza o conteúdo exportado
-- Evita incluir documentos desnecessários
+2. Gerar movimentações: **Não**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Ao selecionar essa opção:
+
+- O sistema **omite os dados das movimentações**;
+- O PDF conterá apenas os documentos juntados;
+- Não haverá numeração de eventos nem data de juntada.
+
+Essa modalidade é indicada para:
+
+- Leitura rápida;
+- Impressão simplificada;
+- Compartilhamento externo sem necessidade de referência técnica aos eventos do sistema.
+
+
+3. Exportar documentos específicos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+É possível exportar apenas documentos selecionados, seguindo o passo a passo:
+
+1. Clique em **Desmarcar todos**;
+2. Selecione somente os documentos desejados (ex.: *Petição Inicial*);
+3. Clique em **Exportar**.
+
+O sistema gerará um PDF contendo **exclusivamente os documentos marcados**, sem incluir o restante dos autos.
+
+
+Resumo das vantagens
+---------------------
+
+
+Exportar com movimentações:
+
+- Permite identificar com precisão a vinculação entre documentos e eventos;
+- Facilita conferência de prazos, decisões e auditorias processuais.
+
+Exportar sem movimentações:
+
+- Gera arquivos mais leves e limpos;
+- Indicado para leitura, estudo ou impressão simples.
+
+Exportar por seleção:
+
+- Permite personalização total do conteúdo;
+- Evita inclusão de documentos desnecessários.
+
 
 Resumo
 --------
 
-A função **Exportar Processo** oferece total controle sobre o que será gerado em PDF, com ou sem detalhamento técnico, e é ideal para:
 
-- Impressão
-- Conferência de prazos
-- Compartilhamento com partes
-- Consulta offline
+A funcionalidade **Exportar Processo** oferece total controle sobre o conteúdo gerado em PDF, adaptando-se às diversas rotinas do cartório e do gabinete, sendo especialmente útil para:
+
+- Impressão de autos;
+- Conferência técnica de eventos;
+- Consulta offline;
+- Compartilhamento institucional ou externo.

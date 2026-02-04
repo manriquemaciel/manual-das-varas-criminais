@@ -1,93 +1,96 @@
-06 - Atos intimatórios (Cartório)
-===================================
+.. coding: utf-8
 
-01 - Atos Intimatórios
-----------------------
+06 - Atos Intimatórios (Cartório)
+================================
 
-Objetivos
+1. Considerações iniciais
+-------------------------
 
-Garantir a uniformidade e eficiência na execução dos atos intimatórios.
-Assegurar o cumprimento dos prazos processuais.
-Facilitar a compreensão e execução das atividades por parte dos servidores do Judiciário.
+Os atos intimatórios desempenham papel fundamental na regularidade do processo penal, pois asseguram a ciência das partes e de terceiros interessados acerca dos atos processuais, bem como o cumprimento adequado dos prazos legais.
 
-Procedimentos Gerais
+Este capítulo tem como objetivos:
 
-1 - Definição de Atos Intimatórios
+- Garantir a uniformidade e a eficiência na execução dos atos intimatórios;
+- Assegurar o correto controle e cumprimento dos prazos processuais;
+- Facilitar a compreensão e a execução das atividades pelos servidores das unidades judiciais.
+
+2. Definição de atos intimatórios
+--------------------------------
+
+Atos intimatórios são aqueles destinados a comunicar às partes, aos advogados, às testemunhas ou a outros interessados os atos e termos do processo, bem como a convocação para a prática de atos processuais, nos termos da legislação vigente.
+
+3. Expedição de cartas precatórias
 ----------------------------------
 
-Atos intimatórios são aqueles destinados a comunicar às partes ou a outros interessados os atos e termos do processo, bem como a convocação para a prática de atos processuais.
+Para a realização de citações e intimações fora da jurisdição do juízo de origem, deverá ser expedida carta precatória, a qual deverá conter, obrigatoriamente:
 
-2 - Expedição de Cartas Precatórias
------------------------------------
+- Identificação do juízo deprecante e do juízo deprecado;
+- Finalidade específica da citação ou intimação;
+- Data, hora e local em que o destinatário deverá comparecer, quando aplicável;
+- Anexos pertinentes, como cópia da denúncia, da decisão ou do despacho a ser intimado.
 
-Para a realização de citações e intimações fora da jurisdição do juízo de origem, expede-se uma carta precatória, que deve conter:
+4. Atos ordinatórios
+--------------------
 
-Identificação do juízo deprecante e do juízo deprecado.
-Finalidade específica da citação ou intimação.
-Data, hora e local onde o destinatário deve comparecer, se aplicável.
-Anexos pertinentes, como cópia da denúncia ou da decisão a ser intimada​​.
+Os servidores podem praticar atos ordinatórios que não possuem caráter decisório, com o objetivo de garantir a celeridade e a regularidade processual. Dentre esses atos, destacam-se:
 
-3 - Atos Ordinatórios
----------------------
+- Expedição de documentos e respectiva juntada aos autos;
+- Realização de notificações, citações e intimações eletrônicas, quando admitidas;
+- Encaminhamento de cartas precatórias à Central de Mandados para cumprimento.
 
-Os servidores podem praticar atos ordinatórios, que não têm caráter decisório e visam a garantir a celeridade processual. Entre eles, estão:
-
-Expedição de documentos e juntada aos autos.
-
-Notificações, citações e intimações eletrônicas.
-
-Encaminhamento de cartas precatórias à Central de Mandados para cumprimento​​.
-
-4 - Procedimento de Intimação
+5. Procedimentos de intimação
 -----------------------------
 
-4.1. Citação para Audiência de Conciliação e Transação Penal
+5.1 Citação para audiência de conciliação e transação penal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Finalidade: A citação para audiência de conciliação e transação penal visa a informar ao acusado sobre a audiência marcada para tentativa de conciliação entre as partes e/ou proposta de transação penal pelo Ministério Público.
+**Finalidade:**  
+Informar o acusado acerca da audiência designada para tentativa de conciliação entre as partes e/ou apresentação de proposta de transação penal pelo Ministério Público.
 
-Procedimento:
+**Procedimento:**  
 
-A citação deve ser pessoal, realizada por Oficial de Justiça ou por via postal com aviso de recebimento.
-O mandado de citação deve conter a data, hora e local da audiência.
+- A citação deve ser pessoal, realizada por Oficial de Justiça ou por via postal, com aviso de recebimento;
+- O mandado de citação deve conter, de forma clara, a data, a hora e o local da audiência;
+- A ausência do acusado, quando devidamente citado, não impede a realização da audiência, podendo o feito prosseguir à revelia, conforme o caso.
 
-A ausência do acusado, devidamente citado, não impede a realização da audiência, podendo ser julgada à revelia.
+5.2 Citação para suspensão condicional do processo (SCP)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-4.2. Citação para Suspensão Condicional do Processo (SCP)
+**Finalidade:**  
+Dar ciência ao acusado acerca da proposta de suspensão condicional do processo, nos termos do art. 89 da Lei nº 9.099/1995.
 
-Finalidade: Informar ao acusado sobre a proposta de suspensão condicional do processo, nos termos do artigo 89 da Lei 9.099/95.
+**Procedimento:**  
 
-Procedimento:
+- A citação deve ser pessoal, preferencialmente realizada por Oficial de Justiça;
+- Deve ser informado o teor da proposta, bem como os benefícios decorrentes de sua aceitação;
+- Em caso de recusa da proposta, o processo deverá seguir seu curso regular.
 
-A citação deve ser pessoal e preferencialmente realizada pelo Oficial de Justiça.
+5.3 Citação para audiência de instrução e julgamento (AIJ)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Deve ser informado o teor da proposta e os benefícios de aceitar a suspensão condicional.
-Em caso de recusa, o processo seguirá o seu curso normal.
+**Finalidade:**  
+Convocar o acusado para a audiência de instrução e julgamento, ocasião em que serão ouvidas as testemunhas, os peritos, quando houver, e realizado o interrogatório do réu.
 
-4.3. Citação para Audiência de Instrução e Julgamento (AIJ)
+**Procedimento:**  
 
-Finalidade: Convocar o acusado para a audiência de instrução e julgamento, onde serão ouvidas as testemunhas, peritos, e realizado o interrogatório do réu.
+- A citação deve ser pessoal, podendo ser realizada por Oficial de Justiça, via postal com aviso de recebimento ou por meio eletrônico, quando permitido pela legislação;
+- O mandado deve conter data, hora e local da audiência, bem como advertência acerca da necessidade de comparecimento, sob pena de prosseguimento do feito à revelia;
+- Não sendo localizado o réu, deverá ser adotada a citação por edital, nos termos do art. 363, §1º, do Código de Processo Penal.
 
-Procedimento:
+5.4 Intimação de partes e testemunhas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A citação deve ser pessoal, realizada por Oficial de Justiça, via postal com aviso de recebimento, ou por meio eletrônico, quando permitido.
+**Finalidade:**  
+Dar ciência às partes e às testemunhas acerca da data e do horário de audiências, bem como de decisões, despachos e demais atos processuais.
 
-O mandado deve conter data, hora e local da audiência, além de alertar o acusado sobre a necessidade de comparecimento sob pena de prosseguimento à revelia.
+**Procedimento:**  
 
-Em caso de não localização do réu, deverá ser feita a citação por edital, conforme o artigo 363, §1º, do CPP.
+- A intimação poderá ser realizada pessoalmente, por via postal com aviso de recebimento, por meio eletrônico ou, em situações excepcionais, por edital;
+- No caso de testemunhas vinculadas a órgãos públicos, poderá ser requisitada a presença por meio de ofício dirigido à instituição de origem, como, por exemplo, à Polícia Militar para oitiva de policiais.
 
-4.4. Intimação de Partes e Testemunhas
+6. Controle de prazos
+--------------------
 
-Finalidade: Informar as partes e testemunhas sobre a data e hora das audiências, decisões, despachos, e demais atos processuais.
+A Secretaria deverá manter controle rigoroso dos prazos relacionados à realização dos atos intimatórios, com especial atenção aos processos que envolvam réus presos provisoriamente, nos termos do art. 316, parágrafo único, do Código de Processo Penal.
 
-Procedimento:
-
-A intimação pode ser realizada pessoalmente, via postal com aviso de recebimento, por meio eletrônico, ou, em casos excepcionais, por edital.
-
-Para testemunhas, pode ser requisitada a presença através de ofício ao órgão ou instituição onde se encontram vinculadas (ex.: Polícia Militar para testemunhas policiais).
-
-5 - Controle de Prazos
-----------------------
-
-A secretaria deve manter um controle rigoroso dos prazos para a realização dos atos intimatórios, especialmente em relação a presos provisórios, conforme o artigo 316, parágrafo único, do Código de Processo Penal​​.
-
-É fundamental certificar nos autos o término dos prazos e proceder ao registro no sistema eletrônico SAJ, para garantir a efetiva suspensão ou continuidade do andamento processual, conforme o caso.
+É imprescindível certificar nos autos o decurso dos prazos e proceder ao devido registro no sistema eletrônico, a fim de assegurar a correta suspensão ou continuidade do andamento processual, conforme a situação concreta.

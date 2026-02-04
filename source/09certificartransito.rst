@@ -1,41 +1,40 @@
-12 - Certificar trânsito em julgado (Cartório)
-================================================
+.. coding: utf-8
 
-Certidão de trânsito em julgado
+12 - Certificação do Trânsito em Julgado (Cartório)
+==================================================
 
-1 - Definição de Trânsito em Julgado
-------------------------------------
+A certificação do trânsito em julgado constitui ato cartorário essencial, pois formaliza o momento em que a decisão judicial se torna definitiva, permitindo a adoção das providências subsequentes, especialmente aquelas relacionadas à execução da sentença.
 
-O trânsito em julgado ocorre quando não há mais possibilidade de recurso no processo, seja porque o prazo para interposição de recurso expirou, ou porque todas as possibilidades de recurso foram esgotadas. A partir desse momento, a decisão torna-se definitiva.
+1. Definição de trânsito em julgado
+-----------------------------------
 
-2 - Procedimentos Preliminares
+O trânsito em julgado ocorre quando não há mais possibilidade de interposição de recurso no processo, seja pelo decurso do prazo recursal sem manifestação das partes, seja pelo esgotamento de todas as vias recursais cabíveis. A partir desse momento, a decisão judicial adquire definitividade.
+
+2. Procedimentos preliminares
 ------------------------------
 
-Antes de realizar a certificação de trânsito em julgado, certifique-se de:
+Antes de proceder à certificação do trânsito em julgado, a Secretaria deverá verificar atentamente:
 
-- Verificar se o prazo recursal para todas as partes expirou;
-- Verificar se há eventuais recursos pendentes ou interpostos no sistema;
-- Conferir se a intimação das partes sobre a decisão foi devidamente realizada e registrada no sistema.
+- Se o prazo recursal expirou para todas as partes;
+- Se não há recursos pendentes de julgamento ou recursos interpostos no sistema;
+- Se as partes foram devidamente intimadas da decisão, com registro regular da intimação no sistema.
 
-3 - Acesso ao Processo no PROJUDI.
-----------------------------------
+Somente após a confirmação desses requisitos é que se deve proceder à certificação.
 
-Certificação de Trânsito em Julgado
+3. Certificação do trânsito em julgado no PROJUDI
+-------------------------------------------------
 
-Após a verificação de que não há mais possibilidade de recurso, siga os seguintes passos para certificar o trânsito em julgado:
+Constatada a inexistência de recurso pendente ou cabível, a Secretaria deverá realizar a certificação do trânsito em julgado no sistema PROJUDI, observando o seguinte procedimento:
 
-1 - Selecione a movimentação “Decurso de prazo”;
-------------------------------------------------
+- Selecionar a movimentação “Decurso de prazo”;
+- Clicar em “Movimentar a partir desta movimentação”;
+- Na opção “Outras ações”, selecionar “Transitar em julgado”;
+- Selecionar as partes pertinentes;
+- Informar a data do trânsito em julgado;
+- Finalizar a movimentação.
 
-2 - Clique em “Movimentar a partir desta movimentação”;
--------------------------------------------------------
+Concluídos esses passos, o processo passará a constar no sistema como transitado em julgado.
 
-- Em Outras ações, selecione “Transitar em julgado”;
+Caso seja necessário desconstituir o trânsito em julgado, a Secretaria deverá acessar o mesmo local no sistema e proceder à exclusão da movimentação correspondente, observadas as orientações administrativas e eventual determinação judicial.
 
-3 - Selecione as partes, informe a data do trânsito em julgado e finalize.
---------------------------------------------------------------------------
-
-Após a conclusão desses passos, o processo constará como transitado em julgado.
-Caso seja necessário retirar o trânsito em julgado, basta acessar o mesmo local e realizar a exclusão da movimentação.
-
-Esse procedimento padronizado garante maior eficiência e controle do fluxo processual dentro das varas criminais, promovendo uma melhor prestação de serviço aos jurisdicionados. Se precisar de mais detalhes ou esclarecimentos sobre alguma etapa, estarei à disposição.
+A adoção desse procedimento padronizado assegura maior eficiência, segurança e controle do fluxo processual nas Varas Criminais, contribuindo para a adequada prestação jurisdicional.
