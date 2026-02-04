@@ -1,59 +1,92 @@
+.. coding: utf-8
+
 ===========================================================
-Remessa ao 2º Grau e Turma Recursal
+Remessa ao 2º Grau e à Turma Recursal
 ===========================================================
 
-Nesta aula, veremos como realizar a **remessa de um processo** para a **Turma Recursal** (Juizados Especiais) ou para o **Segundo Grau** (Tribunal).
+Nesta aula, será demonstrado como realizar a **remessa de um processo** para a **Turma Recursal** (nos Juizados Especiais) ou para o **Segundo Grau** (Tribunal), no sistema **ProJUDI**.
 
 Requisitos Antes da Remessa
--------------------------------
+-----------------------------
 
-Antes de realizar a remessa, é necessário verificar:
+Antes de efetuar a remessa, é indispensável verificar se o processo atende aos seguintes requisitos:
 
-✅ **Sem pendências**:
-   - O processo não pode conter pendências ativas, como:
-     - Citações pendentes
-     - Intimações pendentes
-     - Conclusões ainda não resolvidas
-     - Remessas em andamento (MP, Defensoria, etc.)
+Pendências Processuais
+^^^^^^^^^^^^^^^^^^^^^^^
 
-✅ **Cadastro das partes**:
-   - Todas as partes devem estar devidamente cadastradas com:
-     - **Nome completo**
+O processo **não pode conter pendências ativas**, tais como:
 
-**Cpf/Cnpj**
-~~~~~~~~~~~~
+- Citações pendentes;
+- Intimações pendentes;
+- Conclusões não apreciadas;
+- Remessas em andamento (Ministério Público, Defensoria Pública, Contadoria, etc.).
 
-     - **Advogado habilitado**
+Caso exista qualquer pendência, o sistema **impedirá a remessa**.
 
-Caso essas condições não sejam atendidas, o sistema **bloqueará** a remessa.
+Cadastro das Partes
+^^^^^^^^^^^^^^^^^^^^
+
+Todas as partes do processo devem estar corretamente cadastradas, contendo:
+
+- **Nome completo**;
+- **CPF ou CNPJ regularizado**, conforme exigências do CNJ;
+- **Advogado devidamente habilitado**, quando aplicável.
+
+A ausência de qualquer dessas informações resultará em **bloqueio automático da remessa**.
 
 Procedimento de Remessa
-----------------------------
+-------------------------
 
-1. Acesse a aba **Movimentações** no processo.
-2. Localize a decisão que determinou o envio à instância superior.
-3. Clique em **Movimentar a partir desta movimentação**.
-4. No menu lateral, clique em **Autos à Turma Recursal** (para Juizados) ou **Autos ao 2º Grau** (para varas comuns).
+1. Acesse o processo desejado;
+2. Vá até a aba **Movimentações**;
+3. Localize a **decisão ou ato** que determinou o envio à instância superior;
+4. Clique em **“Movimentar a partir desta movimentação”**;
+5. No menu lateral esquerdo, selecione a opção correspondente:
+
+   - **Autos à Turma Recursal** (processos dos Juizados Especiais);
+   - **Autos ao 2º Grau** (processos das varas comuns).
 
    Exemplo:
+
    ::
 
       [ Ações ]
-      -> Autos à Turma Recursal
+      → Autos à Turma Recursal
 
-5. Na tela seguinte, clique em **Confirmar**.
+6. Na tela seguinte, clique em **Confirmar**.
 
 Resultado da Remessa
-------------------------
+----------------------
 
 Após a confirmação:
 
-✅ O processo será remetido com sucesso.
-✅ Aparecerá no topo da tela a seguinte **mensagem**:
-   ::
+- O processo será **remetido com sucesso** à instância superior;
+- Será exibida, no topo da tela, a mensagem:
 
-      Processo em instância superior
+  ::
 
-⚠️ **Restrições**:
-- O processo **fica bloqueado para movimentações**.
-- **Não é possível** inserir documentos, realizar intimações, conclusões ou outras movimentações enquanto ele estiver em trâmite na instância superior.
+     Processo em instância superior
+
+Restrições Após a Remessa
+--------------------------
+
+Enquanto o processo estiver tramitando na instância superior:
+
+- O processo ficará **bloqueado para movimentações**;
+- **Não será possível**:
+  
+  - Juntar documentos;
+  - Realizar intimações ou citações;
+  - Enviar concluso;
+  - Ordenar cumprimentos;
+  - Efetuar novas remessas.
+
+O desbloqueio ocorrerá **apenas com a devolução dos autos** à instância de origem.
+
+Resumo
+--------
+
+- A remessa ao 2º Grau ou à Turma Recursal é realizada **a partir de uma decisão**;
+- O sistema exige **processo sem pendências** e **cadastro regular das partes**;
+- Após a remessa, o processo fica **bloqueado para novos atos**;
+- A funcionalidade garante **controle, segurança e rastreabilidade** da tramitação entre instâncias no ProJUDI.

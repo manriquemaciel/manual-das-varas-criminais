@@ -1,82 +1,124 @@
+.. coding: utf-8
+
 ===========================================================
 Realizar Remessa
 ===========================================================
 
-Nesta aula, vamos aprender como realizar **remessas de processos** no sistema Projudi para diferentes órgãos como **Delegacia, Ministério Público, Defensoria, Distribuidor e Contadoria**.
+Nesta aula, será demonstrado como realizar **remessas de processos** no sistema **ProJUDI**, permitindo o encaminhamento dos autos a órgãos como **Delegacia, Ministério Público, Defensoria Pública, Distribuidor e Contadoria**.
 
-Passo a Passo: Como Realizar uma Remessa
--------------------------------------------
+A remessa é utilizada quando o processo precisa ser analisado ou receber providências por outro órgão, **sem envio concluso ao magistrado**.
 
-1. Na tela inicial do processo, vá até a aba **Movimentações**.
-2. Localize a movimentação que determinou a remessa (pode ser uma decisão, despacho etc.).
-3. Clique em **Movimentar a partir desta movimentação**.
-4. No menu lateral esquerdo, clique em **Realizar Remessa**.
+Procedimento para Realizar Remessa
+------------------------------------
+
+1. Acesse o processo desejado na tela inicial do sistema ProJUDI;
+2. Vá até a aba **Movimentações**;
+3. Localize a movimentação que fundamenta a remessa (decisão, despacho ou ato ordinatório);
+4. Clique em **“Movimentar a partir desta movimentação”**;
+5. No menu lateral esquerdo, selecione **“Realizar Remessa”**.
 
 Tipos de Remessa e Destinatários
------------------------------------
+----------------------------------
 
-Ao acessar a tela de remessa, o sistema permite que você selecione o destinatário:
+Ao acessar a tela de remessa, o sistema permite selecionar o **órgão destinatário**, conforme a finalidade do encaminhamento.
 
-**Delegacia**
-^^^^^^^^^^^^^^^^
-- Selecione a **Comarca**.
-- Escolha a **Delegacia cadastrada**.
+Delegacia
+^^^^^^^^^^
+
+Utilizada, por exemplo, para diligências complementares ou retorno de inquérito.
+
+- Selecione a **Comarca**;
+- Escolha a **Delegacia cadastrada**;
 - Informe o **prazo** para cumprimento da remessa.
 
-**Distribuidor**
-^^^^^^^^^^^^^^^^^^
-- Finalidades possíveis:
-  - Registro de distribuição
-  - Baixa
-  - Assistida de antecedentes
-  - Redistribuição
-  - Cancelamento
+Distribuidor
+^^^^^^^^^^^^^
 
-**Ministério Público**
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Selecione a **Promotoria**.
-- Informe a **Finalidade da remessa**:
-  - Parecer
-  - Ciência
-  - Manifestação
-  - Remessa física
-  - Razões e contra-razões
-  - Promoção
-  - Recurso
-  - Denúncia
-- Defina o **prazo em dias**.
-- Indique se a remessa é **urgente**.
+Usado para atos administrativos relacionados à distribuição processual.
 
-**Defensoria Pública**
-^^^^^^^^^^^^^^^^^^^^^^^^
-- Finalidades:
-  - Ciência
-  - Manifestação
-  - Contra-razões
-- Informe o **prazo**.
+Finalidades disponíveis:
 
-**Contadoria (Área Cível)**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Exemplo: Terceira Contadoria Judicial
-- Também segue os mesmos passos.
+- Registro de distribuição;
+- Baixa;
+- Assistida de antecedentes;
+- Redistribuição;
+- Cancelamento.
+
+Ministério Público
+^^^^^^^^^^^^^^^^^^^
+
+Encaminhamento frequente na área criminal e cível.
+
+- Selecione a **Promotoria**;
+- Informe a **finalidade da remessa**, como:
+  
+  - Parecer;
+  - Ciência;
+  - Manifestação;
+  - Remessa física;
+  - Razões e contrarrazões;
+  - Promoção;
+  - Recurso;
+  - Denúncia.
+
+- Defina o **prazo em dias**;
+- Indique se a remessa é **urgente**, quando aplicável.
+
+Defensoria Pública
+^^^^^^^^^^^^^^^^^^^
+
+Utilizada quando a parte é assistida pela Defensoria.
+
+Finalidades comuns:
+
+- Ciência;
+- Manifestação;
+- Contrarrazões.
+
+Informe o **prazo correspondente**.
+
+Contadoria
+^^^^^^^^^^^
+
+Aplicável, em regra, à área cível, para cálculos judiciais.
+
+- Selecione a **Contadoria Judicial** (ex: Terceira Contadoria Judicial);
+- Defina o **prazo**, se necessário.
 
 Exemplo Prático: Remessa ao Ministério Público
-----------------------------------------------------
+------------------------------------------------
 
-1. Selecione **Ministério Público** como destinatário.
-2. Escolha a **finalidade**: por exemplo, “Ciência”.
-3. Informe o **prazo em dias**.
-4. Indique **urgência**, se aplicável.
-5. Clique em **Realizar Remessa**.
+1. Selecione **Ministério Público** como destinatário;
+2. Escolha a **finalidade** da remessa, por exemplo: *Ciência*;
+3. Informe o **prazo em dias**;
+4. Marque como **urgente**, se aplicável;
+5. Clique em **“Realizar Remessa”**.
 
 Resultado
-^^^^^^^^^^^^
+-----------
 
-✅ O processo é remetido ao MP
-✅ Ainda é possível realizar outras ações, como:
-   - Enviar Concluso
-   - Fazer nova remessa à Defensoria
+- O processo será remetido com sucesso ao órgão selecionado;
+- A remessa ficará registrada nas **movimentações do processo**;
+- O processo **permanece disponível** para outras ações, como:
+  
+  - Enviar concluso;
+  - Realizar nova remessa para outro órgão.
 
-⚠️ Observação:
-- **Remessas não bloqueiam** o processo para outras ações.
-- **Conclusões sim bloqueiam**: não é possível fazer intimações, citações, ou ordenar cumprimento enquanto o processo estiver concluso.
+Observações Importantes
+-------------------------
+
+- **Remessas não bloqueiam o processo**, permitindo a prática de outros atos;
+- **Conclusões bloqueiam o processo**, impedindo:
+  
+  - Intimações;
+  - Citações;
+  - Ordenação de cumprimentos;
+  - Novas movimentações administrativas.
+
+Resumo
+--------
+
+- A remessa é realizada sempre **a partir de uma movimentação base**;
+- Pode ser direcionada a diversos órgãos internos ou externos;
+- Não impede a continuidade da tramitação processual;
+- É um instrumento essencial para a comunicação institucional no ProJUDI.

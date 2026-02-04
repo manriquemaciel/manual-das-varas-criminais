@@ -1,91 +1,106 @@
+.. coding: utf-8
+
 ===================================================
 Intimação Pessoal por AR Digital
 ===================================================
 
-Nesta aula, você vai aprender como realizar uma **intimação pessoal por AR digital** no sistema ProJUDI. Esse tipo de intimação é utilizada quando a parte precisa ser notificada fisicamente, mas o processo tramita digitalmente.
+Nesta aula, será apresentado o procedimento para realização de **intimação pessoal por AR digital** no sistema ProJUDI. Esse tipo de intimação é utilizado quando a parte deve ser cientificada pessoalmente, porém o processo tramita integralmente em meio eletrônico.
 
 Início do Procedimento
 ------------------------
 
-1. Acesse o processo desejado
-2. Vá até a aba **"Movimentações"**
-3. Clique sobre a movimentação que determina a expedição da intimação (ex: decisão, sentença ou ato ordinatório)
-4. Clique em **"Movimentar a partir desta"**
-5. Selecione **"Intimação"**
+Para iniciar a intimação pessoal por AR digital:
+
+1. Acesse o processo desejado;
+2. Clique na aba **Movimentações**;
+3. Localize a movimentação que determina a intimação (decisão, sentença ou ato ordinatório);
+4. Clique em **Movimentar a partir desta movimentação**;
+5. Selecione a opção **Intimação**.
 
 Configuração da Intimação
 ---------------------------
 
-Na tela de intimação:
+Na tela de configuração da intimação:
 
-- Selecione: **"Intimação pessoal"**
-- Informe o **prazo** em dias
-- Se desejar, marque como **urgente**
-- Clique em **"Intimar"**
+- Selecione o tipo **Intimação pessoal**;
+- Informe o **prazo** em dias;
+- Se necessário, marque a opção **Urgente**;
+- Clique em **Intimar**.
 
-> ✅ A intimação será registrada como **pendente de expedição**
+.. note::
+   Nesse momento, a intimação será registrada como **pendente de expedição**, aguardando a confecção da carta.
 
 Expedição da Intimação
 -------------------------
 
-1. Clique sobre a pendência gerada (indicada na tela)
-2. Na tela **"Expedir Intimação"**, insira:
-   - **Prazo**
-   - Marque a caixa **"Usar anexo"** (se necessário)
-   - Selecione os documentos adicionais (ex: petição inicial, denúncia)
+Para expedir a intimação:
 
-3. Clique em **"Usar AR Digital"**
-4. Selecione:
-   - O **endereço**
-   - O **destinatário**
+1. Clique sobre a pendência gerada;
+2. Na tela **Expedir Intimação**, informe:
+   
+   - Prazo;
+   - Marque a opção **Usar anexo**, se houver documentos a serem enviados;
+   - Selecione os documentos complementares (ex.: petição inicial, denúncia, decisão).
+
+3. Clique em **Usar AR Digital**;
+4. Selecione corretamente:
+   
+   - O **endereço** do destinatário;
+   - O **destinatário** da intimação.
 
 Inclusão da Carta de Intimação
 -------------------------------
 
-Você pode usar duas formas para incluir o conteúdo da carta:
+O conteúdo da carta poderá ser incluído de duas formas:
 
-### Opção 1: Anexar PDF
+Opção 1 - Anexar arquivo PDF
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Clique em **"Anexar"**
-- Insira a descrição
-- Escolha o arquivo PDF
-- Clique em **"Enviar"**
+- Clique em **Anexar**;
+- Informe a descrição do documento;
+- Selecione o arquivo em formato PDF;
+- Clique em **Enviar**.
 
-### Opção 2: Digitar texto
+Opção 2 - Digitar texto no sistema
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Clique em **"Digitar texto"**
-- Selecione um modelo já salvo no sistema (ex: carta de intimação)
-- O texto será preenchido automaticamente com as variáveis configuradas
+- Clique em **Digitar texto**;
+- Selecione um **modelo previamente cadastrado** (ex.: Carta de Intimação);
+- O sistema preencherá automaticamente o texto com as variáveis configuradas.
 
 Finalização
 -------------
 
-1. Clique em **"Continuar"**
-2. Clique em **"Salvar e Concluir"**
-3. Informe a sua **senha**
-4. Clique em **"Assinar e Expedir"**
+Após a inclusão do conteúdo da carta:
 
-> ✅ Expedição realizada com sucesso
+1. Clique em **Continuar**;
+2. Clique em **Salvar e Concluir**;
+3. Informe a **senha do certificado digital**;
+4. Clique em **Assinar e Expedir**.
 
-Verificação no Processo
+A expedição da intimação será realizada com sucesso.
+
+Verificação da Expedição
 -------------------------
 
-Para verificar a expedição:
+Para conferir a intimação expedida:
 
-1. Acesse a aba **"Navegar"**
-2. Clique em **"Detalhes da Movimentação"**
-3. Localize a movimentação:
-   - *Carta expedida – AR digital*
-   - Documento da **carta**
-   - *Aviso de Recebimento dos Correios*, se houver
+1. Acesse a função **Navegar** no processo;
+2. Ative a opção **Detalhes da Movimentação**;
+3. Localize a movimentação correspondente à:
+   
+   - Carta expedida - AR digital;
+   - Documento da carta;
+   - Aviso de Recebimento dos Correios, quando disponível.
 
 Resumo
 --------
 
-A **intimação pessoal via AR digital** permite:
+A **intimação pessoal por AR digital** possibilita:
 
-✅ Maior agilidade e rastreabilidade na comunicação processual
-✅ Geração de AR digital e controle pela própria secretaria
-✅ Registro automático na movimentação do processo
+- Maior agilidade na comunicação processual;
+- Rastreabilidade integral do envio e recebimento;
+- Redução de custos operacionais;
+- Registro automático e seguro nos autos digitais.
 
-Essa funcionalidade é essencial para processos que exigem intimações físicas, mesmo em meio eletrônico.
+Esse procedimento é essencial nos casos em que a legislação exige **intimação pessoal**, mesmo em processos eletrônicos.

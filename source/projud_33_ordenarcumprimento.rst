@@ -1,75 +1,99 @@
+.. coding: utf-8
+
 ===========================================================
 Ordenar Cumprimentos
 ===========================================================
 
-Nesta aula, aprofundaremos o uso da funcionalidade **Ordenar Cumprimentos** no sistema **Projudi**, especialmente com foco em varas criminais, ampliando os exemplos vistos anteriormente.
+Nesta aula, será aprofundada a funcionalidade **Ordenar Cumprimentos** no sistema **ProJUDI**, com enfoque específico nas **Varas Criminais**, ampliando e sistematizando os exemplos apresentados em aulas anteriores.
 
-O que é Ordenar Cumprimentos?
--------------------------------
+O que é a funcionalidade Ordenar Cumprimentos
+-----------------------------------------------
 
-A função **"Ordenar Cumprimentos"** permite ao usuário expedir diversos tipos de documentos com base em determinações processuais. Ela está localizada na aba **Movimentações**, acessível ao clicar sobre a decisão ou ato que fundamenta o cumprimento.
+A função **Ordenar Cumprimentos** permite à Secretaria expedir diversos tipos de documentos processuais a partir de uma **determinação judicial** (decisão, despacho ou sentença).
 
-Tipos de Documentos Disponíveis
---------------------------------
+Essa funcionalidade encontra-se disponível na aba **Movimentações** e deve ser acessada sempre a partir do ato processual que fundamenta o cumprimento.
 
-Na vara **criminal**, a lista de documentos disponíveis se amplia, incluindo:
+Tipos de Documentos Disponíveis na Área Criminal
+-------------------------------------------------
 
-- Alvará
-- Carta de arrematação
-- Carta precatória
-- Edital de citação
-- Mandado de prisão
+Na **área criminal**, o rol de documentos disponíveis para ordenação de cumprimento é ampliado, incluindo:
+
+- Alvará;
+- Carta de arrematação;
+- Carta precatória;
+- Edital de citação;
+- Mandado de prisão;
 - Guias de:
-  - Internação
-  - Execução
-  - Recolhimento
+  
+  - Internação;
+  - Execução;
+  - Recolhimento.
 
-> 🔜 A carta precatória eletrônica será abordada em uma aula específica.
+.. note::
+   A **carta precatória eletrônica** será objeto de aula específica, em razão de suas particularidades procedimentais.
 
-Exemplo: Expedição de Edital de Citação
-----------------------------------------
+Exemplo Prático: Expedição de Edital de Citação
+------------------------------------------------
 
-1. Acesse o processo desejado
-2. Vá até a aba **"Movimentações"**
-3. Clique na movimentação-base (ex: decisão)
-4. Clique em **"Movimentar a partir desta"**
-5. No menu lateral, clique em **"Ordenar Cumprimentos"**
-6. No campo **Tipo de documento**, selecione **Edital de Citação**
-7. Indique:
-   - Se será assinado pelo magistrado: **Sim**
-   - Nome do magistrado
-   - Parte destinatária
-   - Urgência (Sim/Não)
-   - Se necessita retorno
-   - Prazo
+Para expedir um **Edital de Citação**, siga os passos abaixo:
 
-Clique em **"Ordenar"** para gerar a pendência.
+1. Acesse o processo desejado;
+2. Vá até a aba **Movimentações**;
+3. Clique sobre a **movimentação-base** (decisão ou despacho);
+4. Selecione **“Movimentar a partir desta”**;
+5. No menu lateral esquerdo, clique em **“Ordenar Cumprimentos”**;
+6. No campo **Tipo de documento**, selecione **Edital de Citação**;
+7. Preencha as informações obrigatórias:
+
+   - Assinatura pelo magistrado: **Sim**;
+   - Nome do magistrado;
+   - Parte destinatária;
+   - Urgência: Sim ou Não;
+   - Necessidade de retorno;
+   - Prazo do edital.
+
+8. Clique em **“Ordenar”** para gerar a pendência.
 
 Inserção do Documento
 ^^^^^^^^^^^^^^^^^^^^^^
 
-1. Clique sobre a pendência gerada (ex: edital de citação)
-2. Clique em **"Visualizar"**
-3. Clique em **"Analisar"**
-4. Na tela de pré-análise, escolha:
-   - **Digitar texto** (usando modelo previamente salvo)
-   - Ou **Anexar arquivo PDF**
-5. Preencha os campos necessários
-6. Clique em **"Continuar"**, depois **"Salvar e Concluir"**
+Após a ordenação, será criada uma pendência de cumprimento.
 
-Encaminhamento para Assinatura
--------------------------------
+Para inserir o conteúdo do edital:
 
-Diferente dos documentos assinados pela secretaria, **documentos que exigem assinatura do magistrado**, como editais, devem ser **encaminhados ao juiz**.
+1. Clique sobre a pendência gerada;
+2. Selecione **“Visualizar”**;
+3. Clique em **“Analisar”**;
+4. Na tela de pré-análise, escolha uma das opções:
 
-1. Após salvar e concluir a pré-análise, clique em **"Encaminhar ao juiz"**
-2. Confirme o encaminhamento
-3. O documento será enviado para a **fila do magistrado**, que poderá assiná-lo digitalmente
+   - **Digitar texto**, utilizando modelo previamente cadastrado; ou
+   - **Anexar arquivo em PDF**.
+
+5. Preencha os campos necessários;
+6. Clique em **“Continuar”**;
+7. Em seguida, clique em **“Salvar e Concluir”**.
+
+Encaminhamento para Assinatura Judicial
+----------------------------------------
+
+Diferentemente dos documentos assinados pela Secretaria, os **documentos que exigem assinatura do magistrado**, como editais, devem ser **encaminhados ao juiz**.
+
+Procedimento:
+
+1. Após salvar e concluir a pré-análise, clique em **“Encaminhar ao juiz”**;
+2. Confirme o encaminhamento;
+3. O documento será enviado à **fila do magistrado**, onde será assinado digitalmente.
+
+Somente após a assinatura judicial o edital será considerado **válido e apto à publicação**.
 
 Resumo
 --------
 
-✅ Ordenar Cumprimentos é um recurso versátil do Projudi
-✅ Permite expedir documentos como mandados, alvarás, cartas e guias
-✅ Em varas criminais, há documentos específicos como mandado de prisão e guia de recolhimento
-✅ Documentos como **editais** devem ser **encaminhados para assinatura judicial**
+A funcionalidade **Ordenar Cumprimentos**:
+
+- Permite a expedição de diversos documentos processuais;
+- É essencial para o cumprimento das determinações judiciais;
+- Possui, na área criminal, documentos específicos como mandado de prisão e guias;
+- Exige atenção quanto à **assinatura competente**, especialmente em casos de editais e atos de natureza judicial.
+
+O correto uso dessa ferramenta garante **regularidade processual, eficiência cartorária e segurança jurídica**.

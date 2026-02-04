@@ -1,67 +1,92 @@
-===================================================
-Desmembramento de Processos
-===================================================
+.. coding: utf-8
 
-Nesta aula, você vai aprender como realizar o **desmembramento de processos** no sistema ProJUDI — procedimento utilizado quando é necessário **separar partes ou documentos** de um processo para gerar um **novo processo autônomo**.
+Desmembramento de Processos
+===========================
+
+Nesta aula, você aprenderá como realizar o **desmembramento de processos** no sistema ProJUDI. Esse procedimento é utilizado quando se faz necessário **separar partes e/ou documentos** de um processo originário para a formação de **novo processo autônomo**, que passará a tramitar de forma independente.
 
 Acesso à Funcionalidade
--------------------------
+------------------------
 
-1. Acesse a **aba Partes**
-2. No canto inferior direito, clique no botão **"Desmembrar"**
+1. Acesse o **processo originário**;
+2. Clique na aba **Partes**;
+3. No canto inferior direito da tela, clique no botão **Desmembrar**.
+
 
 Etapas do Desmembramento
+------------------------
+
+Seleção de Documentos
+^^^^^^^^^^^^^^^^^^^^^^
+
+- Será exibida a tela **Cadastro de Desmembramento**;
+- Selecione os **documentos** que deverão compor o novo processo.
+
+É possível:
+
+- Selecionar documento por documento; ou
+- Utilizar a opção **Selecionar todos** (procedimento recomendado, salvo determinação em sentido diverso).
+
+Após a seleção, clique em **OK** para prosseguir.
+
+
+Seleção de Partes
+^^^^^^^^^^^^^^^^^
+
+Na tela seguinte, será necessário definir o tratamento das partes processuais:
+
+- **Partes copiadas** para o novo processo:
+  
+  - Permanecem no processo originário;
+  - São replicadas no novo processo.
+  
+  Exemplo: Ministério Público, testemunhas, corréus não destacados.
+
+- **Partes movidas** para o novo processo:
+  
+  - São retiradas do processo originário;
+  - Passam a integrar exclusivamente o novo processo.
+  
+  Exemplo: réu específico que será processado em autos apartados.
+
+Após a seleção, clique em **Próximo Passo**.
+
+
+Verificação e Confirmação
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Confira atentamente:
+  
+  - Os documentos selecionados;
+  - As partes marcadas para **cópia**;
+  - As partes marcadas para **movimentação definitiva**.
+
+Estando as informações corretas, clique em **Salvar**.
+
+
+Resultado do Procedimento
 --------------------------
 
-### 1. Seleção de Documentos
+Após a confirmação:
 
-- A tela **Cadastro de Desmembramento** será exibida
-- Selecione os **documentos** que devem compor o novo processo
-- Você pode:
-  - Marcar documento por documento
-  - Marcar todos de uma vez (opção recomendada)
+- O desmembramento será realizado com sucesso;
+- Será gerado um **novo número de processo**, iniciando com **0 (zero) dias de tramitação**;
+- O processo originário passará a conter **referência ao processo desmembrado**;
+- O novo processo herdará os documentos e partes conforme as opções selecionadas.
 
-Clique em **OK** para continuar.
+É possível:
 
-### 2. Seleção de Partes
+- Clicar no número do novo processo para acessá-lo diretamente;
+- Acompanhar a tramitação de ambos os processos de forma **independente**.
 
-Na próxima tela:
-
-- Selecione as **partes que serão copiadas** para o novo processo
-  (ex: Ministério Público, testemunhas, alguns indiciados)
-
-- Selecione as **partes que serão movidas** definitivamente
-  (ex: o promovido, réu específico, etc.)
-
-Clique em **Próximo Passo**.
-
-### 3. Verificação e Confirmação
-
-- Verifique se as seleções estão corretas
-- Confirme:
-  - Quais partes serão **copiadas**
-  - Quais partes serão **movidas**
-
-Clique em **Salvar**.
-
-Resultado
-----------
-
-- O desmembramento será realizado com sucesso
-- Um **novo número de processo** será gerado, com **0 dias de tramitação**
-- O processo original exibirá uma **referência ao processo desmembrado**
-- O novo processo herdará os documentos e partes conforme selecionado
-
-> ✅ É possível clicar no número do novo processo para acessá-lo diretamente
-> ✅ A tramitação dos processos seguirá de forma **independente**
 
 Resumo
 --------
 
-O **desmembramento de processos** é útil em situações como:
+O desmembramento de processos é indicado, entre outras hipóteses, para:
 
-- Separação de réus em processo criminal
-- Destacamento de parte da ação para outra vara ou juízo
-- Agilização da tramitação de temas autônomos
+- Separação de réus em ações penais;
+- Destaque de parte do feito para tramitação em outro juízo ou vara;
+- Organização e racionalização da tramitação de matérias autônomas.
 
-No ProJUDI, esse procedimento é feito de forma **guiada, segura e rastreável**.
+No sistema ProJUDI, o desmembramento é realizado de forma **guiada, segura e plenamente rastreável**, garantindo a integridade das informações processuais.

@@ -1,91 +1,104 @@
-===================================================
+.. coding: utf-8
+
 Cadastro de Réu Preso
-===================================================
+=====================
 
 Nesta aula, você aprenderá como **registrar prisões e solturas** no sistema ProJUDI, tanto na área **criminal** quanto **cível** (prisões civis, como as de alimentos).
 
+
 Cadastro de Prisão
---------------------
+-------------------
 
-1. Acesse a aba **Partes**
-2. Clique sobre o nome da parte (réu/iniciado)
-3. Na tela de edição, clique em **Informações Adicionais**
-4. Clique na aba **Prisões**
-5. Clique em **"Adicionar"**
+1. Acesse a aba **Partes**;
+2. Clique sobre o nome da parte (réu ou indiciado);
+3. Na tela de edição da parte, clique em **Informações Adicionais**;
+4. Acesse a aba **Prisões**;
+5. Clique em **Adicionar**.
 
-### Preencha os campos:
+Preencha os seguintes campos:
 
-- **Data da prisão**
-- **Número da guia de prisão**
-- **Motivo da prisão** (ex: flagrante, prisão civil)
-- **Local da prisão**
+- **Data da prisão**;
+- **Número da guia de prisão**;
+- **Motivo da prisão** (ex.: flagrante, prisão preventiva, prisão civil);
+- **Local da prisão**.
 
-6. Clique em **Salvar**
+Após o preenchimento, clique em **Salvar**.
 
-> ✅ A prisão será registrada e constará no sistema com **transparência e rastreabilidade**.
+Após o cadastro, a prisão ficará registrada no sistema, garantindo **transparência e rastreabilidade** das informações.
+
 
 Identificação do Réu Preso
-----------------------------
+---------------------------
 
-Após o cadastro da prisão:
+Após o registro da prisão, o sistema passa a identificar visualmente o réu preso:
 
-- O número do processo aparece em **vermelho** na tela inicial
-- Um **ícone de cela com figura humana** é exibido
-- Ao passar o mouse sobre o ícone, aparecem:
-  - Status: **Réu Preso**
-  - **Quantidade de dias preso**
+- O número do processo passa a ser exibido em **vermelho**;
+- Um **ícone de cela com figura humana** aparece na tela inicial;
+- Ao posicionar o cursor sobre o ícone, o sistema informa:
+  
+  - Status: **Réu Preso**;
+  - **Quantidade de dias de prisão**.
 
-Na aba **Partes**, o nome do réu também aparece com a tag **"Réu Preso"**.
+Na aba **Partes**, o nome do réu também será identificado com a tag **“Réu Preso”**.
 
-Conversão da Prisão (Ex: Flagrante → Preventiva)
---------------------------------------------------
 
-1. Na aba **Prisões**, clique em **"Converter tipo"**
-2. Insira:
-   - **Data da nova prisão** (ex: conversão para preventiva)
-   - **Novo número da guia**
-   - **Novo motivo da prisão**
-   - **Local**
-   - **Mandado de prisão** (se aplicável)
+Conversão da Prisão
+--------------------
 
-3. Clique em **Salvar**
+Em situações como a conversão da prisão em flagrante para prisão preventiva, proceda da seguinte forma:
 
-O sistema manterá o **histórico das prisões** (ex: flagrante, preventiva), com contagem automática de dias.
+1. Na aba **Prisões**, clique em **Converter tipo**;
+2. Informe:
+   
+   - **Data da nova prisão**;
+   - **Novo número da guia**;
+   - **Novo motivo da prisão**;
+   - **Local da prisão**;
+   - **Mandado de prisão**, se houver.
+
+3. Clique em **Salvar**.
+
+O sistema manterá o **histórico completo das prisões**, com contagem automática e individualizada dos dias de custódia.
+
 
 Cadastro de Soltura
----------------------
+--------------------
 
-1. Acesse a **última prisão** registrada
-2. Clique na **data da prisão**
-3. Na tela de alteração, selecione:
-   - **"Continua preso?" → Não**
-4. Preencha:
-   - **Data da soltura**
-   - **Número da guia de alvará de soltura**
-   - **Motivo da soltura**:
-     - Absolvição
-     - Habeas corpus
-     - Liberdade provisória
-     - Fiança ou sem fiança
-     - Outros
-   - **Anexe o alvará** (em PDF)
+Para registrar a soltura da parte:
 
-5. Clique em **Salvar**
+1. Acesse a **última prisão registrada**;
+2. Clique sobre a **data da prisão**;
+3. Selecione a opção **“Continua preso?” → Não**;
+4. Preencha os campos obrigatórios:
 
-Resultado:
+   - **Data da soltura**;
+   - **Número da guia de alvará de soltura**;
+   - **Motivo da soltura**, como:
+     
+     - Absolvição;
+     - Habeas corpus;
+     - Liberdade provisória;
+     - Fiança (com ou sem fiança);
+     - Outros.
 
-- O status de **réu preso** é **removido**
-- O processo deixa de ter **prioridade visual**
-- O ícone da cela desaparece da tela inicial e da aba de partes
+5. Anexe o **alvará de soltura** em formato PDF;
+6. Clique em **Salvar**.
+
+Após o registro da soltura:
+
+- O status de **réu preso** é automaticamente removido;
+- O processo deixa de ter destaque visual prioritário;
+- O ícone de cela deixa de ser exibido na tela inicial e na aba de partes.
+
 
 Resumo
---------
+-------
 
-A funcionalidade de **Cadastro de Prisão e Soltura** no ProJUDI permite:
+O cadastro de prisão e soltura no ProJUDI permite:
 
-✅ Transparência na **situação carcerária** da parte
-✅ Controle automático de **dias de prisão**
-✅ Registro de **histórico de prisões e solturas**
-✅ Conformidade com decisões judiciais e mandados
+- Controle transparente da **situação carcerária** da parte;
+- Contagem automática do **tempo de prisão**;
+- Registro do **histórico de prisões e solturas**;
+- Conformidade com decisões judiciais, mandados e alvarás.
 
-É essencial para o andamento adequado de processos **criminais e civis com prisão**.
+Trata-se de funcionalidade essencial para o correto andamento dos processos **criminais** e **cíveis com prisão**.

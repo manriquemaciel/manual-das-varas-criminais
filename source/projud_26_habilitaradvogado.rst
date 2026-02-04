@@ -1,50 +1,74 @@
-===================================================
+.. coding: utf-8
+
 Habilitar Advogado
-===================================================
+==================
 
-Nesta aula, você vai aprender como **habilitar um advogado** no sistema ProJUDI, vinculando-o corretamente à parte que ele irá representar no processo.
+Nesta aula, você aprenderá como **habilitar advogado** no sistema ProJUDI, vinculando-o corretamente à parte que irá representar no processo.
 
-Passo a Passo para Habilitar Advogado
----------------------------------------
 
-1. Acesse o processo desejado
-2. Clique na aba **"Advogados"**
-3. Clique em **"Adicionar"** (localizado na parte inferior da tela)
+Passo a Passo para Habilitação de Advogado
+--------------------------------------------
 
-### Tela de Seleção de Advogado
+1. Acesse o **processo desejado**;
+2. Clique na aba **Advogados**;
+3. Clique em **Adicionar**, localizado na parte inferior da tela.
 
-- Você pode filtrar por:
-  - **Número da OAB**
-  - **Nome do advogado**
 
-> Também é possível selecionar apenas advogados **particulares** ou da **Defensoria Pública**.
+Tela de Seleção de Advogado
+----------------------------
 
-4. Após localizar o advogado desejado, clique em **Selecionar**
+Na tela de seleção, é possível localizar o advogado por meio dos seguintes filtros:
 
-5. Escolha a **parte que será representada**:
-   - Requerente
-   - Requerido
-   - Iniciado
-   - Vítima
-   - Outro (conforme o caso)
+- **Número da OAB**;
+- **Nome do advogado**.
 
-6. Clique em **Salvar**
+Também é possível restringir a pesquisa para:
 
-Confirmação
--------------
+- Advogados **particulares**;
+- **Defensoria Pública**.
 
-Após a habilitação:
+Após localizar o advogado desejado, clique em **Selecionar**.
 
-- O advogado será **vinculado à parte selecionada**
-- A informação ficará visível na aba **Partes** e **Advogados** do processo
+
+Vinculação à Parte Representada
+--------------------------------
+
+Após selecionar o advogado, o sistema solicitará a indicação da **parte representada**, que pode ser:
+
+- Requerente;
+- Requerido;
+- Iniciado;
+- Vítima;
+- Outro, conforme a natureza do processo.
+
+Selecione a parte correta e clique em **Salvar**.
+
+
+Confirmação da Habilitação
+---------------------------
+
+Após a conclusão do procedimento:
+
+- O advogado ficará **devidamente habilitado** no processo;
+- A vinculação será exibida:
+  
+  - Na aba **Advogados**;
+  - Na aba **Partes**, junto ao nome da parte representada.
+
+A habilitação passa a produzir efeitos imediatos, permitindo ao advogado:
+
+- Visualizar os autos;
+- Receber intimações;
+- Praticar atos processuais, conforme o perfil e a legislação aplicável.
+
 
 Resumo
 --------
 
-A funcionalidade de habilitação de advogado permite:
+A habilitação de advogado no ProJUDI permite:
 
-✅ Associar corretamente representantes legais às partes processuais
-✅ Registrar defensores públicos ou advogados particulares
-✅ Garantir a atuação jurídica no processo conforme a legislação
+- Associar corretamente o **representante legal** à parte processual;
+- Registrar a atuação de **advogado particular** ou **Defensor Público**;
+- Garantir a regularidade da representação processual nos autos.
 
-Essa etapa é essencial para assegurar a **representação adequada** das partes nos autos.
+Esse procedimento é essencial para assegurar o **exercício do contraditório e da ampla defesa**, bem como a correta tramitação do processo.

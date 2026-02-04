@@ -22,12 +22,10 @@ Níveis de sigilo do processo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - **Público**  
-  Acessível a todos os servidores do Poder Judiciário, órgãos públicos parceiros
-  e advogados habilitados.
+  - Acessível a todos os servidores do Poder Judiciário, órgãos públicos parceiros e advogados habilitados.
 
 - **Médio**  
-  Acessível apenas aos servidores da unidade onde o processo tramita, às partes
-  e aos usuários expressamente autorizados.
+  - Acessível apenas aos servidores da unidade onde o processo tramita, às partes e aos usuários expressamente autorizados.
 
 Como alterar para sigilo médio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -64,22 +62,22 @@ Níveis de sigilo disponíveis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - **Público**  
-  Acessível a todos os usuários externos e internos.
+  - Acessível a todos os usuários externos e internos.
 
 - **Segredo**  
-  Acessível às partes e aos colaboradores da Justiça.
+  - Acessível às partes e aos colaboradores da Justiça.
 
 - **Mínimo**  
-  Acessível apenas aos servidores da mesma competência.
+  - Acessível apenas aos servidores da mesma competência.
 
 - **Médio**  
-  Acessível aos servidores da unidade e às partes autorizadas.
+  - Acessível aos servidores da unidade e às partes autorizadas.
 
 - **Intenso**  
-  Acessível somente ao magistrado, diretor, escrivão, oficial de justiça e assessor.
+  - Acessível somente ao magistrado, diretor, escrivão, oficial de justiça e assessor.
 
 - **Absoluto**  
-  Acessível exclusivamente ao magistrado e aos usuários expressamente autorizados.
+  - Acessível exclusivamente ao magistrado e aos usuários expressamente autorizados.
 
 .. note::
 

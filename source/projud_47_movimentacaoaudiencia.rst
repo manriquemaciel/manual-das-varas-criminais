@@ -1,69 +1,87 @@
+.. coding: utf-8
+
 =======================================================
 Movimentação de Audiência
 =======================================================
 
-Nesta aula, você aprenderá como **movimentar uma audiência** no sistema Projudi, incluindo a inserção do **termo de audiência**, definição de **status**, **resultado**, e até a **prolação de sentença**, quando cabível.
+Nesta aula, é apresentado o procedimento para **movimentação de audiências** no sistema **ProJUDI**, incluindo o registro do **termo de audiência**, definição de **status**, **resultado**, bem como a possibilidade de **prolação imediata de decisão ou sentença**, quando cabível.
 
-Importante
-----------------
-Após agendar uma audiência, **não é possível excluir a pendência** gerada. Caso necessário, deve-se movimentá-la informando, por exemplo, que foi:
+Observação Importante
+----------------------
 
-- Cancelada
-- Redesignada
-- Inserida por engano
+Após o agendamento de uma audiência, **não é possível excluir a pendência** gerada pelo sistema.
+
+Caso a audiência não tenha sido realizada, a pendência deverá ser **obrigatoriamente movimentada**, informando o motivo, tais como:
+
+- Audiência cancelada
+- Audiência redesignada
+- Audiência inserida por equívoco
 
 Movimentar Audiência
------------------------
+----------------------
 
-1. Acesse o processo e clique em **Movimentar Audiência**.
-2. Em **Arquivos**, adicione o **termo de audiência**:
+Para realizar a movimentação da audiência:
 
-   - Você pode **digitar o texto** no sistema (ex: termo de retratação, ausência de vítima, etc.)
-   - Ou **anexar um arquivo PDF** (ex: termo assinado e digitalizado)
+1. Acesse o processo desejado.
+2. Clique na opção **Movimentar Audiência**.
+3. Na seção **Arquivos**, insira o **termo de audiência**, podendo optar por:
+   - **Digitar o texto** diretamente no sistema (ex.: termo de retratação, ausência de vítima, ausência de partes);
+   - **Anexar arquivo em PDF** (ex.: termo assinado e posteriormente digitalizado).
 
-3. Informe:
+4. Preencha os campos obrigatórios:
+   - **Status da audiência**: realizada, cancelada, redesignada, negativa, entre outros;
+   - **Resultado da audiência**: acordo, transação penal, declínio de competência, revelia, ausência de partes, etc.;
+   - **Número de pessoas ouvidas**;
+   - **Valor do acordo**, se aplicável;
+   - **Nome do responsável pela movimentação**.
 
-   - **Status da audiência**: realizada, cancelada, redesignada, etc.
-   - **Resultado**: acordo, transação, declínio de competência, revelia, etc.
-   - **Número de pessoas ouvidas**
-   - **Valor do acordo** (se aplicável)
-   - **Nome do responsável pela movimentação**
+Sentença ou Decisão Proferida em Audiência
+-------------------------------------------
 
-Sentença ou Decisão
------------------------
+Quando o termo de audiência **contiver sentença**, é possível realizar a movimentação diretamente como **sentença homologatória**, sem necessidade de envio concluso ao magistrado.
 
-Se o termo de audiência **contiver uma sentença**, é possível já lançar a movimentação como **sentença homologatória**:
+Procedimento:
 
-- Em **Tipo de movimentação**:
-  - Escolha "Sentença homologatória" (ex: movimentação 466 – homologação de acordo)
+- Em **Tipo de Movimentação**:
+  - Selecione **Sentença Homologatória** (ex.: movimentação 466 – homologação de acordo);
 - Em **Juiz**:
-  - Informe o nome do magistrado
+  - Informe o nome do magistrado;
 - Em **Realizado por**:
-  - Também insira o nome do juiz, para que gere **produtividade ao magistrado**
-- Marque a opção: **Movimentar processo automaticamente**
-- Clique em **Salvar**
+  - Informe também o nome do magistrado, para que a movimentação **gere produtividade judicial**;
+- Marque a opção **Movimentar processo automaticamente**;
+- Clique em **Salvar**.
 
-Se não houver sentença, mas apenas uma **decisão interlocutória**, repita o procedimento escolhendo:
+Decisão Interlocutória
+-----------------------
 
-- **Tipo de movimentação**: Decisão
-- **Juiz**: Informe o nome do magistrado
-- **Realizado por**: Servidor responsável
-- O sistema **não gerará produtividade** ao juiz nesse caso.
+Se o termo de audiência contiver apenas **decisão interlocutória**, o procedimento será semelhante, observando-se as seguintes diferenças:
+
+- Em **Tipo de Movimentação**:
+  - Selecione **Decisão**;
+- Em **Juiz**:
+  - Informe o nome do magistrado;
+- Em **Realizado por**:
+  - Informe o nome do servidor responsável;
+- Nesta hipótese, o sistema **não gerará produtividade ao magistrado**.
 
 Resultado da Movimentação
 ---------------------------
 
-- A movimentação será exibida na aba **Movimentações** do processo
-- A depender da escolha entre **decisão ou sentença**, ela pode:
-  - Ser apenas uma anotação
-  - Ou **gerar produtividade diretamente ao juiz**, sem necessidade de enviar concluso
+Após a conclusão:
+
+- A movimentação será registrada na aba **Movimentações** do processo;
+- A audiência será considerada devidamente movimentada, eliminando pendências;
+- A depender do tipo selecionado:
+  - A movimentação poderá ser apenas registral; ou
+  - Poderá **gerar produtividade diretamente ao magistrado**, sem necessidade de conclusão.
 
 Resumo
 --------
 
-O sistema Projudi permite:
+A movimentação de audiência no ProJUDI permite:
 
-- Inserção do termo de audiência de forma digital ou anexada
-- Registro do status e resultado da audiência
-- Prolação direta de sentença homologatória com impacto na produtividade
-- Movimentações ágeis, sem necessidade de envio concluso ao magistrado em alguns casos
+- Inserir o termo de audiência de forma digitável ou por arquivo anexado;
+- Registrar status e resultado da audiência;
+- Proferir decisão ou sentença diretamente em audiência;
+- Gerar produtividade judicial quando cabível;
+- Dar regular andamento ao processo de forma célere e organizada.

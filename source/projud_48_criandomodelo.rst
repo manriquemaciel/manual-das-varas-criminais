@@ -1,86 +1,121 @@
+.. coding: utf-8
+
 =======================================================
 Criando Modelos de Documento
 =======================================================
 
-Nesta aula, você aprenderá a criar modelos de documentos dentro do sistema Projudi, utilizando a funcionalidade disponível na aba **Outros > Meus modelos de documentos**.
+Nesta aula, será apresentado o procedimento para **criação de modelos de documentos** no sistema **ProJUDI**, utilizando a funcionalidade disponível no menu **Outros > Meus Modelos de Documentos**.
 
-Acessando a funcionalidade
----------------------------
+Esses modelos permitem **padronização**, **agilidade** e **automação** na expedição de documentos, por meio do uso de **variáveis dinâmicas**.
 
-1. Clique na aba superior **Outros**.
-2. Selecione **Meus modelos de documentos**.
-3. Para visualizar modelos existentes, clique em **Pesquisar**.
+Acesso à Funcionalidade
+------------------------
+
+Para acessar a área de modelos de documentos:
+
+1. Clique no menu superior **Outros**.
+2. Selecione a opção **Meus Modelos de Documentos**.
+3. Para visualizar modelos já existentes, clique em **Pesquisar**.
 4. Para criar um novo modelo, clique em **Novo**.
 
-Criando um novo modelo
+Criação de Novo Modelo
 -----------------------
 
-Na tela de criação de modelo:
+Na tela de cadastro do modelo, preencha os seguintes campos:
 
-- **Descrição**: Informe o nome do modelo (ex: *Mandado de Citação Criminal*).
-- **Tipo de Documento**: Escolha entre opções como *Citação*, *Intimação*, *Alvará*, etc.
-- **Competência**: Indique se é da área Cível, Criminal, Juizado, etc.
+- **Descrição**:
+  - Informe um nome claro e objetivo para o modelo  
+    (ex.: *Mandado de Citação Criminal*, *Certidão de Decurso de Prazo*).
+
+- **Tipo de Documento**:
+  - Selecione o tipo correspondente, como:
+    - Citação
+    - Intimação
+    - Alvará
+    - Mandado
+    - Certidão
+    - Ofício
+
+- **Competência**:
+  - Indique a área de atuação:
+    - Cível
+    - Criminal
+    - Juizado
+    - Família, entre outras.
 
 .. note::
 
-   O modelo criado ficará **disponível para todos os usuários da vara**.
+   O modelo criado ficará **disponível para todos os usuários da unidade judiciária (vara)**.
 
-Inserindo e editando o conteúdo
---------------------------------
+Inserção e Edição do Conteúdo
+-------------------------------
 
-- Copie e cole o texto no campo "Inserir texto".
-- Utilize o botão **Maximizar** para melhor visualização.
-- Cuidado com **âncoras ocultas** (ícones de bandeira azul) que podem aparecer ao colar de documentos externos. Para removê-las:
-  - Clique com o botão direito sobre a âncora
-  - Selecione **Remover âncora**
+- Copie e cole o texto do documento no campo **Inserir texto**.
+- Utilize o botão **Maximizar** para facilitar a edição e visualização do conteúdo.
 
-Formatando o texto
+Ao colar textos provenientes de editores externos (Word, LibreOffice, etc.), pode ocorrer a inserção de **âncoras ocultas**, identificadas por ícones de bandeira azul.
+
+Para removê-las:
+
+- Clique com o botão direito sobre a âncora;
+- Selecione a opção **Remover âncora**.
+
+Formatação do Texto
 --------------------
 
-Use o botão **Estilo** para aplicar formatações padronizadas:
+A formatação deve ser realizada preferencialmente por meio do botão **Estilo**, garantindo padronização visual dos documentos.
 
-- **Parágrafo 1**: Recuo de 2cm
-- **Parágrafo 2**: Recuo de 3cm (padrão mais utilizado)
-- **Parágrafo 3**: Recuo de 4cm
-- **Emenda**: Para títulos ou frases destacadas
+Opções mais utilizadas:
+
+- **Parágrafo 1**: recuo de 2 cm
+- **Parágrafo 2**: recuo de 3 cm (padrão mais utilizado)
+- **Parágrafo 3**: recuo de 4 cm
+- **Emenda**: utilizado para títulos ou trechos de destaque
 
 .. tip::
 
-   O espaçamento entre linhas (ex: 1,15 / 1,5) será mantido conforme o texto colado.
+   O espaçamento entre linhas (ex.: 1,15 ou 1,5) será preservado conforme o texto colado no editor.
 
-Inserindo variáveis
----------------------
+Inserção de Variáveis
+----------------------
 
-O sistema permite o uso de **variáveis automáticas**, que serão preenchidas dinamicamente de acordo com o processo.
+O ProJUDI permite a utilização de **variáveis automáticas**, que são preenchidas pelo sistema no momento da expedição do documento, conforme os dados do processo.
 
-Exemplos:
+Exemplos de variáveis:
 
-- ``${nomeParte}`` – Nome do réu ou parte
+- ``${nomeParte}`` – Nome da parte ou do réu
 - ``${numeroProcesso}`` – Número do processo
-- ``${assinatura}`` – Local da assinatura
+- ``${assinatura}`` – Campo de assinatura automática
 
 .. note::
 
-   Variáveis serão explicadas com mais detalhes na **próxima aula**.
+   O uso de variáveis será detalhado de forma aprofundada na **aula seguinte**.
 
-Finalizando o modelo
+Finalização do Modelo
 -----------------------
 
-- Clique em **Salvar** para registrar seu modelo.
-- Para visualizar como ficará o documento final, clique em **Pré-visualizar**.
-- Ajuste quebras de linha e espaços excessivos para manter o documento em **uma única lauda**.
+Após concluir a edição do texto:
 
-Edição e remoção
-------------------
+1. Clique em **Salvar** para registrar o modelo.
+2. Utilize a opção **Pré-visualizar** para conferir o resultado final.
+3. Ajuste:
+   - Quebras de linha excessivas;
+   - Espaços em branco;
+   - Recuos e alinhamentos, a fim de manter o documento, preferencialmente, em **uma única lauda**.
 
-- Para editar um modelo, clique em **Alterar**.
-- Para remover, clique em **Remover**.
-- Ao editar, você pode:
-  - Excluir espaços acima do cabeçalho (ex: “Autos nº...”)
-  - Centralizar títulos (ex: *Mandado de Citação*)
-  - Corrigir recuos e parágrafos com o botão **Estilo**
+Edição e Remoção de Modelos
+----------------------------
+
+- Para editar um modelo existente, clique em **Alterar**.
+- Para excluir, clique em **Remover**.
+
+Durante a edição, é recomendável:
+
+- Remover espaços indevidos antes do cabeçalho (ex.: “Autos nº ...”);
+- Centralizar títulos como **Mandado de Citação**, **Certidão**, etc.;
+- Ajustar parágrafos e recuos utilizando exclusivamente o botão **Estilo**.
 
 Conclusão
 ------------
 
-Após o salvamento, seu modelo estará disponível na listagem de **Meus modelos de documentos**, pronto para ser utilizado em futuras expedições, com variáveis preenchidas automaticamente.
+Após o salvamento, o modelo ficará disponível na listagem de **Meus Modelos de Documentos**, podendo ser utilizado em futuras expedições, com **preenchimento automático das variáveis** e manutenção do padrão institucional da unidade.

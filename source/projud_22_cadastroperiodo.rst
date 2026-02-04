@@ -1,76 +1,116 @@
-==========================================================
+.. coding: utf-8
+
+.. raw:: latex
+
+   \newpage
+
+
 Cadastro de Perito, Acordo e Suspeição
-==========================================================
+======================================
 
-Nesta aula, vamos abordar três funcionalidades importantes da aba **Informações Adicionais** no sistema ProJUDI:
 
-- Cadastro de **perito**
-- Registro de **acordo**
-- Registro de **impedimento ou suspeição**
+Nesta aula, são apresentadas três funcionalidades relevantes da aba **Informações Adicionais** do sistema ProJUDI, que permitem registrar situações específicas que impactam diretamente a tramitação processual:
 
-Cadastro de Perito
---------------------
+- Cadastro de **perito**;
+- Registro de **acordo**;
+- Registro de **impedimento ou suspeição**.
 
-1. Acesse a aba **Informações Adicionais**
-2. Clique em **"Habilitações Provisórias"**
-3. Clique em **"Novo"**
 
-> Lembre-se: o perito deve estar previamente cadastrado no sistema.
+Cadastro de perito
+-------------------
 
-### Como cadastrar o perito:
 
-1. Clique no botão de **pesquisa**
-2. Selecione o nome do perito (ou pesquise por login, CPF ou nome)
-3. Defina a **validade da habilitação provisória** (conforme decisão judicial)
-4. Clique em **Salvar**
+O cadastro de perito é realizado por meio de **habilitação provisória**, conforme determinação judicial.
 
-Mensagem de confirmação:
-Dados registrados com sucesso.
+Procedimento:
 
-O perito será habilitado provisoriamente, e o sistema irá gerar uma **movimentação automática** vinculada ao processo.
+1. Acesse a aba **Informações Adicionais**;
+2. Clique em **Habilitações Provisórias**;
+3. Clique em **Novo**.
 
-Cadastro de Acordo
---------------------
+> Atenção: o perito deve estar **previamente cadastrado** no sistema ProJUDI.
 
-1. Ainda em **Informações Adicionais**, clique em **"Acordo"**
-2. Clique em **"Novo"**
+
+Como habilitar o perito
+~~~~~~~~~~~~~~~~~~~~~~~
+
+
+1. Clique no botão de **pesquisa**;
+2. Localize o perito pelo nome, login ou CPF;
+3. Selecione o perito desejado;
+4. Defina a **validade da habilitação provisória**, conforme decisão judicial;
+5. Clique em **Salvar**.
+
+Mensagem exibida pelo sistema:
+
+*Dados registrados com sucesso.*
+
+Após a confirmação, o perito ficará habilitado provisoriamente e o sistema gerará automaticamente uma **movimentação processual** correspondente.
+
+
+Cadastro de acordo
+-------------------
+
+
+O registro de acordo é utilizado para formalizar composições realizadas entre as partes.
+
+Procedimento:
+
+1. Na aba **Informações Adicionais**, clique em **Acordo**;
+2. Clique em **Novo**;
+3. Preencha os campos obrigatórios:
+   
+   - **Data do acordo**;
+   - **Data de cumprimento**;
+   - **Cumprimento voluntário** (*Sim* ou *Não*);
+   - **Observações** (campo opcional);
+
+4. Clique em **Salvar**.
+
+Mensagem exibida pelo sistema:
+
+*Acordo cadastrado com sucesso.*
+
+O acordo ficará registrado na aba **Informações Adicionais** e também constará no histórico de **movimentações** do processo.
+
+
+Cadastro de impedimento ou suspeição
+-------------------------------------
+
+
+O sistema permite registrar situações de **impedimento** ou **suspeição**, garantindo transparência e controle dos atos processuais.
+
+Procedimento:
+
+1. Clique em **Impedimento/Suspeição**;
+2. Clique em **Novo**;
 3. Preencha os campos:
+   
+   - **Tipo**: *Impedimento* ou *Suspeição*;
+   - **Motivo**: selecione entre os motivos disponíveis no sistema;
+   - **Pessoa impedida ou suspeita**:
+     
+     - Magistrado;
+     - Analista;
+     - Promotor de Justiça;
+     - Defensor Público;
+     - Outro agente processual;
 
-   - **Data do acordo**
-   - **Data de cumprimento**
-   - Cumprimento foi voluntário? (**Sim** ou **Não**)
-   - Observações (opcional)
+   - **Observações** (opcional);
 
-4. Clique em **Salvar**
+4. Clique em **Salvar**.
 
-Mensagem de confirmação:
-Acordo cadastrado com sucesso.
+O registro será automaticamente incluído nas **movimentações** do processo.
 
-O acordo aparecerá listado em **Informações Adicionais** e será registrado nas movimentações.
-
-Cadastro de Impedimento ou Suspensão
---------------------------------------
-
-1. Clique em **"Impedimento/Suspeição"**
-2. Clique em **"Novo"**
-3. Preencha os campos:
-
-   - **Tipo**: *Impedimento* ou *Suspeição*
-   - **Motivo**: selecione na lista de motivos disponíveis
-   - **Pessoa impedida**: pode ser o magistrado, analista, promotor, defensor público, etc.
-   - Observações (opcional)
-
-4. Clique em **Salvar**
-
-Essas informações também serão registradas nas **movimentações** do processo.
 
 Resumo
---------
+-------
 
-A aba **Informações Adicionais** permite registrar elementos fundamentais que impactam diretamente a tramitação do processo:
 
-- Habilitação de **peritos judiciais**
-- Formalização de **acordos**
-- Registro de **impedimentos e suspeições**
+A aba **Informações Adicionais** possibilita o registro de informações essenciais para a regularidade e transparência da tramitação processual, permitindo:
 
-Esses registros geram movimentações automáticas, garantindo **transparência e rastreabilidade**.
+- A habilitação provisória de **peritos judiciais**;
+- A formalização de **acordos** celebrados entre as partes;
+- O registro de **impedimentos e suspeições** de agentes processuais.
+
+Todos esses procedimentos geram movimentações automáticas no sistema, assegurando **rastreabilidade**, **controle** e **segurança jurídica**.

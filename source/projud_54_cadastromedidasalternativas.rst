@@ -1,66 +1,88 @@
+.. coding: utf-8
+
 ==================================================================
 Cadastro de Medidas Alternativas: Transação Penal
 ==================================================================
 
-O cadastro de **transações penais** no sistema Projudi é realizado na aba
+O cadastro das **transações penais** no sistema **Projudi** é realizado na aba
 **Informações Adicionais**, especificamente em:
 
-``Benefícios, Medidas e Suspensões`` → ``Transação Penal``
+::
 
-Cadastro de Medida Alternativa
+   Benefícios, Medidas e Suspensões → Transação Penal
+
+Esse módulo permite o controle completo das **medidas alternativas homologadas em juízo**, com acompanhamento automático do cumprimento.
+
+Cadastro da Medida Alternativa
 -------------------------------
 
-Ao clicar em **Transação Penal**, abrirá a tela de cadastro da medida homologada em juízo.
+Ao clicar em **Transação Penal**, será exibida a tela de cadastro da medida.
 
-1. **Data de Início**
-2. Clique em **Novo**
-3. Selecione a **modalidade** da medida:
-   - Exemplo: **Prestação de serviço à comunidade**
-4. Informe:
-   - **Quantidade de horas totais**
+1. Informe a **Data de Início** da transação penal.
+2. Clique em **Novo**.
+3. Selecione a **modalidade da medida**, por exemplo:
+   - Prestação de serviço à comunidade
+4. Preencha os campos obrigatórios:
+   - **Quantidade total de horas**
    - **Horas mensais**
-   - **Nome da instituição beneficiária**
+   - **Instituição beneficiária**
 
-   A instituição deve estar previamente cadastrada no sistema:
+Cadastro da Instituição Beneficiária
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   **Cadastro > Entidades Beneficiárias**
+A instituição deve estar previamente cadastrada no sistema, em:
 
-   Preencha:
-   - Nome da entidade
-   - Endereço
-   - Dados bancários (se necessário)
-   - Outros dados requeridos
+::
 
-5. Informe:
-   - **Dias trabalhados por semana**
-   - **Período de cumprimento**
-   - **Observações (se houver)**
+   Cadastro → Entidades Beneficiárias
 
-Planejamento de Cumprimento
+Informe:
+
+- Nome da entidade
+- Endereço
+- Dados bancários (quando necessário)
+- Demais informações solicitadas
+
+Após o cadastro, a instituição ficará disponível para seleção na transação penal.
+
+Dados Complementares da Medida
+-------------------------------
+
+Informe ainda:
+
+- **Dias trabalhados por semana**
+- **Período de cumprimento**
+- **Observações** (se houver)
+
+Planejamento do Cumprimento
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Você poderá criar um **planejamento de datas** para recebimento dos comprovantes mensais da prestação:
+É possível criar um **planejamento automático de datas** para acompanhamento mensal do cumprimento da medida.
 
-- Informe:
-  - Data de início
-  - Número de períodos (ex: 6 meses)
-  - Periodicidade (ex: 30 dias)
-- Clique em **Gerar Datas**
-- Clique em **Salvar**
+1. Informe:
+   - Data de início
+   - Número de períodos (exemplo: 6 meses)
+   - Periodicidade (exemplo: 30 dias)
+2. Clique em **Gerar Datas**
+3. Clique em **Salvar**
+
+Esse planejamento facilita o controle dos comprovantes apresentados pelo beneficiário.
 
 Cadastro de Prestação Pecuniária
 ----------------------------------
 
-Além do serviço comunitário, pode haver **prestação pecuniária** acumulada. Clique em **Adicionar**.
+Além da prestação de serviços, a transação penal pode incluir **prestação pecuniária**, de forma cumulativa.
 
-1. **Valor total da prestação**
-2. **Número de parcelas**
-3. **Destinatário da prestação**:
+1. Clique em **Adicionar**.
+2. Informe:
+   - **Valor total da prestação**
+   - **Número de parcelas**
+3. Selecione o **destinatário**:
    - Entidade beneficiária
-   - Pessoa física (ex: vítima)
-4. **Período de pagamento**:
+   - Pessoa física (exemplo: vítima)
+4. Informe:
    - Data de início
-   - Periodicidade (ex: 30 dias)
+   - Periodicidade do pagamento (exemplo: 30 dias)
 5. Clique em **Gerar Datas**
 6. Clique em **Salvar**
 
@@ -69,32 +91,39 @@ Gerenciamento das Medidas
 
 Na mesma tela, o sistema permite:
 
-- Adicionar novas medidas alternativas
+- Incluir novas medidas alternativas
 - **Informar descumprimento**
-- **Alterar ou remover** medidas já inseridas
-- **Gerar relatórios de acompanhamento**
+- **Alterar ou remover** medidas cadastradas
+- Emitir **relatórios de acompanhamento**
 
 Relatório de Acompanhamento
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Clique em **Relatório** para visualizar:
+Ao clicar em **Relatório**, o sistema exibirá:
 
 - Dados do beneficiário
 - Medidas aplicadas
-- Porcentagem de cumprimento
-- Datas planejadas de comprovação
+- Percentual de cumprimento
+- Datas previstas para comprovação
 
-Exemplo:
+Exemplo de visualização:
 
-- **Prestação pecuniária**:
-  - 100% ainda a pagar
-  - Parcelas em: 15/03, 15/04, 15/05...
+::
 
-- **Prestação de serviço**:
-  - 10 horas por mês
-  - Dias específicos registrados
+   Prestação pecuniária:
+   - Situação: 100% a pagar
+   - Parcelas previstas: 15/03, 15/04, 15/05
+
+   Prestação de serviço:
+   - Carga mensal: 10 horas
+   - Dias e períodos registrados no planejamento
 
 Conclusão
 ----------
 
-Esse módulo permite à secretaria e ao juízo **acompanhar e controlar** com precisão a execução das medidas alternativas fixadas em transação penal, favorecendo a transparência e o cumprimento das determinações judiciais.
+O módulo de **Transação Penal** permite à secretaria e ao magistrado:
+
+- Controlar a execução das medidas alternativas
+- Acompanhar prazos e percentuais de cumprimento
+- Registrar descumprimentos de forma rastreável
+- Garantir transparência e efetividade na aplicação da justiça consensual
