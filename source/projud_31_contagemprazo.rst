@@ -1,91 +1,116 @@
+.. coding: utf-8
+
 ===============================================================
 Contagem do Prazo nas Intimações e Citações
 ===============================================================
 
-Nesta aula, vamos aprender como o sistema **ProJUDI** realiza a **contagem dos prazos** em citações e intimações eletrônicas.
+Nesta aula, será explicado como o sistema **ProJUDI** realiza a **contagem automática dos prazos processuais** decorrentes de **intimações** e **citações**, com base na data da postagem, da leitura e nas regras legais aplicáveis.
 
 Visão Geral
 ------------
 
-O sistema ProJUDI permite que você visualize de forma **automática e detalhada** a contagem de prazos a partir da **data da intimação ou citação** e da **leitura realizada**.
+O ProJUDI permite ao servidor visualizar de forma **automática, detalhada e segura** a contagem dos prazos processuais, a partir:
 
-Acesso à Contagem
---------------------
+- Da **data da postagem** do ato;
+- Da **data da leitura eletrônica**, quando realizada;
+- Da aplicação das regras legais de contagem de prazo.
 
-1. Acesse o processo desejado
-2. Vá até a aba **"Movimentações"**
-3. Clique na movimentação relacionada à citação ou intimação
-4. Ou clique diretamente em **"Pendências"** (Ex: *decorrência de prazo*)
+Essa funcionalidade garante **transparência**, **precisão** e **segurança jurídica** na tramitação dos processos.
 
-Análise por Decurso de Prazo
+Acesso à Contagem do Prazo
+----------------------------
+
+Para acessar a contagem do prazo:
+
+1. Acesse o processo desejado;
+2. Clique na aba **Movimentações**;
+3. Selecione a movimentação correspondente à **citação** ou **intimação**;
+4. Alternativamente, acesse a aba **Citações e Intimações** e clique na pendência indicada como **Decurso de Prazo**.
+
+Análise pelo Decurso de Prazo
+-------------------------------
+
+Na aba **Citações e Intimações**, há uma coluna específica denominada **Decurso do Prazo**, na qual são listados:
+
+- Atos cujo prazo **já transcorreu**;
+- Atos com prazo em curso ou aguardando leitura.
+
+Ao clicar sobre a pendência, o sistema direcionará o usuário para a **tela da intimação ou citação** correspondente.
+
+Tela da Intimação ou Citação
 ------------------------------
 
-- A aba de **citações e intimações** possui uma coluna chamada **"Decurso do Prazo"**
-- Nela, você encontra os atos cujo prazo **já transcorreu**
-- Clique sobre a pendência e acesse a tela da intimação
+Na tela do ato, o sistema exibe as seguintes informações:
 
-Tela da Intimação
--------------------
+- **Data da postagem**;
+- **Data da leitura**, quando realizada;
+- **Data prevista para o decurso do prazo**;
+- **Status do prazo**, tais como:
+  
+  - Aguardando leitura;
+  - Em curso;
+  - Prazo decorrido.
 
-Na tela de intimação, o sistema exibe:
-
-- **Data da postagem**
-- **Data da leitura** (quando realizada)
-- **Data do decurso do prazo**
-- **Status do prazo** (aguardando análise, em curso, decorrido)
-
-> ✅ Clique em **"Data do decurso"** para ver mais detalhes
+.. note::
+   Ao clicar sobre a **data do decurso**, o sistema disponibiliza o detalhamento completo do cálculo do prazo.
 
 Detalhamento do Cálculo do Prazo
------------------------------------
+---------------------------------
 
-O botão **"Detalhamento do Cálculo do Prazo"** exibe:
+O botão **Detalhamento do Cálculo do Prazo** apresenta:
 
-- Data da **leitura eletrônica**
-- **Início do prazo**
-- **Dias úteis contabilizados**
-- **Feriados e fins de semana desconsiderados**
-- **Data de término do prazo**
-- Situação atual (ex: *Prazo Decorrido*, *Aguardando Leitura*, etc.)
+- Data da **leitura eletrônica**;
+- Data de **início do prazo**;
+- Quantidade de **dias úteis contabilizados**;
+- **Feriados e finais de semana desconsiderados**;
+- Data de **término do prazo**;
+- Situação atual do prazo.
 
-Exemplo de visualização:
+Exemplo ilustrativo:
 
 ::
 
     Leitura: 10/09
-    Início do Prazo: 11/09
-    Dias: 5 úteis
-    Feriado: 13/09 (excluído)
+    Início do prazo: 11/09
+    Dias computados: 5 dias úteis
+    Feriado: 13/09 (desconsiderado)
     Término: 18/09
     Status: Prazo Decorrido
 
-Ações Possíveis
-------------------
+Ações Possíveis após o Decurso
+--------------------------------
 
-Ao visualizar o decurso do prazo, você pode:
+Após identificado o decurso do prazo, a Secretaria poderá:
 
-- **Analisar o Decurso**:
-    - Inserir **certidão de decurso**
-    - Inserir **ato ordinatório**
-    - Movimentar diretamente (ex: *concluir*, *intimar*, *suspender*)
-- **Dispensar** a pendência (caso não necessite ação)
-- **Acompanhar prazos futuros** para novas intimações
+- **Analisar o decurso**, com:
+  
+  - Inserção de **certidão de decurso de prazo**;
+  - Lançamento de **ato ordinatório**;
+  - Movimentação direta do processo (ex.: conclusão, intimação, suspensão);
+
+- **Dispensar a pendência**, quando não houver providência a ser adotada;
+- **Acompanhar prazos futuros**, referentes a novas intimações ou citações.
 
 Intimações Recentes
-----------------------
+---------------------
 
-Ao clicar sobre uma **intimação recente**, o sistema mostrará apenas a **data da postagem**. A **leitura e contagem do prazo** ainda não estarão disponíveis.
+Quando a intimação ou citação for **recente**, o sistema exibirá apenas a **data da postagem**, sem apresentar ainda:
 
-> ⚠️ Isso ocorre porque o sistema respeita o **prazo de até 10 dias** para que o destinatário leia a intimação (art. 5º da Lei 11.419/2006)
+- Data da leitura;
+- Início do prazo;
+- Data do decurso.
+
+.. warning::
+   Isso ocorre porque o sistema observa o prazo legal de até **10 (dez) dias** para que o destinatário realize a leitura da intimação eletrônica, conforme o art. 5º da Lei nº 11.419/2006. Somente após esse período, se não houver leitura, o sistema considera a **leitura automática**.
 
 Resumo
 --------
 
-A contagem automática de prazos no ProJUDI oferece:
+A contagem automática de prazos no ProJUDI proporciona:
 
-✅ Transparência nos atos processuais  
-✅ Precisão nos prazos, com exclusão de feriados e fins de semana  
-✅ Facilidade para análise e movimentação a partir das pendências
+- Transparência na tramitação dos atos processuais;
+- Precisão na contagem dos prazos, com exclusão automática de feriados e finais de semana;
+- Facilidade para análise e tomada de providências a partir das pendências.
 
-> 📌 Utilize sempre a aba **"Detalhamento do Cálculo do Prazo"** para uma visualização segura e juridicamente respaldada dos prazos em curso.
-
+.. note::
+   Recomenda-se sempre a conferência da aba **Detalhamento do Cálculo do Prazo**, como forma de assegurar a correta interpretação e aplicação dos prazos processuais.

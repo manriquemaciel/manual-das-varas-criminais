@@ -1,92 +1,126 @@
-==============================
+.. coding: utf-8
+
+.. raw:: pdf
+
+   PageBreak
+
 Aba Outros Cumprimentos
-==============================
+===========================
 
-Nesta aula, vamos conhecer a aba **Outros Cumprimentos**, localizada no centro da mesa do sistema ProJUDI. Essa aba reúne **documentos assinados pela secretaria ou magistrado** que **não se enquadram** nas abas de Citações e Intimações ou Análise de Juntadas.
+Nesta aula, será apresentada a aba **Outros Cumprimentos**, localizada no centro da mesa do sistema ProJUDI. Essa aba concentra **documentos assinados pela secretaria ou pelo magistrado** que **não se enquadram** nas abas de *Citações e Intimações* ou *Análise de Juntadas*.
 
-Objetivo da Aba
-----------------
-
-Agrupar documentos processuais diversos que exigem assinatura e tramitação, tais como:
-
-- Alvarás
-- Alvarás eletrônicos
-- Cartas eletrônicas (enviadas e recebidas)
-- Mandados
-- Guias de recolhimento definitiva (área criminal)
-- Outros documentos
-
-Colunas Disponíveis
+Objetivo da aba
 --------------------
 
-A aba está dividida em colunas que indicam o status de cada documento:
+A aba **Outros Cumprimentos** tem como finalidade agrupar documentos processuais diversos que exigem **expedição, assinatura e posterior tramitação**, tais como:
 
-1. **Para conferir** – Documentos expedidos e aguardando assinatura (magistrado ou servidor)
-2. **Para expedir** – Pendências criadas para geração de documentos ainda não expedidos
-3. **Com urgência** – Documentos classificados como prioritários
-4. **Devolvido pelo juiz** – Documentos que já foram assinados e devolvidos
-5. **Decurso do prazo** – Documentos cujo prazo para cumprimento já expirou
+- Alvarás;
+- Alvarás eletrônicos;
+- Cartas eletrônicas (enviadas e recebidas);
+- Mandados;
+- Guias de recolhimento definitiva (área criminal);
+- Outros documentos correlatos.
 
-Funcionalidade por Coluna
----------------------------
+Colunas disponíveis
+------------------------
 
-### 1. Para Conferir
+A aba é organizada em colunas que indicam o **status do documento**, permitindo controle visual e priorização das atividades:
 
-- Documentos já expedidos, aguardando assinatura.
-- Exemplo: Mandado aguardando assinatura do magistrado.
-- Acesso:
-  - Clique no número correspondente
-  - Na tela do documento (ex: Mandado), é possível:
-    - Verificar dados do documento
-    - Editar documento (se necessário)
-    - Visualizar PDF ou versão editável
-    - Consultar o despacho referenciado na expedição
+1. **Para conferir** – documentos expedidos e aguardando assinatura (magistrado ou servidor);
+2. **Para expedir** – pendências criadas para geração de documentos ainda não expedidos;
+3. **Com urgência** – documentos classificados como prioritários;
+4. **Devolvido pelo juiz** – documentos já assinados pelo magistrado;
+5. **Decurso do prazo** – documentos cujo prazo para cumprimento já expirou.
 
-### 2. Para Expedir
+Funcionalidade por coluna
+--------------------------------
 
-- Documentos com pendência criada, mas ainda **não expedidos**.
-- Exemplo: Mandado ainda sem arquivo gerado.
-- Acesso:
-  - Clique na quantidade listada
-  - Clique sobre o documento
-  - Use o botão **"Analisar"**
-  - Na nova tela, insira:
-    - Tipo de arquivo
-    - Descrição
-    - Modelo (mandado, alvará, etc.)
-  - *Obs.: A criação do documento será explicada na próxima aula.*
+Para conferir
+^^^^^^^^^^^^^
 
-### 3. Com Urgência
+Reúne documentos já expedidos, porém **ainda pendentes de assinatura**.
 
-- Reúne os documentos prioritários
-- Utilizado como ferramenta de triagem e fluxo ágil
+Exemplo:
+- Mandado aguardando assinatura do magistrado.
 
-### 4. Devolvido pelo Juiz
+Procedimento de acesso:
+ - Clicar no número correspondente;
 
-- Indica que o documento já foi **assinado pelo magistrado**
-- Pronto para cumprimento posterior
+ - Na tela do documento (ex.: mandado), é possível:
 
-### 5. Decurso do Prazo
+  - Conferir os dados do documento;
 
-- Indica que o documento (mandado, alvará, carta, etc.) já teve seu **prazo expirado**
-- Necessita providência por parte do cartório
+  - Editar o conteúdo, se necessário;
 
-Diferenças na Área Criminal
-----------------------------
+  - Visualizar o PDF ou a versão editável;
 
-Na **mesa criminal**, a estrutura é semelhante, com as mesmas colunas.
+  - Consultar o despacho ou decisão que fundamentou a expedição.
 
-Diferença principal:
+Para expedir
+^^^^^^^^^^^^^^^^^
 
-- Inclusão da categoria **"Guia de Recolhimento Definitiva"**, que será gerada a partir da função **"Ordenar Cumprimento"**
+Reúne documentos cuja pendência foi criada, mas que **ainda não foram efetivamente expedidos**.
+
+Exemplo:
+ - Mandado ainda sem arquivo gerado.
+
+Procedimento:
+
+ - Clicar na quantidade listada;
+
+ - Selecionar o documento desejado;
+
+ - Clicar em **“Analisar”**;
+
+ - Na tela seguinte, informar:
+
+   - Tipo de arquivo;
+
+   - Descrição;
+
+   - Modelo (mandado, alvará, carta, etc.).
+
+.. note::
+
+   A criação detalhada de documentos será abordada em aula específica.
+
+Com urgência
+^^^^^^^^^^^^^^^^^
+
+ - Agrupa documentos marcados como **prioritários**;
+
+ - Funciona como ferramenta de triagem para garantir maior celeridade no cumprimento.
+
+Devolvido pelo juiz
+^^^^^^^^^^^^^^^^^^^^^^^
+
+ - Indica que o documento já foi **assinado pelo magistrado**;
+
+ - Encontra-se pronto para as providências subsequentes de cumprimento.
+
+Decurso do prazo
+^^^^^^^^^^^^^^^^^^^^^
+
+ - Reúne documentos (mandados, alvarás, cartas, etc.) cujo **prazo de cumprimento expirou**;
+
+ - Exige análise imediata e adoção das providências cabíveis pela secretaria.
+
+Diferenças na área criminal
+--------------------------------
+
+Na **mesa criminal**, a estrutura da aba é essencialmente a mesma, com idênticas colunas.
+
+A principal diferença consiste na inclusão da categoria:
+
+ - **Guia de Recolhimento Definitiva**, a qual é gerada a partir da funcionalidade **“Ordenar Cumprimento”**.
 
 Resumo
--------
+---------
 
-A aba **Outros Cumprimentos** funciona como:
+A aba **Outros Cumprimentos** funciona simultaneamente como:
 
-- Uma **fila de trabalho**
-- Uma **rede de energia processual** para organizar e cumprir decisões que envolvam documentos diversos
+ - Uma **fila de trabalho estruturada**;
+ 
+ - Um **mecanismo central de controle** dos documentos que exigem expedição, assinatura e cumprimento.
 
-Essa aba é essencial para o bom andamento da secretaria e será aprofundada em aulas específicas sobre a expedição de documentos como mandados e alvarás.
-
+Trata-se de aba essencial para o bom funcionamento da secretaria, sendo aprofundada em aulas específicas dedicadas à expedição de **mandados, alvarás e cartas**.

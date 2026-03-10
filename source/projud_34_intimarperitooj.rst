@@ -1,51 +1,70 @@
+.. coding: utf-8
+
 ===========================================================
 Intimar Perito e Oficial de Justiça
 ===========================================================
 
-Nesta aula, vamos aprender como realizar a **intimação de peritos** e **oficiais de justiça** no sistema Projudi.
+Nesta aula, será apresentado o procedimento para realização da **intimação de peritos** e **oficiais de justiça** no sistema **ProJUDI**, a partir de ato processual que determine tal providência.
 
 Pré-requisitos
 ----------------
 
-Antes de realizar a intimação de um perito, é necessário que ele esteja **previamente cadastrado no processo**. Este procedimento foi abordado na aula sobre **Cadastro de Perito**.
+Antes da intimação do perito, é indispensável que ele esteja **previamente habilitado no processo**, conforme procedimento abordado na aula específica sobre **Cadastro de Perito**.
 
-Passo a Passo: Intimar Perito
-------------------------------
+Da mesma forma, a intimação do oficial de justiça somente será possível quando houver **mandado vinculado ao processo**, com identificação do servidor responsável pelo cumprimento.
 
-1. Acesse o processo desejado
-2. Vá até a aba **Movimentações**
-3. Clique sobre o **ato que determinou a intimação** (ato ordinatório, despacho, decisão etc.)
-4. Clique em **Movimentar a partir desta movimentação**
-5. No menu lateral esquerdo, clique em **Intimar peritos e auxiliares da justiça**
-6. O sistema irá listar os peritos já cadastrados no processo
-7. Preencha:
-   - **Número de dias** (corridos ou úteis)
-   - **Urgência** (Sim ou Não)
-8. Clique em **Intimar**
+Intimação de Perito
+---------------------
 
-> 📌 Uma nova movimentação será gerada no processo, registrando a intimação do perito.
+A intimação de perito é realizada diretamente no sistema, dispensando expedição de mandado físico ou eletrônico.
 
-Passo a Passo: Intimar Oficial de Justiça
-------------------------------------------
+Procedimento:
 
-Este procedimento é utilizado, por exemplo, **quando o cumprimento de um mandado está demorando** e é necessário solicitar o retorno do oficial de justiça.
+1. Acesse o processo desejado;
+2. Vá até a aba **Movimentações**;
+3. Clique sobre o **ato processual que determinou a intimação** (ato ordinatório, despacho ou decisão);
+4. Selecione **“Movimentar a partir desta movimentação”**;
+5. No menu lateral esquerdo, clique em **“Intimar peritos e auxiliares da justiça”**;
+6. O sistema exibirá a lista de peritos habilitados no processo;
+7. Preencha os campos obrigatórios:
 
-1. Acesse o mesmo processo
-2. Vá até a aba **Movimentações**
-3. Clique na movimentação de referência
-4. Clique em **Movimentar a partir desta**
-5. No menu lateral, clique em **Oficial de Justiça**
-6. O sistema exibirá o nome do oficial de justiça **vinculado ao processo**
-7. Preencha o prazo, se necessário
-8. Clique em **Intimar**
+   - **Prazo**, em dias corridos ou úteis;
+   - **Urgência**: Sim ou Não.
 
-> 📌 A intimação será registrada na aba **Movimentações**, informando que o oficial de justiça foi intimado a devolver ou manifestar-se sobre o mandado.
+8. Clique em **“Intimar”**.
+
+.. note::
+   A intimação do perito gera **movimentação automática nos autos**, registrando a ciência e o início do prazo concedido.
+
+Intimação de Oficial de Justiça
+--------------------------------
+
+A intimação do oficial de justiça é utilizada, principalmente, nos casos em que:
+
+- O mandado encontra-se pendente de cumprimento;
+- Há necessidade de solicitar informações ou devolução do mandado;
+- O cumprimento ultrapassou prazo razoável.
+
+Procedimento:
+
+1. Acesse o processo;
+2. Vá até a aba **Movimentações**;
+3. Clique sobre a movimentação de referência (decisão, despacho ou mandado);
+4. Selecione **“Movimentar a partir desta”**;
+5. No menu lateral esquerdo, clique em **“Oficial de Justiça”**;
+6. O sistema exibirá automaticamente o **oficial de justiça vinculado ao mandado**;
+7. Informe o prazo, se aplicável;
+8. Clique em **“Intimar”**.
+
+.. note::
+   A intimação do oficial de justiça será registrada na aba **Movimentações**, certificando a solicitação de retorno ou manifestação sobre o cumprimento do mandado.
 
 Resumo
 --------
 
-✅ Intimações de **peritos** e **oficiais de justiça** são realizadas a partir da movimentação base  
-✅ O perito precisa estar **previamente habilitado** no processo  
-✅ O oficial de justiça deve estar **vinculado ao mandado**  
-✅ A intimação gera uma **movimentação automática no processo**
+- A intimação de **peritos** e **oficiais de justiça** é realizada a partir de uma movimentação base;
+- O perito deve estar **previamente habilitado no processo**;
+- O oficial de justiça deve estar **vinculado a mandado expedido**;
+- Ambas as intimações geram **movimentações automáticas**, garantindo rastreabilidade e controle dos prazos.
 
+O correto uso dessas funcionalidades contribui para a **celeridade processual**, o **controle dos atos de apoio à atividade jurisdicional** e a **eficiência da secretaria**.

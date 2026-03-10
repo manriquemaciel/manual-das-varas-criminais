@@ -1,60 +1,82 @@
-=========================
+.. coding: utf-8
+
+.. raw:: pdf
+
+   PageBreak
+
 Aba Início
-=========================
+==========
 
-Nesta aula, vamos explorar a **Aba Início** do sistema ProJUDI e suas funcionalidades. Essa aba fornece um panorama geral da unidade judicial e facilita o acesso a informações estratégicas.
+Nesta aula, serão apresentadas as funcionalidades da **Aba Início** do sistema ProJUDI.  
+Essa aba oferece uma **visão geral da unidade judicial**, reunindo informações estratégicas que auxiliam no controle, monitoramento e gestão do acervo processual.
 
-Informações Apresentadas
--------------------------
+Informações apresentadas
+------------------------
 
-Logo ao acessar a aba **Início**, o sistema apresenta:
+Ao acessar a aba **Início**, o sistema exibe, de forma sintética, os seguintes dados:
 
 - **Nome da Vara ou Juizado**
-- **Quantidade de Processos Ativos**
-- **Quantidade de Processos Físicos (caso existam)**
-- **Processos Paralisados há mais de 30 dias**
-- **Processos em Remessa**
-- **Últimas Mensagens do Administrador do Sistema**
+- **Quantidade de processos ativos**
+- **Quantidade de processos físicos** (quando existentes)
+- **Processos paralisados há mais de 30 dias**
+- **Processos em remessa**
+- **Últimas mensagens do administrador do sistema**
 
-Processos Ativos
+Essas informações permitem uma leitura imediata da situação da unidade e facilitam a identificação de pontos críticos da tramitação processual.
+
+Processos ativos
 ----------------
 
-Ao clicar sobre o número de processos ativos, o sistema redireciona para uma página com a lista de processos da unidade. Essa página funciona como ferramenta de **busca e filtragem**:
+Ao clicar sobre o número de **processos ativos**, o sistema redireciona o usuário para uma tela de listagem, que funciona como ferramenta de **consulta, busca e filtragem** do acervo.
 
-- Filtros por situação: *ativos* ou *arquivados*
-- Legenda com ícones indicando status dos processos
-- Colunas com: número do processo, partes, datas, classe e assunto
-- Possibilidade de ordenação (ascendente ou descendente) ao clicar no triângulo nas colunas
+Nessa tela, é possível:
 
-Processos Paralisados (30+ dias)
----------------------------------
+- Filtrar processos por situação: *ativos* ou *arquivados*;
+- Visualizar legenda com ícones indicativos do status processual;
+- Consultar colunas com:
+  
+  - Número do processo  
+  - Partes  
+  - Datas relevantes  
+  - Classe processual  
+  - Assunto  
 
-Na tela inicial, há uma seção indicando a quantidade de **processos paralisados há mais de 30 dias**, tanto:
+- Ordenar os processos de forma **crescente ou decrescente**, clicando no triângulo existente no cabeçalho das colunas.
 
-- **Na secretaria**
-- **Em remessa** (exceto os concluídos)
+Processos paralisados (mais de 30 dias)
+----------------------------------------
 
-Ao clicar no número exibido, o sistema apresenta uma **lista filtrada** com os processos nessa condição, podendo também ser ordenada pela data de paralisação:
+A aba **Início** também informa a quantidade de **processos paralisados há mais de 30 dias**, distinguindo:
 
-- Clique uma vez: mostra o processo mais antigo
-- Clique novamente: mostra o mais recente dentro do critério de paralisação (mínimo de 30 dias)
+- Processos paralisados **na secretaria**;
+- Processos **em remessa** (excluídos aqueles que se encontram conclusos).
 
-Processos em Remessa
----------------------
+Ao clicar sobre o número exibido, o sistema apresenta uma **lista filtrada** apenas com os processos que se enquadram nesse critério.
 
-Funciona de maneira semelhante aos paralisados:
+A ordenação pode ser realizada pela data de paralisação:
 
-- Clique no número para visualizar os processos em remessa
-- Ordene por data para verificar o tempo de paralisação
+- Primeiro clique: exibe os processos mais antigos;
+- Segundo clique: exibe os processos mais recentes dentro do critério mínimo de 30 dias.
 
-Mensagens do Administrador
----------------------------
+Processos em remessa
+--------------------
 
-Ao final da aba, o sistema exibe:
+O funcionamento da visualização de **processos em remessa** é semelhante ao dos processos paralisados:
 
-- **Últimas mensagens enviadas pelo administrador do sistema**, como alertas, atualizações e comunicados gerais.
+- Ao clicar no número indicado, o sistema lista os processos nessa condição;
+- É possível ordenar por data para identificar aqueles que estão há mais tempo sem movimentação.
 
-Observação:
+Essa funcionalidade auxilia no controle dos fluxos entre secretaria, gabinete e demais setores.
 
-> A estrutura e funcionalidades da aba **Início** são as mesmas tanto na **área cível** quanto na **área criminal**.
+Mensagens do administrador
+--------------------------
 
+Ao final da aba **Início**, o sistema apresenta as **últimas mensagens enviadas pelo administrador**, que podem conter:
+
+- Alertas operacionais;
+- Comunicados institucionais;
+- Atualizações relevantes sobre o funcionamento do sistema.
+
+.. note::
+
+   A estrutura e as funcionalidades da aba **Início** são **idênticas** tanto na **área cível** quanto na **área criminal** do ProJUDI.

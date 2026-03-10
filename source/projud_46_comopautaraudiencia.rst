@@ -1,75 +1,99 @@
+.. coding: utf-8
+
 =======================================================
 Como Pautar Audiência
 =======================================================
 
-Nesta aula, aprendemos a **abrir pautas de audiência** no sistema Projudi e realizar o **agendamento de processos** nessas pautas.
+Nesta aula, é apresentado o procedimento para **criação de pautas de audiência** no sistema **ProJUDI**, bem como o **agendamento de processos** nos horários disponíveis.
 
 Acessar a Pauta de Horários
 -----------------------------
 
-Acesse pela aba superior:
+O acesso às pautas é realizado por meio do menu superior:
 
-``Audiências > Ver Pauta de Horários``
+::
+
+   Audiências > Ver Pauta de Horários
 
 Nesta tela, é possível:
 
-- Visualizar pautas existentes
-- Pesquisar por tipo de audiência:
+- Visualizar as pautas já existentes
+- Pesquisar pautas por **tipo de audiência**, tais como:
   - Conciliação
   - Preliminar
-  - Transação penal
+  - Transação Penal
   - Oitiva
-  - Audiência de não persecução penal
+  - Audiência de Não Persecução Penal
 
-Criar Nova Pauta
------------------
+Criação de Nova Pauta
+----------------------
+
+Para criar uma nova pauta de audiência, siga os passos abaixo:
 
 1. Clique no botão **Novo**.
-2. Selecione o **tipo de audiência** (ex: preliminar).
+2. Selecione o **tipo de audiência** (ex.: audiência preliminar).
 3. Escolha a **data da audiência**.
 4. Se necessário, marque a opção **"Criar em dias não úteis"**.
 5. Para criar pauta para **um único horário**, clique em **Adicionar**.
 6. Para criar pauta em **lote (vários horários)**, clique em **Adicionar em lote**.
 
-   Na tela de lote:
+Configuração em Lote
+^^^^^^^^^^^^^^^^^^^^^
 
-   - Informe o **horário inicial** e **horário final**.
-   - Defina a **duração da audiência** (em minutos).
-   - Informe o **número de audiências por horário**.
-   - Se desejar que o sistema agende automaticamente os horários, marque **"Agendar automaticamente: Sim"**.
+Na tela de criação em lote, informe:
+
+- **Horário inicial**
+- **Horário final**
+- **Duração da audiência**, em minutos
+- **Número de audiências por horário**
+
+Opcionalmente, marque:
+
+- **Agendar automaticamente: Sim**, para que o sistema distribua os horários de forma automática.
+
+Após o preenchimento:
 
 7. Clique em **Adicionar**.
-8. Após configurar a pauta, clique em **Salvar** para finalizar o cadastro.
+8. Revise as informações e clique em **Salvar** para finalizar o cadastro da pauta.
 
-Agendar Processo na Pauta
----------------------------
+Agendamento de Processo na Pauta
+----------------------------------
+
+Com a pauta criada, é possível agendar processos nos horários disponíveis.
+
+Procedimento:
 
 1. Acesse o processo desejado.
-2. Clique no botão **Agendar**, localizado abaixo do campo de **Nível de Sigilo**.
-3. Na nova tela:
-   - Selecione o **tipo de audiência** (ex: preliminar).
-   - Clique em **Manual**.
-   - Escolha o **horário disponível na pauta** que deseja utilizar.
-   - Clique em **Agendar**.
-
-   Confirme o agendamento.
+2. Clique no botão **Agendar**, localizado abaixo do campo **Nível de Sigilo**.
+3. Na tela de agendamento:
+   - Selecione o **tipo de audiência**.
+   - Escolha a opção **Manual**.
+   - Selecione o **horário disponível** na pauta.
+4. Clique em **Agendar**.
+5. Confirme o agendamento.
 
 Resultado do Agendamento
 ---------------------------
 
-Após o agendamento:
+Após a confirmação:
 
-- Na **tela inicial do processo**, será gerada uma **pendência** de audiência.
-- A informação aparecerá como:  
-  ``Audiência Preliminar em aberto - [Data e horário]``
-- Em **Movimentações**, será registrada a movimentação de designação de audiência.
+- Na **tela inicial do processo**, será gerada uma **pendência de audiência**.
+- A informação será exibida no formato:
+
+::
+
+   Audiência [tipo] em aberto – [data e horário]
+
+- Na aba **Movimentações**, será registrada a movimentação de **designação de audiência**.
 
 Resumo
---------
+-------
 
-Com os recursos da aba **Audiências**, é possível:
+A funcionalidade de pautas de audiência no ProJUDI permite:
 
-- Criar pautas manuais ou em lote para diferentes tipos de audiência.
-- Agendar facilmente um processo para um horário disponível.
-- Acompanhar o agendamento diretamente na tela do processo.
+- Criar pautas manuais ou em lote
+- Organizar horários conforme o tipo de audiência
+- Agendar processos de forma rápida e controlada
+- Acompanhar audiências diretamente na tela do processo
 
+O correto uso das pautas garante melhor gestão da agenda judicial e maior eficiência na tramitação processual.

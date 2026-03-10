@@ -1,69 +1,125 @@
+.. coding: utf-8
+
 ===========================================================
 Aba Superior: Processos
 ===========================================================
 
-Nesta aula, vamos conhecer as funcionalidades disponíveis na aba **Processos**, localizada no menu superior do sistema Projudi.
+Nesta aula, serão apresentadas as funcionalidades disponíveis na aba **Processos**, localizada no **menu superior** do sistema **ProJUDI**. Essa aba reúne ferramentas essenciais para o acompanhamento, organização e controle da tramitação processual.
 
 Funcionalidades da Aba Processos
 ----------------------------------
 
-Na aba **Processos**, o usuário encontra diversas opções que facilitam o acompanhamento da tramitação processual:
+Na aba **Processos**, o usuário encontra diversas opções que facilitam a gestão do acervo processual:
 
-**1. Favoritos**
-   - Exibe todos os processos marcados como favoritos.
-   - Já demonstrado em aula anterior.
+Favoritos
+^^^^^^^^^^
 
-**2. Ativos e Arquivados**
-   - Permite acessar separadamente os processos em andamento (**ativos**) e os que já foram **arquivados**.
+- Exibe todos os processos previamente marcados como **favoritos** pelo usuário.
+- Permite acesso rápido a feitos prioritários ou estratégicos.
+- Funcionalidade já abordada em aula específica.
 
-**3. Paralisados**
-   - Já apresentado na aba **Início**.
-   - Exibe processos que estão sem movimentação há determinado tempo.
+Ativos e Arquivados
+^^^^^^^^^^^^^^^^^^^^
 
-**4. Suspensos**
-   - Exibe os processos que estão **suspensos**.
-   - É possível filtrar por tempo de suspensão:
-     - Suspensos há **30 dias**, **90 dias** ou **tempo indeterminado**.
-   - Basta selecionar a opção desejada e clicar em **Pesquisar**.
+- Permite consultar separadamente:
+  - **Processos ativos** (em andamento);
+  - **Processos arquivados** (provisórios ou definitivos).
+- Facilita a segmentação do acervo conforme a situação processual.
 
-**5. Instância Superior**
-   - Permite visualizar os processos **remetidos ao segundo grau** (Tribunais ou Turmas Recursais).
-   - Filtros disponíveis:
-     - **Remetidos**, **Retornados**, ou **Ambos**.
-     - Filtragem por **período de tempo**.
+Paralisados
+^^^^^^^^^^^^
 
-**6. Remetidos**
-   - Lista todos os processos remetidos para:
-     - **Distribuidor**
-     - **Procuradoria**
-     - **Ministério Público**
-     - **Defensoria**
-   - Permite selecionar o **destino da remessa** e a **situação**:
-     - Aguardando retorno
-     - Enviado
-     - Retornado
-   - Também permite filtrar por período.
+- Funcionalidade já apresentada na aba **Início**.
+- Lista processos que permanecem **sem movimentação** por período superior ao parâmetro definido pelo sistema.
+- Utilizada para controle de acervo e cumprimento de metas.
 
-**7. Buscas**
-   - Aqui será possível realizar buscas avançadas por diversos critérios.
-   - Será abordado com mais detalhes em aula posterior.
+Suspensos
+^^^^^^^^^^
 
-**8. Novação**
-   - Ferramenta utilizada pelo distribuidor.
-   - Permite realizar tarefas relacionadas à nova distribuição.
+- Exibe processos que se encontram **suspensos ou sobrestados**.
+- Permite filtragem por tempo de suspensão:
+  - Suspensos há **30 dias**;
+  - Suspensos há **90 dias**;
+  - Suspensão por **prazo indeterminado**.
+- Após selecionar o filtro desejado, clique em **Pesquisar** para visualizar os resultados.
 
-**9. Analisar Suspeita de Prevenção**
-   - Apresenta uma **relação de processos** que podem estar relacionados a casos de prevenção.
-   - Permite selecionar individualmente e verificar se há conexão ou prevenção entre processos.
+Instância Superior
+^^^^^^^^^^^^^^^^^^^
 
-**10. Suspeita de Repetição**
-   - Possibilita identificar processos repetitivos.
-   - Filtros disponíveis:
-     - Por nome do processo
-     - **Aguardando análise**
-     - **Prevenção confirmada**
-     - **Prevenção descartada**
+- Permite visualizar processos **remetidos à instância superior**, incluindo:
+  - Tribunais de Justiça;
+  - Turmas Recursais.
+- Filtros disponíveis:
+  - **Remetidos**;
+  - **Retornados**;
+  - **Ambos**.
+- Também é possível filtrar por **período de tempo**.
 
-**11. Cartas Precatórias Eletrônicas**
-   - Será tema de uma **aula específica futura**.
+Remetidos
+^^^^^^^^^^
 
+- Lista processos remetidos a órgãos externos, como:
+  - Distribuidor;
+  - Procuradoria;
+  - Ministério Público;
+  - Defensoria Pública.
+  
+- Permite selecionar:
+
+  - **Destino da remessa**;
+
+  - **Situação**:
+
+    - Aguardando retorno;
+    - Enviado;
+    - Retornado.
+
+- Possibilita filtragem por período.
+
+Buscas
+^^^^^^^
+
+- Disponibiliza ferramentas de **busca avançada** por múltiplos critérios.
+- Essa funcionalidade será detalhada em **aula específica posterior**.
+
+Novação
+^^^^^^^^
+
+- Ferramenta de uso específico do **Distribuidor**.
+- Utilizada para procedimentos relacionados à **nova distribuição** processual.
+
+Analisar Suspeita de Prevenção
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Apresenta uma relação de processos com **possível prevenção**.
+- Permite:
+  - Análise individual dos processos;
+  - Verificação de conexão ou prevenção entre feitos.
+
+Suspeita de Repetição
+^^^^^^^^^^^^^^^^^^^^^
+
+- Ferramenta destinada à identificação de **processos repetitivos**.
+- Filtros disponíveis:
+  - Por nome do processo;
+  - **Aguardando análise**;
+  - **Prevenção confirmada**;
+  - **Prevenção descartada**.
+
+Cartas Precatórias Eletrônicas
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Funcionalidade destinada à gestão de **cartas precatórias eletrônicas**.
+- Será objeto de **aula específica**, com abordagem detalhada do fluxo e das particularidades do procedimento.
+
+Resumo
+--------
+
+A aba **Processos** concentra ferramentas fundamentais para:
+
+- Organização do acervo;
+- Monitoramento da tramitação;
+- Identificação de processos paralisados, suspensos ou remetidos;
+- Análise de prevenção e repetição processual.
+
+Seu uso adequado contribui para maior **eficiência, controle e segurança** na rotina da secretaria.

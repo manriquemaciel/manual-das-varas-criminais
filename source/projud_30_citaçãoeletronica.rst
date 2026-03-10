@@ -1,93 +1,113 @@
+.. coding: utf-8
+
 ===================================================
 Citação Eletrônica
 ===================================================
 
-Nesta aula, você vai aprender como realizar a **citação eletrônica** no sistema ProJUDI, utilizando **mandado digital com contrafé**, especialmente para partes que possuem **cadastro com citação online** (como municípios, entes públicos ou grandes demandantes).
+Nesta aula, será apresentado o procedimento para realização da **citação eletrônica** no sistema ProJUDI, por meio de **mandado digital com contrafé**, especialmente direcionado às partes que possuem **cadastro com citação online**, tais como municípios, entes públicos e grandes demandantes.
 
-Iniciando a Citação
----------------------
+Início do Procedimento
+-----------------------
 
-1. Acesse o processo desejado
-2. Vá até a aba **"Movimentações"**
-3. Localize a **decisão** que determinou a expedição de citação
-4. Clique em **"Movimentar a partir desta"**
-5. No painel lateral esquerdo, clique em **"Citar Partes"**
+Para iniciar a citação eletrônica:
+
+1. Acesse o processo desejado;
+2. Clique na aba **Movimentações**;
+3. Localize a **decisão** que determinou a expedição da citação;
+4. Clique em **Movimentar a partir desta movimentação**;
+5. No painel lateral esquerdo, selecione a opção **Citar Partes**.
 
 Configuração da Citação
 -------------------------
 
-- Selecione as partes a serem citadas
-- Informe o **prazo legal** (ex: *prazo em dobro* se for ente público)
-- Clique em **"Citar"**
+Na tela de configuração:
 
-> ✅ Será gerada uma **pendência de expedição de citação**, com possibilidade de incluir mandado e contrafé
+- Selecione a(s) parte(s) que deverão ser citadas;
+- Informe o **prazo legal**, observando:
+  
+  - Prazo em dobro, quando se tratar de ente público;
+  - Outras regras específicas conforme o caso;
+
+- Clique em **Citar**.
+
+.. note::
+   Após essa etapa, o sistema gerará uma **pendência de expedição de citação**, permitindo a inclusão do mandado e da contrafé.
 
 Expedição da Citação
 ----------------------
 
-1. Clique em **"Citações"** (alerta de pendência)
-2. Clique em **"Visualizar"** para acessar a tela de expedição
+Para expedir a citação:
 
-Nesta tela, preencha:
+1. Clique no alerta de pendência em **Citações**;
+2. Clique em **Visualizar** para acessar a tela de expedição.
 
-- **Município** de destino
-- Marque a opção **“Enviar contrafé/petição inicial”**
-- Clique em **"Selecionar Arquivo"** e anexe a **petição inicial**
+Preencha as seguintes informações:
+
+- **Município** de destino;
+- Marque a opção **Enviar contrafé / petição inicial**;
+- Clique em **Selecionar Arquivo** e anexe a **petição inicial**, quando necessário.
 
 Criação do Mandado de Citação
 -------------------------------
 
-Você tem duas opções:
+O sistema disponibiliza duas formas de criação do mandado:
 
-### 1. Anexar Arquivo PDF
+Opção 1 - Anexar Arquivo em PDF
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Clique em **"Anexar Arquivo"**
-- Descreva o conteúdo
-- Escolha o arquivo PDF
-- Envie o documento
+- Clique em **Anexar Arquivo**;
+- Informe a descrição do documento;
+- Selecione o arquivo em formato PDF;
+- Envie o documento.
 
-### 2. Utilizar Texto Digitável (modelo interno)
+Opção 2 - Utilizar Texto Digitável (modelo interno)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Clique em **"Digitar Texto"**
-- Escolha um modelo já cadastrado (ex: *Mandado de Citação*)
-- Preencha o texto (com variáveis automáticas)
-- Clique em **"Continuar"**
-- Revise e clique em **"Salvar"**
+- Clique em **Digitar Texto**;
+- Selecione um modelo previamente cadastrado (ex.: *Mandado de Citação*);
+- O sistema preencherá automaticamente as variáveis configuradas;
+- Clique em **Continuar**;
+- Revise o texto e clique em **Salvar**.
 
 Finalização
 -------------
 
-- Clique em **"Salvar e Concluir"**
-- Digite sua **senha de certificação**
-- Clique em **"Assinar e Expedir"**
+Para concluir a expedição:
 
-> 💡 Se você **não tiver permissão para assinar**, clique apenas em **Salvar**, e o documento ficará pendente de assinatura por outro usuário autorizado.
+1. Clique em **Salvar e Concluir**;
+2. Informe a **senha do certificado digital**;
+3. Clique em **Assinar e Expedir**.
+
+.. note::
+   Caso o usuário **não possua permissão para assinatura**, deverá apenas clicar em **Salvar**, deixando o documento pendente para assinatura por servidor ou magistrado autorizado.
 
 Verificação da Citação
 ------------------------
 
-### Tela Inicial
+Tela Inicial do Processo
+^^^^^^^^^^^^^^^^^^^^^^^^
 
-- A citação aparecerá listada com o status **“online”**
-- O mandado de citação gerado poderá ser visualizado em PDF
+- A citação será exibida com o status **online**;
+- O mandado de citação poderá ser visualizado em formato PDF.
 
-### Tela Navegar
+Tela Navegar
+^^^^^^^^^^^^^
 
-1. Acesse a aba **"Navegar"**
-2. Desça até a movimentação de citação
-3. Clique em **"Detalhes"** para verificar:
-   - Data da expedição
-   - Documento expedido (mandado)
-   - Confirmação de envio da contrafé
+1. Acesse a função **Navegar**;
+2. Localize a movimentação referente à citação;
+3. Clique em **Detalhes** para verificar:
+   
+   - Data da expedição;
+   - Documento expedido (mandado);
+   - Confirmação do envio da contrafé.
 
 Resumo
 --------
 
-A **citação eletrônica** via ProJUDI possibilita:
+A **citação eletrônica** no ProJUDI permite:
 
-✅ Comunicação ágil com entes cadastrados no sistema  
-✅ Geração automatizada de mandados com contrafé  
-✅ Registro e controle da entrega pelo sistema
+- Comunicação rápida e segura com partes cadastradas para citação online;
+- Geração automatizada de mandados com contrafé;
+- Registro completo e rastreável da citação nos autos digitais.
 
-> Essa funcionalidade é amplamente utilizada para citar **entes públicos**, como **municípios, estados, INSS, bancos** e **empresas conveniadas** com citação online.
-
+Esse procedimento é amplamente utilizado para a citação de **entes públicos**, **instituições financeiras**, **autarquias**, **empresas conveniadas** e demais grandes demandantes.

@@ -1,76 +1,101 @@
-===================================================
-Apensamentos
-===================================================
+.. coding: utf-8
 
-Nesta aula, você vai aprender a realizar o **apensamento de processos** no sistema ProJUDI. O apensamento é utilizado quando dois ou mais processos precisam tramitar **de forma conjunta**, por possuírem conexão ou dependência temática.
+Apensamento de Processos
+========================
 
-Acessando a Aba de Apensamentos
----------------------------------
+Nesta aula, você aprenderá a realizar o **apensamento de processos** no sistema ProJUDI. O apensamento é utilizado quando dois ou mais processos precisam **tramitar de forma conjunta**, em razão de conexão, continência ou determinação judicial, mantendo-se, contudo, a individualidade de cada feito.
 
-1. Na **tela inicial do processo**, clique na aba **"Apensamentos"**
-2. No canto inferior direito, clique em **"Gerenciar"**
-3. Na tela que abrir, clique em **"Adicionar"**
+
+Acesso à Funcionalidade
+------------------------
+
+1. Acesse a **tela inicial do processo**;
+2. Clique na aba **Apensamentos**;
+3. No canto inferior direito, clique em **Gerenciar**;
+4. Na tela seguinte, clique em **Adicionar**.
+
 
 Cadastro de Apensamento
--------------------------
+------------------------
 
-### Tipo de Apensamento
+Tipo de Apensamento
+^^^^^^^^^^^^^^^^^^^^
 
-Você tem duas opções:
+O sistema disponibiliza duas opções:
 
-- **Apensar este processo a um principal** (mais comum)
-- **Tornar este processo o principal e apensar outros a ele**
+- **Apensar este processo a um principal**;
+- **Tornar este processo o principal e apensar outros a ele**.
 
-Selecione a segunda opção:  
-**“Apensar este processo a um principal”**
+Na prática cartorária, a opção mais comum é:
 
-### Informações a Preencher
+**Apensar este processo a um principal**
+
+
+Informações a Preencher
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. **Processo principal**:
-   - Informe o número do processo ao qual este será apensado
-   - Escolha o tipo (Projudi ou físico)
+   
+   - Informe o número do processo principal;
+   - Selecione o tipo de processo:
+     - Projudi; ou
+     - Físico.
 
 2. **Motivo do apensamento**:
-   - Exemplo: Determinação Judicial, conexão, continência, etc.
+   
+   - Exemplos:
+     - Determinação judicial;
+     - Conexão;
+     - Continência;
+     - Dependência.
 
 3. **Forma de bloqueio**:
-   - **Bloquear o principal**
-   - **Bloquear o apenso**
-   - **Não bloquear**
+   
+   - **Bloquear o processo principal**;
+   - **Bloquear o processo apenso**;
+   - **Não bloquear**.
+
+   > O bloqueio impede movimentações independentes enquanto perdurar o apensamento, conforme a opção selecionada.
 
 4. **Observações** (opcional):
-   - Ex: *"Conforme decisão de fls. 24 do processo 0001234-56.2024.8.04.0001"*
+   
+   - Exemplo:
+     *“Conforme decisão judicial proferida no processo nº 0001234-56.2024.8.04.0001.”*
 
-5. Clique em **Salvar**
+5. Após o preenchimento, clique em **Salvar**.
+
 
 Confirmação do Apensamento
-----------------------------
+---------------------------
 
 Após salvar:
 
-- O apensamento será registrado com:
-  - **Data**
-  - **Número do processo principal**
-  - **Número do apenso (atual)**
+- O apensamento será efetivado e registrado no sistema;
+- Constarão as seguintes informações:
+  - Data do apensamento;
+  - Número do processo principal;
+  - Número do processo apenso.
 
-Visualização
---------------
+
+Visualização do Apensamento
+----------------------------
 
 Na **tela inicial do processo**:
 
-- Será exibida a informação de **processo apensado**
-- Você verá:
-  - Número do **processo principal**
-  - Relação dos **apensos**, se houver
+- Será exibida a indicação de que o processo está **apensado**;
+- Será possível visualizar:
+  - O número do **processo principal**;
+  - A relação dos **processos apensos**, quando houver.
+
 
 Resumo
 --------
 
-A funcionalidade de **apensamento** é útil para:
+O apensamento de processos é indicado para:
 
-✅ Processos com objetos similares ou interdependentes  
-✅ Situações de conexão ou continência  
-✅ Execuções relacionadas à mesma sentença
+- Processos com objetos semelhantes ou interdependentes;
+- Situações de conexão ou continência;
+- Processos de execução vinculados à mesma sentença;
+- Cumprimento de determinação judicial.
 
-> O ProJUDI permite fazer o controle de apensamento com rastreabilidade e bloqueio, se necessário.
-
+O sistema ProJUDI permite o controle completo do apensamento, com **rastreabilidade, histórico e possibilidade de bloqueio**, garantindo segurança e organização na tramitação conjunta dos feitos.

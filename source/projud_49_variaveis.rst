@@ -1,73 +1,82 @@
+.. coding: utf-8
+
 =======================================================
 Variáveis
 =======================================================
 
-Nesta aula, você aprenderá a inserir **variáveis** nos seus modelos de documentos dentro do sistema Projudi. O uso de variáveis é **opcional**, mas muito útil para automação e padronização dos documentos.
+Nesta aula, será demonstrado como inserir **variáveis** nos modelos de documentos do sistema **ProJUDI**. O uso de variáveis é **opcional**, porém altamente recomendado, pois proporciona **automação**, **padronização** e **redução de erros manuais** na elaboração de documentos.
 
-O que são variáveis?
----------------------
+O que são Variáveis
+--------------------
 
-Variáveis são comandos que são substituídos automaticamente por dados do processo quando o documento é gerado.
+As variáveis são **comandos automáticos** que o sistema substitui por informações reais do processo no momento da geração do documento.
 
-Por exemplo:
+Exemplos de substituição automática:
 
-- ``${assinaturaJuiz}`` → Exibe o nome e cargo do juiz.
-- ``${dataAtual}`` → Exibe a data corrente.
-- ``${partePassiva}`` → Exibe o nome da parte ré no processo.
+- ``${assinaturaJuiz}`` → Nome e cargo do magistrado responsável
+- ``${dataAtual}`` → Data corrente da expedição do documento
+- ``${partePassiva}`` → Nome da parte ré no processo
 
-Como inserir uma variável
----------------------------
+Como Inserir uma Variável
+--------------------------
 
-1. Ao editar um modelo de documento, clique no botão **Variável**.
-2. Uma janela será aberta com uma lista de variáveis disponíveis.
-3. Localize a variável desejada e clique nela para copiá-la.
-4. Cole no local do documento onde deseja que a informação apareça.
+Para inserir uma variável em um modelo de documento:
 
-Exemplos práticos
-------------------
+1. Acesse a edição do modelo em **Outros > Meus Modelos de Documentos**.
+2. Clique no botão **Variável**, localizado no editor de texto.
+3. Será exibida uma janela contendo a **lista de variáveis disponíveis**.
+4. Localize a variável desejada e clique sobre ela para copiá-la.
+5. Cole a variável no ponto exato do texto onde a informação deverá ser exibida.
 
-**Assinatura do Juiz**
+Exemplos Práticos de Uso
+--------------------------
 
-- Variável: ``${assinaturaJuiz}``
-- Finalidade: Exibe nome e cargo do juiz de direito
-- Onde usar: No rodapé do documento, na linha de assinatura
+Assinatura do Magistrado
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Parte passiva (réu)**
+- **Variável**: ``${assinaturaJuiz}``
+- **Finalidade**: Exibir automaticamente o nome e o cargo do juiz de direito
+- **Utilização recomendada**: Rodapé do documento, no campo de assinatura
 
-- Variável: ``${partePassiva}``
-- Finalidade: Inserir automaticamente o nome da parte ré
-- Onde usar: Ao longo da sentença ou mandado, para evitar digitação manual
+Parte Passiva (Réu)
+^^^^^^^^^^^^^^^^^^^^
 
-**Data atual**
+- **Variável**: ``${partePassiva}``
+- **Finalidade**: Inserir automaticamente o nome da parte ré
+- **Utilização recomendada**: Corpo de sentenças, mandados e certidões
 
-- Variável: ``${dataAtual}``
-- Finalidade: Preencher a data corrente no documento
-- Onde usar: Cabeçalhos, rodapés, corpo do documento
+Data Atual
+^^^^^^^^^^^^
+
+- **Variável**: ``${dataAtual}``
+- **Finalidade**: Inserir a data da expedição do documento
+- **Utilização recomendada**: Cabeçalho, corpo ou rodapé do documento
 
 .. note::
 
-   Algumas variáveis possuem nomes similares e resultados idênticos. Você pode testar qual se adequa melhor ao seu modelo.
+   Algumas variáveis possuem nomes semelhantes e podem produzir resultados equivalentes. Recomenda-se testar as opções disponíveis para identificar a mais adequada ao modelo utilizado.
 
-Pré-visualização do documento
+Pré-visualização do Documento
 -------------------------------
 
-Após inserir as variáveis, clique em **Pré-visualizar** para ver como o documento ficará quando for utilizado. As variáveis serão substituídas automaticamente pelos dados reais do processo:
+Após a inserção das variáveis, utilize a opção **Pré-visualizar** para conferir o resultado final do documento.
 
-- O nome do réu (``${partePassiva}``) aparecerá conforme o cadastro.
-- A assinatura (``${assinaturaJuiz}``) mostrará o nome do juiz logado.
-- A data (``${dataAtual}``) refletirá o dia da expedição do documento.
+Durante a pré-visualização:
 
-Dicas importantes
+- ``${partePassiva}`` será substituída pelo nome cadastrado da parte ré
+- ``${assinaturaJuiz}`` exibirá o nome do magistrado logado
+- ``${dataAtual}`` refletirá a data do dia da expedição
+
+Dicas Importantes
 ------------------
 
-- Variáveis não precisam de asterisco (*) para funcionar.
-- Utilize variáveis para evitar erros de digitação e agilizar o trabalho.
-- Você pode utilizar várias variáveis no mesmo documento.
+- As variáveis **não exigem asteriscos, chaves adicionais ou configurações extras** para funcionar.
+- Podem ser utilizadas **quantas variáveis forem necessárias** em um mesmo documento.
+- O uso de variáveis reduz erros de digitação e agiliza significativamente o trabalho da secretaria.
 
 Conclusão
-----------
+-----------
 
-Agora que você já sabe utilizar variáveis, seus modelos ficarão mais dinâmicos, personalizados e prontos para uso automático no sistema Projudi.
+Com a utilização correta das variáveis, os modelos de documentos tornam-se **dinâmicos**, **padronizados** e **prontos para uso automático** no sistema ProJUDI.
 
-Na próxima aula, veremos como **utilizar modelos criados com variáveis** em documentos reais.
-
+Na próxima aula, será demonstrado como **utilizar modelos com variáveis** na expedição efetiva de documentos processuais.

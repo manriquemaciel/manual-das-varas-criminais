@@ -1,125 +1,127 @@
-Disposições Finais da Sentença
-===================================
+.. coding: utf-8
 
-É importante que o Juízo de 1º Grau elabore de forma prática, sucessiva e de simples compreensão pela Secretaria as disposições finais da Sentença.
+08 - Sentença (Judicial)
+=============================
 
-08.1 – Finalidade das Disposições Finais
-----------------------------------------
+1. Disposições finais da sentença
+--------------------------------------
 
-As disposições finais da sentença representam etapa essencial e estratégica no processo penal. Sua correta elaboração:
+É fundamental que o Juízo de primeiro grau elabore as disposições finais da sentença de forma clara, objetiva, sequencial e de fácil compreensão pela Secretaria, a fim de assegurar a correta execução dos atos subsequentes.
 
-1. Garante a imediata execução dos atos administrativos e jurisdicionais após o trânsito em julgado.
-2. Evita conclusões desnecessárias ao juízo.
-3. Minimiza o risco de prescrição ou inércia processual.
-4. Assegura o cumprimento das penas e comunicações institucionais obrigatórias.
-5. Promove a celeridade e eficiência da tramitação na fase de execução penal, seja no âmbito da própria Vara ou na Vara de Execuções Penais.
+1.1 Finalidade das disposições finais
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-08.2 – Da reavaliação de prisão e da situação processual do Sentenciado
-----------------------------------------------------------------------
+As disposições finais da sentença constituem etapa essencial e estratégica do processo penal. A sua adequada formulação:
 
-A sentença também é o momento de realizar a reavaliação do prazo **nonagesimal** para manutenção da prisão cautelar, consoante previsão do art. 316, parágrafo único, do CPP, bem como a decretação de medidas protetivas ou cautelares solicitadas pelo Ministério Público.
+1. Garante a imediata execução dos atos administrativos e jurisdicionais após o trânsito em julgado;
+2. Evita conclusões desnecessárias ao Juízo;
+3. Minimiza o risco de prescrição ou inércia processual;
+4. Assegura o cumprimento das penas e das comunicações institucionais obrigatórias;
+5. Promove a celeridade e a eficiência da tramitação na fase de execução penal, seja no âmbito da própria Vara, seja perante a Vara de Execuções Penais.
 
-Sugere-se que as disposições finais sejam redigidas com base nas seguintes diretrizes:
+1.2 Reavaliação da prisão e da situação processual do sentenciado
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Exemplos:**
+A sentença também é o momento adequado para a reavaliação do prazo nonagesimal de manutenção da prisão cautelar, nos termos do art. 316, parágrafo único, do Código de Processo Penal, bem como para a análise da decretação ou manutenção de medidas protetivas ou cautelares eventualmente requeridas pelo Ministério Público durante a instrução ou nas alegações finais.
 
-- Se permanece preso pelo presente processo::
+Recomenda-se que as disposições finais sejam redigidas com base nas diretrizes a seguir.
 
-   “O sentenciado se encontra preso pelo presente processo. Mantenho tal status e nego o direito de recorrer em liberdade, considerando que permaneceu em custódia durante toda a instrução criminal e não há alteração nos fundamentos da prisão preventiva.”
+**Situação prisional do sentenciado**
 
-- Se responde em liberdade::
+- **Sentenciado preso pelo presente processo:**
 
-   “O sentenciado não se encontra preso pelo presente processo. Mantenho tal status, permitindo-lhe recorrer em liberdade, salvo se preso por outro motivo.”
+  “O sentenciado encontra-se preso pelo presente processo. Mantenho tal status e nego o direito de recorrer em liberdade, considerando que permaneceu em custódia durante toda a instrução criminal e que não houve alteração nos fundamentos da prisão preventiva.”
 
-**Avaliar a necessidade de:**
+- **Sentenciado que responde em liberdade:**
 
-- Manutenção de medidas anteriormente decretadas::
+  “O sentenciado não se encontra preso pelo presente processo. Mantenho tal status, permitindo-lhe recorrer em liberdade, salvo se estiver preso por outro motivo.”
 
-   “O sentenciado permanece sujeito às medidas protetivas constantes às fls. XX.”
+**Medidas protetivas ou cautelares**
 
-- Decretação de novas medidas, com base no art. 20 da Lei nº 14.344/2022::
+- **Manutenção de medidas anteriormente decretadas:**
 
-   “Decreto as medidas protetivas previstas no art. 20, incisos II, III, IV, V, VI e IX da Lei nº 14.344/22, por serem indispensáveis à segurança da vítima.”
+  “O sentenciado permanece sujeito às medidas protetivas anteriormente impostas, conforme registrado às fls. XX.”
 
-- Determinar a expedição imediata de mandado de medida protetiva, em regime **urgente**, para distribuição à Central de Mandados.
+- **Decretação de novas medidas protetivas:**
 
-08.3 – Providências pós trânsito em julgado
--------------------------------------------
+  “Decreto as medidas protetivas previstas no art. 20, incisos II, III, IV, V, VI e IX, da Lei nº 14.344/2022, por serem indispensáveis à segurança da vítima.”
 
-08.3.1 – Guia de Execução Penal
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nessa hipótese, deverá ser determinada a expedição imediata de mandado de medida protetiva, em regime de urgência, para distribuição à Central de Mandados.
 
-- Réu preso::
+1.3 Providências após o trânsito em julgado
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   “Expeça-se guia de execução penal vinculada ao mandado de prisão preventiva já em vigor.”  
-   “Encaminhe-se à Vara de Execução Penal conforme o regime fixado.”
+1.3.1 Guia de execução penal
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Regime fechado (réu solto)::
+As providências a serem adotadas variam conforme a situação do réu e o regime fixado na sentença.
 
-   “Expeça-se mandado de prisão junto ao BNMP.”  
-   “Oficie-se às autoridades policiais (EX: DEPCA, DIP, POLINTER, PF).”
+- **Réu preso:**
 
-- Regime semiaberto ou aberto::
+  “Expeça-se guia de execução penal vinculada ao mandado de prisão preventiva já em vigor.”
 
-   “Expeça-se guia de execução penal e encaminhem-se os autos à VEP competente.”
+  “Encaminhem-se os autos à Vara de Execução Penal competente, conforme o regime fixado.”
 
-- Penas alternativas (restritivas de direito ou multa) ou casos de suspensão condicional da pena::
+- **Regime fechado – réu solto:**
 
-   “Encaminhe-se à VEMEPA, conforme art. 78 da Lei Complementar nº 261/2023.”
+  “Expeça-se mandado de prisão por meio do BNMP.”
 
-08.3.2 – Rol dos Culpados
-~~~~~~~~~~~~~~~~~~~~~~~~~
+  “Oficiem-se às autoridades policiais competentes (ex.: DEPCA, DIP, POLINTER, Polícia Federal).”
 
-“Lance-se o nome do réu no rol dos culpados.”
+- **Regime semiaberto ou aberto:**
 
-08.3.3 – Comunicações Institucionais
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  “Expeça-se guia de execução penal e encaminhem-se os autos à Vara de Execução Penal competente.”
 
-- Polícia Militar / SSP (em caso de perda de cargo público)::
+- **Penas alternativas, multa ou suspensão condicional da pena:**
 
-   “Oficie-se ao Comando Geral da PM/AM para ciência da perda do cargo.”
+  “Encaminhem-se os autos à Vara de Execução de Medidas e Penas Alternativas – VEMEPA, nos termos do art. 78 da Lei Complementar nº 261/2023.”
 
-- Tribunal Regional Eleitoral / INFODIP::
+1.3.2 Rol dos culpados
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   “Comunique-se ao TRE, nos termos do art. 71, §2º, do Código Eleitoral, c/c art. 15, III, da CF/88.”  
-   “Anote-se a suspensão dos direitos políticos junto ao INFODIP, durante a execução da pena.”
+“Proceda-se ao lançamento do nome do réu no rol dos culpados.”
 
-- Vítima::
+1.3.3 Comunicações institucionais
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-   “Comunique-se à vítima, por seu representante legal, o desfecho da causa, nos termos do art. 201, §2º, do CPP.”
+Devem ser determinadas, quando cabíveis, as seguintes comunicações:
 
-- Cartório de Registro Civil (perda do poder familiar)::
+- **Polícia Militar ou Secretaria de Segurança Pública** (perda de cargo público):
 
-   “Oficie-se ao Cartório XXº RCPN para averbação da perda do poder familiar, nos termos do art. 163, parágrafo único, do ECA.”
+  “Oficie-se ao Comando-Geral da Polícia Militar do Estado do Amazonas para ciência da perda do cargo.”
 
-- Casos de crimes graves (art. 9º-A da LEP)::
+- **Tribunal Regional Eleitoral e INFODIP:**
 
-   “Determine-se a submissão do réu ao procedimento de coleta de DNA, se ainda não realizado, no ingresso ao estabelecimento prisional.”
+  “Comunique-se ao Tribunal Regional Eleitoral, nos termos do art. 71, §2º, do Código Eleitoral, c/c art. 15, inciso III, da Constituição Federal.”
 
-08.3.4 – Conclusão e Segredo de Justiça
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  “Proceda-se à anotação da suspensão dos direitos políticos junto ao INFODIP, pelo período de execução da pena.”
 
-Quando se tratar de processo que tramita em segredo de justiça:
+- **Vítima:**
 
-“Publique-se. Mantenham-se os autos em segredo de justiça, conforme art. 234-B do Código Penal.”  
+  “Comunique-se à vítima, por intermédio de seu representante legal, o desfecho da causa, nos termos do art. 201, §2º, do Código de Processo Penal.”
+
+- **Cartório de Registro Civil** (perda do poder familiar):
+
+  “Oficie-se ao Cartório de Registro Civil competente para averbação da perda do poder familiar, nos termos do art. 163, parágrafo único, do Estatuto da Criança e do Adolescente.”
+
+- **Extração de DNA** (crimes dolosos com violência grave ou crimes sexuais):
+
+  “Determine-se a submissão do réu ao procedimento de coleta de DNA, caso ainda não realizado, por ocasião de seu ingresso no estabelecimento prisional, nos termos do art. 9º-A da Lei de Execução Penal.”
+
+1.3.4 Conclusão e segredo de justiça
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Nos processos que tramitam em segredo de justiça, deve ser expressamente consignada a manutenção do sigilo.
+
+“Publique-se. Mantenham-se os autos em segredo de justiça, nos termos do art. 234-B do Código Penal.”
+
 “Sentença registrada eletronicamente.”
 
-08.3.5 – Recomendações finais
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+1.3.5 Recomendações finais
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Evitar encerramentos genéricos ou abertos (“expeça-se o necessário”).
-- Adaptar o modelo às peculiaridades do caso, especialmente quanto à situação prisional e natureza da pena.
-- Utilizar linguagem clara, precisa e imperativa, seguindo o Pacto Nacional pela Linguagem Simples (CNJ).
+Evite-se o encerramento genérico da sentença com expressões abertas, como “expeça-se o necessário”, pois tal prática exige nova conclusão dos autos e reduz a eficiência cartorária.
 
-Referências e Precedentes
--------------------------
+O modelo deve ser adaptado às peculiaridades do caso concreto, especialmente quanto à situação prisional do réu e à natureza da pena aplicada.
 
-1. STF - HC 167083/SP, Rel. Min. Marco Aurélio, julgamento em 18/08/2020, Primeira Turma, DJe 18/11/2020.  
-   TJ-DF 0707868-21.2020.8.07.0000, Rel. Roberval Casemiro Belinati, julgamento em 02/04/2020.
-
-2. Portaria nº 2897/2023, art. 2º – expedição de mandado de prisão e arquivamento provisório do processo até a captura do réu.  
-   Após o envio dos documentos à Vara de Execução Penal via SEEU, o feito deve ser baixado em definitivo.
-
-3. STF – RE 601182 (Tese de Repercussão Geral):  
-   "A suspensão de direitos políticos prevista no art. 15, III, da Constituição Federal aplica-se no caso de substituição da pena privativa de liberdade pela restritiva de direitos."  
-   Tribunal Pleno, Rel. Min. Marco Aurélio, Red. acórdão Min. Alexandre de Moraes, julgamento em 08/05/2019, publicação em 02/10/2019.
+Recomenda-se a utilização de linguagem clara, objetiva e imperativa, em consonância com o Pacto Nacional pela Linguagem Simples, promovido pelo Conselho Nacional de Justiça.

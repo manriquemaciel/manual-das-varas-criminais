@@ -1,65 +1,93 @@
+.. coding: utf-8
+
 ======================================================================
-Cadastro da Denúncia ou Queixa para fins da Prescrição
+Cadastro da Denúncia ou Queixa para Fins de Prescrição
 ======================================================================
 
-A contagem precisa do **prazo prescricional** no sistema Projudi depende também do cadastro formal da **denúncia ou queixa** criminal. Mesmo que o processo já tenha registrado o oferecimento e recebimento da denúncia em suas **movimentações**, é imprescindível inserir essas informações na aba **Informações Adicionais** para que o sistema possa calcular corretamente os prazos legais.
+A contagem precisa do **prazo prescricional** no sistema **Projudi** depende também do cadastro formal da **denúncia ou queixa** criminal.  
+
+Mesmo que o processo já possua o oferecimento e o recebimento da denúncia registrados nas **movimentações**, é indispensável inserir essas informações na aba **Informações Adicionais**, para que o sistema realize corretamente o cálculo dos prazos legais.
 
 Local do Cadastro
 -------------------
 
 Na tela do processo:
 
-1. Clique na aba **Informações Adicionais**
-2. Vá até **Denunciado e Querelado**
-3. Clique em **Novo** para iniciar o cadastro
+1. Clique na aba **Informações Adicionais**.
+2. Acesse a opção **Denunciado e Querelado**.
+3. Clique em **Novo** para iniciar o cadastro.
 
 Preenchimento dos Campos
 --------------------------
 
-- **Tipo**: Selecione se é **Denúncia** ou **Queixa**
-- **Parte**: O denunciado ou querelado será listado
-- **Assunto Principal**: Exemplo: Homicídio Qualificado
-- **Imputações**:
-  - Código Penal (ex: **Art. 121, §2º**)
-  - Se é **hediondo**
-  - Se é **consumado** ou **tentado**
-  - Se há **concurso de crimes**
+Na tela de cadastro, preencha atentamente:
+
+- **Tipo**  
+  Selecione **Denúncia** ou **Queixa**.
+
+- **Parte**  
+  Selecione o denunciado ou querelado correspondente.
+
+- **Assunto Principal**  
+  Exemplo: *Homicídio Qualificado*.
+
+- **Imputações**  
+  Informe os dados penais aplicáveis:
+  
+  - Lei e artigo  
+    Exemplo: **Código Penal – art. 121, § 2º**  
+  - Indicação se o crime é **hediondo**  
+  - Forma do crime: **consumado** ou **tentado**  
+  - Existência de **concurso de crimes**, se houver
 
 - **Data do Oferecimento da Denúncia**
 - **Data do Recebimento da Denúncia**
-- **Documentos** (se houver, podem ser vinculados)
 
-Clique em **Salvar**
+- **Documentos**  
+  Caso existam, podem ser vinculados ao cadastro.
+
+Após o preenchimento, clique em **Salvar**.
 
 Importância para o Cálculo da Prescrição
 ------------------------------------------
 
-Com essas informações, o sistema deixa de utilizar a **data do fato** como termo inicial e passa a utilizar a **data de recebimento da denúncia**, como prevê a legislação penal.
+Com o cadastro correto da denúncia ou queixa, o sistema **deixa de utilizar a data do fato** como termo inicial e passa a considerar a **data do recebimento da denúncia**, conforme previsto na legislação penal.
+
+Esse ajuste é essencial para garantir a **precisão do cálculo prescricional**.
 
 Análise Detalhada
 ^^^^^^^^^^^^^^^^^^
 
-Clicando em **Detalhes**, será exibido:
+Ao clicar em **Detalhes**, o sistema exibirá:
 
-- Nome das partes (acusado e MP)
+- Nome das partes (acusado e Ministério Público ou querelante)
 - Crime imputado
-- Termo inicial: **recebimento da denúncia**
-- Tempo máximo considerado
+- **Termo inicial da prescrição**  
+  (data do recebimento da denúncia)
+- Prazo máximo considerado
 - Idade do réu na data do fato
-- Redução aplicada (ex: -50% se < 21 anos)
-- **Prescrição calculada automaticamente**
+- Reduções aplicadas  
+  Exemplo: redução de 50% se o réu era menor de 21 anos à época do fato
+- **Data da prescrição calculada automaticamente**
 
 Exemplo:
-  - Termo inicial: 03/03/2017 (data do recebimento)
-  - Prescrição da pretensão punitiva: 02/03/2025
+
+::
+
+   Termo inicial: 03/03/2017
+   Prescrição da pretensão punitiva: 02/03/2025
 
 Conclusão
 ----------
 
-O cadastro de denúncia ou queixa é essencial para:
+O cadastro correto da **denúncia ou queixa** é indispensável para:
 
-- Calcular corretamente o prazo da **prescrição penal**
-- Garantir segurança jurídica e agilidade processual
-- Oferecer dados claros e acessíveis para **magistrados, assessorias e secretarias**
+- Garantir o cálculo adequado da **prescrição penal**
+- Evitar nulidades e riscos de extinção da punibilidade
+- Oferecer dados claros e confiáveis para:
+  - Magistrados
+  - Assessores
+  - Secretaria judicial
+- Promover maior **segurança jurídica** e eficiência na tramitação processual
 
-Na próxima aula, abordaremos a aba **Mesa do Escrivão**, com foco nos relatórios de controle.
+Na próxima aula, será abordada a aba **Mesa do Escrivão**, com foco nos **relatórios e ferramentas de controle**.

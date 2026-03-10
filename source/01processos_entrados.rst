@@ -1,120 +1,78 @@
-Processos Entrados (Análise do cartório)
-=========================================
+.. coding: utf-8
 
-01 - Introdução
-===============
+01 - Processos Entrados (Cartório)
+====================================
 
-Nas Varas Criminais os autos processuais entram por meio da **Análise de Juntada** e das seguintes filas (fauncionalidade em construção):
+1. Procedimento de entrada
+-----------------------------
 
-- **Processos Redistribuídos** (Processos oriundos de outras varas ou VGPIP)
-- **Processos Entrados** (Inquéritos peticionados pela delegacia)
+1.1 Introdução
+^^^^^^^^^^^^^^
 
-Em sua maioria, os processos das Varas Criminais são oriundos da Vara de Garantias Penais e Inquéritos Policiais, quando do oferecimento da denúncia pelo Ministério Público. Logo, a principal porta de entrada de processos é, no Projudi, por meio da:
+Nas Varas Criminais, os autos processuais entram por meio da Análise de Juntada e das seguintes filas:
 
-- **Mesa do Analista Judiciário > Análise de Juntadas > Para Realizar: Juntadas**
-- Filas processuais: *“processos entrados”* e *“processos redistribuídos”*
+- Processos redistribuídos (processos oriundos de outras varas ou da VGPIP)
+- Processos entrados (inquéritos peticionados pela delegacia)
 
-Processos entrados, geralmente, são os Inquéritos peticionados pela delegacia equivocadamente, pois deveriam ser direcionados à Vara de Inquéritos Policiais.
+Em sua maioria, os processos das Varas Criminais são oriundos da Vara de Garantias Penais e Inquéritos Policiais, quando do oferecimento da denúncia pelo Ministério Público. Assim, a principal porta de entrada de processos é, no Projudi, por meio da Mesa do Analista Judiciário > Análise de Juntadas > Para Realizar: Juntadas, ou ainda por meio das filas processuais “Processos Entrados” e “Processos Redistribuídos”.
 
-.. note::
+Os processos entrados, geralmente, correspondem a inquéritos peticionados pela delegacia de forma equivocada, pois deveriam ser direcionados à Vara de Inquéritos Policiais.
 
-   Após o julgamento das ADIs 6298, 6299, 6300 e 6305 pelo Supremo Tribunal Federal, as Varas do Tribunal do Júri, Varas de Violência Doméstica e Familiar Contra a Mulher, Varas de Crimes Contra a Dignidade Sexual e Violência Doméstica e Familiar Contra Crianças e Adolescentes, e Juizados Especiais Criminais passaram a ser exceção ao Juízo das Garantias. Portanto, os procedimentos pré-processuais não se submetem inicialmente à VGPIP.
+.. warning::
 
+   Após o julgamento das ADIs 6298, 6299, 6300 e 6305 pelo Supremo Tribunal Federal, as Varas do Tribunal do Júri, Varas de Violência Doméstica e Familiar Contra a Mulher, Varas de Crimes Contra a Dignidade Sexual e Violência Doméstica e Familiar Contra Crianças e Adolescentes, bem como os Juizados Especiais Criminais, passaram a ser exceções ao Juízo das Garantias. Assim, os procedimentos pré-processuais não se submetem inicialmente à VGPIP.
 
-02 - Checklist
-==============
+1.2 Checklist
+^^^^^^^^^^^^^
 
-Nesta fase pré-processual a Vara deverá realizar as seguintes diligências, antes de encaminhar concluso para o Juiz:
+Nesta fase pré-processual, a Vara deverá realizar as seguintes diligências antes de encaminhar os autos conclusos ao magistrado:
 
-- Cadastro de Partes/Representantes
-- Informações Gerais
-- Informações Adicionais
-- Verificação do Assunto Principal
-- Conferência do Banco Nacional de Mandados de Prisão
-- Expedição de Certidão de Antecedentes Criminais
+- Cadastro de partes e representantes
+- Conferência das informações gerais
+- Conferência das informações adicionais
+- Verificação do assunto principal
+- Consulta ao Banco Nacional de Mandados de Prisão
+- Expedição de certidão de antecedentes criminais
 
+1.2.1 Cadastro de Partes e Representantes
+"""""""""""""""""""""""""""""""""""""""""
 
-02.1 Cadastro de Partes/Representantes
---------------------------------------
+Atentar para o CPF das partes e consultar o CEP sempre que possível. No cadastro de partes, deve-se, ainda, observar as prioridades legais e a informação acerca da concessão de justiça gratuita.
 
-- Atentar para o CPF das partes e consultar o CEP sempre que possível.
-- Observar as prioridades e a informação acerca da justiça gratuita.
+1.2.2 Atualização das Informações Gerais e Adicionais
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
+As informações gerais reúnem os principais dados do processo, tais como comarca, competência, juízo e distribuição. É por meio dessas informações que se realizam alterações de localizadores, retificações ou evoluções da classe processual e do assunto principal.
 
-02.2 Atualização das Informações Gerais e Adicionais
------------------------------------------------------
+As informações adicionais, por sua vez, concentram dados mais detalhados, como data da infração, delegacia de origem, prisões, apreensões, infrações, sentenças, trânsito em julgado e registros de impedimentos ou suspeições.
 
-As **informações gerais** reúnem os principais dados dos processos, tais como:
+Quando há o recebimento da denúncia, é imprescindível incluir as informações correspondentes, como a imputação e a data do recebimento, de modo que o sistema possa calcular automaticamente a prescrição, a qual poderá ser verificada por meio da “Mesa do Escrivão”.
 
-- Comarca
-- Competência
-- Juízo
-- Distribuição
+1.2.3 Conferência do Banco Nacional de Mandados de Prisão
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-É por meio delas que se pode alterar localizadores, retificar ou evoluir a classe processual e o assunto principal.
+Conforme a Resolução CNJ nº 417/2021, a Portaria Conjunta TJAM nº 02/2022 e o Provimento nº 426/2022-CGJ/AM, todas as peças relacionadas à expedição de alvarás de soltura, certidões de cumprimento de prisão, mandados de prisão, certidões de extinção de punibilidade, guias de execução e mandados de medidas cautelares diversas da prisão devem ser confeccionadas, assinadas e finalizadas exclusivamente no ambiente do BNMP 3.0.
 
-As **informações adicionais** incluem dados como:
+Somente após esse procedimento as peças devem ser exportadas e integradas ao sistema Projudi, evitando duplicidade e garantindo a integridade dos dados.
 
-- Data da infração
-- Delegacia de origem
-- Prisões e apreensões
-- Infrações e sentenças
-- Trânsito
-- Impedimentos/suspeições
+Por essa razão, é imprescindível que, ao chegar o processo à Vara, seja realizada a verificação junto ao BNMP 3.0 para confirmar se eventuais peças vinculadas estão corretamente associadas à competência do juízo receptor. Esse procedimento também possibilita identificar se o réu possui outro processo em andamento ou se está preso em razão de medida decretada por outra unidade.
 
-.. important::
+1.2.4 Expedição de Certidão de Antecedentes Criminais
+"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-   Quando há o recebimento da denúncia, é imprescindível incluir informações como a imputação e a data do recebimento, para que o sistema calcule automaticamente a prescrição (visualizável na “Mesa do Escrivão”).
+A expedição de nova certidão de antecedentes criminais é essencial para averiguar a possibilidade de aplicação de medidas diversas da prisão ou de outros benefícios legais, como a suspensão condicional do processo, sendo indispensável a juntada do documento atualizado aos autos.
 
+Para iniciar a pesquisa, deve-se utilizar o caminho: Processos > Busca > Antecedentes Criminais (Oráculo), informando o nome da parte e, sempre que possível, dados complementares, como filiação, a fim de refinar o resultado.
 
-02.3 Conferência do Banco Nacional de Mandados de Prisão
----------------------------------------------------------
+Outra forma de consulta consiste na utilização da busca avançada, por meio da aba: Processos > Busca > Avançada.
 
-Conforme **Resolução CNJ nº 417/2021**, **Portaria Conjunta TJAM nº 02/2022** e **Provimento nº 426/2022-CGJ/AM**, todas as peças relacionadas à expedição de:
+1.2.5 Autos conclusos
+"""""""""""""""""""""
 
-- Alvarás de Soltura
-- Certidões de Cumprimento de Prisões
-- Mandados de Prisão
-- Certidões de Extinção de Punibilidade
-- Guias de Execução
-- Mandados de Medidas Cautelares Diversas da Prisão
+Superadas todas as pendências necessárias para subsidiar a decisão do magistrado, o servidor deverá promover a conclusão dos autos, mediante certidão de conclusão, informando eventuais pendências remanescentes que demandem saneamento.
 
-devem ser confeccionadas, assinadas e finalizadas unicamente no ambiente do **BNMP 3.0**, sendo depois exportadas e integradas ao PROJUDI.
+Após a juntada do documento, o processo deverá ser remetido concluso por meio do caminho: Movimentações > clicar na última movimentação (ou na movimentação da juntada da certidão) > Movimentar a partir desta movimentação > Enviar Concluso. Nesta etapa, será necessário identificar o magistrado, o tipo de conclusão — sendo as mais comuns “decisão” ou “despacho” —, indicar o agrupador correspondente e assinalar se a conclusão é urgente, como nos casos de réus presos, pedidos de revogação de prisão ou outras medidas cautelares que demandem prioridade.
 
-.. tip::
+.. warning::
 
-   Ao receber o processo, verificar no BNMP 3.0 se as peças vinculadas estão na competência do juízo receptor. Esse procedimento permite também checar se o réu possui outro processo ou prisão em razão de medida decretada por outra unidade.
-
-
-02.5 Expedição de Certidão de Antecedentes Criminais
------------------------------------------------------
-
-A expedição de nova certidão é fundamental para:
-
-- Avaliar medidas diversas da prisão
-- Possibilidade de suspensão condicional do processo
-
-.. code-block:: text
-
-   Menu: Processos > Busca > Antecedentes Criminais (Oráculo)
-
-Para refinar a busca, utilizar o nome da parte e outros dados (como pai ou mãe).  
-Também é possível consultar por meio da busca avançada: *Processos > Busca > Avançada*.
-
-
-02.6 Autos conclusos
----------------------
-
-Superadas todas as pendências, o servidor deve fazer a conclusão dos autos mediante **certidão de conclusão**, informando pendências de saneamento.
-
-Procedimento:
-
-1. Lançar o documento nos autos
-2. Movimentações > (clicar na última movimentação ou na juntada da certidão) > **Movimentar a Partir Desta Movimentação** > **Enviar Concluso**
-3. Identificar o magistrado e o tipo de conclusão (decisão, despacho, etc.)
-4. Indicar o agrupador correspondente
-5. Assinalar se é urgente (réus presos, pedidos de revogação ou outras cautelares urgentes)
-
-.. note::
-
-   Recomenda-se o uso de agrupadores para facilitar a análise pela assessoria, identificando processos recém-entrados e agilizando o gabinete.
+   Recomenda-se a utilização de agrupadores para facilitar o trabalho da assessoria, permitindo que o gabinete identifique, de forma célere, que o processo se trata de feito recém-entrado na unidade, promovendo análise mais eficiente.

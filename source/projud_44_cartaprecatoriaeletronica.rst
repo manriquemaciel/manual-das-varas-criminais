@@ -1,83 +1,150 @@
+.. coding: utf-8
+
 =======================================================
 Carta Precatória Eletrônica
 =======================================================
 
-Nesta aula, aprendemos como confeccionar, enviar e acompanhar **cartas precatórias eletrônicas** no sistema Projudi, diferenciando-as das cartas precatórias físicas que são utilizadas quando o destinatário **não usa o sistema Projudi**.
+Nesta aula, será apresentado o procedimento de **confecção, envio e acompanhamento de cartas precatórias eletrônicas** no sistema **ProJUDI**, bem como a distinção entre a **carta precatória eletrônica** e a **carta precatória física**.
 
 Tipos de Carta Precatória
 ----------------------------
 
-1. **Carta Precatória Física (via Ordenar Cumprimentos)**:
-   - Utilizada para enviar comunicações a unidades judiciárias **fora do Projudi** (ex: PJe, SAJ).
-   - Emitida via: `Movimentações > Ordenar Cumprimentos > Carta Precatória`
-   - Após assinatura do magistrado, é enviada por **malote digital** ou cadastrada em outro sistema externo.
+No âmbito do ProJUDI, existem dois tipos principais de cartas precatórias:
 
-2. **Carta Precatória Eletrônica (internamente via Projudi)**:
-   - Usada quando o destinatário também **utiliza o sistema Projudi**, geralmente dentro do mesmo estado.
-   - Tramitada integralmente pelo próprio sistema.
+1. **Carta Precatória Física (via Ordenar Cumprimentos)**
+
+   - Utilizada para comunicações destinadas a unidades judiciárias que **não utilizam o ProJUDI**
+     (ex.: sistemas **PJe**, **SAJ**, entre outros).
+   - Emitida por meio do caminho:
+     ::
+
+        Movimentações > Ordenar Cumprimentos > Carta Precatória
+   - Após a assinatura do magistrado, é encaminhada por **Malote Digital** ou cadastrada manualmente em sistema externo.
+
+2. **Carta Precatória Eletrônica (via ProJUDI)**
+
+   - Utilizada quando a unidade destinatária **também utiliza o sistema ProJUDI**.
+   - Geralmente aplicada a comarcas do **mesmo estado**.
+   - Toda a tramitação ocorre **internamente no próprio sistema**, sem necessidade de envio externo.
 
 Acesso às Cartas Precatórias
 -----------------------------
 
-Acesse pelo menu superior:
+O gerenciamento das cartas precatórias é realizado pelo menu superior do sistema:
 
-``Processos > Cartas > Carta Precatória``
+::
 
-- **Recebidas**: Cartas recebidas de outras unidades Projudi.
-- **Enviadas**: Cartas criadas pela sua unidade.
-- Filtros disponíveis: Tipo, status, comarca de origem/destino, prazo urgente, finalidade, etc.
+   Processos > Cartas > Carta Precatória
 
-Como Criar uma Carta Precatória Eletrônica
---------------------------------------------
+Nesta tela, é possível acessar:
 
-Há duas formas de iniciar:
+- **Recebidas**:
+  - Cartas encaminhadas por outras unidades ProJUDI.
+- **Enviadas**:
+  - Cartas expedidas pela própria unidade.
 
-1. **Via Menu Processos**
-   - `Processos > Cartas > Carta Precatória > Criar Carta Precatória`
+Filtros disponíveis:
 
-2. **Dentro do Processo (mais comum)**
-   - `Movimentações > [Selecione a decisão] > Movimentar a partir desta > Ordenar Carta Precatória Eletrônica`
+- Tipo de carta
+- Status
+- Comarca de origem ou destino
+- Urgência
+- Finalidade
+- Prazo, entre outros
+
+Criação da Carta Precatória Eletrônica
+----------------------------------------
+
+A carta precatória eletrônica pode ser iniciada de duas formas:
+
+1. **Via menu Processos**
+
+   ::
+
+      Processos > Cartas > Carta Precatória > Criar Carta Precatória
+
+2. **Diretamente dentro do processo (forma mais utilizada)**
+
+   ::
+
+      Movimentações > [Selecionar a decisão]
+      > Movimentar a partir desta
+      > Ordenar Carta Precatória Eletrônica
 
 Passos para Cadastro da Carta Precatória Eletrônica
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. **Informações Iniciais**
-   - Número do processo originário
+1. **Informações iniciais**
+
+   - Número do processo de origem
    - Nome do magistrado
-   - Urgência (sim ou não)
+   - Indicação de **urgência** (Sim ou Não)
 
-2. **Finalidade e Destino**
-   - Finalidade: citação, intimação etc.
+2. **Finalidade e destino**
+
+   - Finalidade da carta (ex.: citação, intimação, oitiva, etc.)
    - Comarca e vara de destino
-   - Competência e prazo para cumprimento
+   - Competência
+   - Prazo para cumprimento
 
-3. **Seleção de Partes**
-   - Selecionar as partes relevantes que serão copiadas automaticamente para o novo processo.
+3. **Seleção de partes**
 
-4. **Documento da Capa**
-   - Inserir o documento principal (modelo da carta).
+   - Selecionar as partes relevantes do processo originário
+   - As partes selecionadas serão **copiadas automaticamente** para o processo da carta precatória
 
-5. **Documentos Anexos**
-   - Anexar petição inicial, decisão, denúncia, etc.
+4. **Documento da capa**
 
-6. **Verificação e Cadastro**
-   - Conferência final de todos os dados inseridos.
-   - Clique em **Salvar**.
+   - Inserir o documento principal da carta
+   - Preferencialmente utilizando **modelo previamente cadastrado**
 
-Gestão da Carta Precatória
--------------------------------
+5. **Documentos anexos**
 
-- Após cadastrada, a carta irá para **assinatura do juiz**.
-- Após assinada, ficará visível em:
-  - `Análise de Juntadas > Tipo de movimento: expedição de carta precatória`
-- Para acompanhar o status:
-  - `Processos > Cartas > Carta Precatória > Enviadas ou Recebidas`
-  - Status: aguardando análise, enviada ao deprecado, recebida, etc.
+   - Anexar documentos indispensáveis, tais como:
+     - Petição inicial
+     - Decisão
+     - Denúncia
+     - Outros documentos pertinentes ao cumprimento
+
+6. **Verificação e cadastro**
+
+   - Conferir todos os dados inseridos
+   - Clique em **Salvar** para concluir o cadastro
+
+Gestão e Acompanhamento da Carta Precatória
+-----------------------------------------------
+
+Após o cadastro:
+
+- A carta será encaminhada para **assinatura do magistrado**.
+- Após assinada, poderá ser localizada em:
+  ::
+
+     Análise de Juntadas
+     > Tipo de movimento: Expedição de Carta Precatória
+
+O acompanhamento do andamento pode ser feito em:
+
+::
+
+   Processos > Cartas > Carta Precatória > Enviadas ou Recebidas
+
+Status comuns:
+
+- Aguardando análise
+- Enviada ao juízo deprecado
+- Recebida
+- Em cumprimento
+- Cumprida
+- Devolvida
 
 Resumo
 -------
 
-- Cartas precatórias eletrônicas são tramitadas internamente entre comarcas que usam o Projudi.
-- O sistema permite **confeccionar, gerenciar, acompanhar e arquivar** todas as fases da carta.
-- A ferramenta é fundamental para a comunicação interjurisdicional eficiente e ágil dentro do mesmo sistema.
-
+- A **carta precatória eletrônica** é utilizada quando ambas as unidades utilizam o sistema ProJUDI.
+- Todo o fluxo ocorre de forma **digital, interna e rastreável**.
+- O sistema permite:
+  - Confeccionar
+  - Gerenciar
+  - Acompanhar
+  - Arquivar cartas precatórias eletrônicas
+- Trata-se de ferramenta essencial para uma **comunicação interjurisdicional ágil e segura** dentro do mesmo sistema.

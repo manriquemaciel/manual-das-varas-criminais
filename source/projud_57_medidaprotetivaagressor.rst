@@ -1,44 +1,81 @@
+.. coding: utf-8
+
 ====================================================================
 Cadastro de Medida Protetiva ao Agressor
 ====================================================================
 
-Nesta aula é apresentada a funcionalidade (ainda em fase de implantação) de **cadastro de medidas protetivas direcionadas ao agressor** no sistema Projudi. Esta funcionalidade será especialmente útil para as unidades especializadas em violência doméstica.
+Nesta aula é apresentada a funcionalidade — **ainda em fase de implantação** —
+de **cadastro de medidas protetivas direcionadas ao agressor** no sistema
+**Projudi**. O recurso foi concebido especialmente para atender às demandas das
+**unidades especializadas em violência doméstica e familiar contra a mulher**.
 
-Cadastro de Medida Protetiva ao Agressor
+Cadastro da Medida Protetiva ao Agressor
 -------------------------------------------
 
 1. Na **tela principal do processo**, acesse:
 
-   ``Informações Adicionais`` → ``Medida Protetiva ao Agressor`` → ``Cadastrar``
+::
+
+   Informações Adicionais → Medida Protetiva ao Agressor → Cadastrar
 
 2. Na tela de cadastro:
+
    - Informe a **data de início da medida**
-   - Clique em **Novo** para adicionar uma nova medida protetiva
+   - Clique em **Novo** para adicionar uma medida protetiva
 
-3. Preencha os seguintes campos:
-   - **Tipo de medida**: *Medida Protetiva*
-   - **Processo que concedeu a medida**: informe se é o processo atual ou outro
-   - **Espécie da medida** (ex: *afastamento do lar*, *proibição de contato* etc.)
-   - **Prazo de duração** (ex: 1 ano, 2 anos)
+3. Preencha os campos disponíveis:
+
+   - **Tipo de medida**:
+     - Medida Protetiva
+   - **Processo que concedeu a medida**:
+     - Informe se a concessão ocorreu no próprio processo ou em outro processo
+   - **Espécie da medida**:
+     - Campo previsto, porém **ainda indisponível** na versão atual
+   - **Prazo de duração**:
+     - Exemplo: 6 meses, 1 ano, 2 anos
    - **Data prevista para término**
-   - **Observações adicionais** (opcional)
+   - **Observações adicionais**, se necessário
 
-4. Clique em **Salvar**
+4. Clique em **Salvar**.
+
+Resultado
+^^^^^^^^^^
+
+- A medida protetiva ficará registrada no processo.
+- As informações poderão ser consultadas e futuramente integradas a relatórios
+  e filtros específicos.
 
 Status da Funcionalidade
 ---------------------------
 
-- A funcionalidade está **em fase de implantação**
-- Atualmente, o campo **Espécie da medida** ainda não está disponível
-- Em versões futuras, será possível escolher a espécie da medida a partir de uma lista padronizada (ex: *afastamento do lar*, *monitoramento eletrônico*, *proibição de aproximação*, entre outras)
+- O módulo encontra-se **em fase de implantação**.
+- Atualmente:
+  - O campo **Espécie da Medida** ainda não está habilitado.
+- Em versões futuras do sistema, será possível selecionar a espécie da medida
+  a partir de uma lista padronizada, como:
+  - Afastamento do lar
+  - Proibição de contato
+  - Proibição de aproximação
+  - Monitoramento eletrônico
+  - Outras medidas previstas na Lei Maria da Penha
 
 Aplicabilidade
 -----------------
 
-Essa ferramenta será especialmente útil para **Juizados de Violência Doméstica e Familiar contra a Mulher**, permitindo melhor gestão e controle das medidas protetivas concedidas aos agressores.
+Essa funcionalidade será especialmente relevante para:
+
+- **Juizados de Violência Doméstica e Familiar contra a Mulher**
+- Varas criminais com competência para medidas protetivas
+- Unidades que necessitam de **controle sistematizado** das cautelares impostas
+  ao agressor
+
+O cadastro adequado permitirá melhor gestão, rastreabilidade e acompanhamento
+das medidas concedidas.
 
 Considerações Finais
 ----------------------
 
-Mesmo estando em fase de implantação, a estrutura do cadastro já segue o padrão do sistema Projudi e poderá, em breve, ser utilizada de forma completa.
-
+Embora ainda em fase de implantação, o cadastro de **Medida Protetiva ao Agressor**
+já segue o padrão estrutural do sistema **Projudi**, estando preparado para
+evolução futura, integração com relatórios e ampliação das opções de controle
+processual.

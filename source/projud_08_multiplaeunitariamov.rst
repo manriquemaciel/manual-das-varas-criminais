@@ -1,87 +1,99 @@
-====================================================================
+.. coding: utf-8
+
+.. raw:: pdf
+
+   PageBreak
+
 Análise Múltipla com Movimentação Múltipla
-====================================================================
+==============================================
 
-Nesta aula, vamos aprender a realizar a **análise múltipla com movimentações consecutivas** no sistema ProJUDI. Trata-se de um procedimento em que, após a análise múltipla, o servidor continua com outras movimentações sobre os mesmos processos — como intimações seguidas de suspensão, por exemplo.
+Nesta aula, será demonstrado como realizar a **análise múltipla com movimentações consecutivas** no sistema ProJUDI. Trata-se de procedimento no qual, após a análise múltipla inicial, o servidor **continua aplicando outras movimentações sobre o mesmo conjunto de processos**, como, por exemplo, **intimação seguida de suspensão**.
 
-Cenário Prático
------------------
+Cenário prático
+---------------------
 
-Exemplo: processos cujo **agrupador** é *Decisão IRDR e Tarifas*.
+Exemplo de aplicação:
 
-Objetivo:
+- Processos vinculados ao **agrupador**: *Decisão IRDR e Tarifas*.
 
-1. **Intimar as partes** sobre a decisão
-2. Em seguida, **suspender os processos**
+Objetivo do procedimento:
+
+1. **Intimar as partes** acerca da decisão judicial;
+2. **Suspender os processos** em razão do efeito vinculante do IRDR.
 
 Procedimentos
----------------
+------------------
 
-**Passo 1: Acessar os processos**
+Passo 1 – Acesso aos processos
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Vá em **Retorno de Conclusão**
-- Utilize o **filtro por agrupador**: ex.: "Decisão IRDR e Tarifas"
-- Clique em **Análise Múltipla**
-- Selecione os processos
-- Clique em **Próximo passo**
+1. Acessar a fila **Retorno de Conclusão**;
+2. Utilizar o **filtro por agrupador**, selecionando, por exemplo: *Decisão IRDR e Tarifas*;
+3. Clicar em **“Análise Múltipla”**;
+4. Selecionar os processos desejados;
+5. Clicar em **“Próximo passo”**.
 
-**Passo 2: Primeira movimentação - Intimação**
+Passo 2 – Primeira movimentação: intimação
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Selecione a ação: **Intimar**
-- Escolha os destinatários:
-  - Advogado do promovente (autor)
-  - Advogado do promovido (réu)
-- Defina:
-  - Prazo (em dias úteis ou corridos)
-  - Localizador (opcional): ex.: *aguardando decisão IRDR*
-- Clique em **Próximo passo**
-- Revise os processos
-- Clique em **Continuar movimentando**
+1. Selecionar a ação **“Intimar”**;
+2. Definir os destinatários:
+   - Advogado do promovente (autor);
+   - Advogado do promovido (réu);
+3. Informar:
+   - Prazo (em dias úteis ou corridos);
+   - Localizador (opcional), por exemplo: *aguardando decisão IRDR*;
+4. Clicar em **“Próximo passo”**;
+5. Revisar os processos selecionados;
+6. Clicar em **“Continuar movimentando”**.
 
-⚠️ **Atenção:** Se algum processo tiver **duas pendências (ex: juntada + retorno de conclusão)**, o sistema não permitirá a movimentação.
+.. warning::
 
-- Solução:
-  - Acesse o processo
-  - Elimine uma das pendências (ex.: vá em *Análise de Juntada* e clique em *Dispensar*)
-  - Retorne e repita o procedimento
+   Caso algum processo possua **duas pendências simultâneas**  
+   (ex.: juntada pendente + retorno de conclusão), o sistema **impedirá a movimentação**.
 
-**Passo 3: Segunda movimentação - Suspensão**
+   Nessa hipótese:
+   - Acesse individualmente o processo;
+   - Elimine uma das pendências (ex.: em **Análise de Juntadas**, clicar em *Dispensar*);
+   - Retorne à análise múltipla e repita o procedimento.
 
-Após a intimação:
+Passo 3 – Segunda movimentação: suspensão
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Clique em **Movimentar**
-- Selecione: **Suspender**
-- Preencha:
-  - Data de início
-  - Tempo determinado? Se *não*, informe o prazo (ex.: conforme suspensão condicional do processo)
-  - Tipo de suspensão (ex.: aguardando julgamento do IRDR)
-- Clique em **Próximo passo**
-- Revise os processos
-- Clique em **Salvar**
+Após a conclusão da intimação:
 
-Mensagem:
+1. Clicar em **“Movimentar”**;
+2. Selecionar a ação **“Suspender”**;
+3. Preencher:
+   - Data de início da suspensão;
+   - Indicar se a suspensão possui prazo determinado;
+   - Caso não seja determinado, informar o fundamento (ex.: aguardando julgamento do IRDR);
+   - Tipo de suspensão (ex.: *sobrestamento por IRDR*);
+4. Clicar em **“Próximo passo”**;
+5. Revisar os processos;
+6. Clicar em **“Salvar”**.
 
-Processos movimentados com sucesso.
+Ao final, o sistema exibirá a mensagem:
 
+*“Processos movimentados com sucesso.”*
 
 Verificação
-------------
+--------------
 
-Ao acessar um dos processos movimentados:
+Ao acessar qualquer um dos processos movimentados, deverá constar:
 
-- **Status:** "Suspenso" ou "Sobrestado"
-- **Movimentações:**
-  - Análise da decisão
-  - Intimação das partes
-  - Suspensão do processo
+- **Status do processo**: *Suspenso* ou *Sobrestado*;
+- **Histórico de movimentações**:
+  - Análise da decisão;
+  - Intimação das partes;
+  - Suspensão do processo.
 
 Resumo
--------
+----------
 
-- Com a análise múltipla + movimentação contínua, é possível aplicar **duas ou mais ações em sequência** sobre um grupo de processos.
-- Ideal para decisões com **efeitos em cadeia**, como:
-  - Intimação + suspensão
-  - Citação + remessa
-  - Intimação + arquivamento
-- Gera **economia de tempo**: dezenas de movimentações em poucos minutos
-
+- A análise múltipla com movimentação contínua permite aplicar **duas ou mais providências em sequência** sobre um mesmo grupo de processos.
+- É especialmente indicada para decisões com **efeitos em cadeia**, tais como:
+  - Intimação + suspensão;
+  - Citação + remessa;
+  - Intimação + arquivamento.
+- Trata-se de recurso que proporciona **expressiva economia de tempo**, permitindo a tramitação de dezenas de processos em poucos minutos, com padronização e segurança procedimental.

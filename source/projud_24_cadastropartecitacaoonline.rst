@@ -1,74 +1,103 @@
-===============================================================
+.. coding: utf-8
+
+.. raw:: latex
+
+   \newpage
+
+
 Cadastro de Parte com Citação Online
-===============================================================
+====================================
 
-Nesta aula, você vai aprender como **cadastrar uma parte (pessoa jurídica ou órgão público)** no sistema ProJUDI para que ela receba **citação eletrônica (citação online)**.
 
-O que é a Citação Online?
----------------------------
+Nesta aula, será apresentado o procedimento para **cadastrar uma parte (pessoa jurídica ou órgão público)** no sistema ProJUDI, de modo que ela receba **citação eletrônica (citação online)**.
 
-A **citação online** é realizada **dentro do próprio sistema ProJUDI**, sem uso do Diário da Justiça Eletrônico.
 
-Características:
+O que é a citação online?
+--------------------------
 
-- O sistema envia **notificação automática via e-mail** para a parte cadastrada
-- Há integração com o sistema **push**, que avisa o usuário sobre a movimentação
-- Utilizada para grandes demandantes:
-  - Bancos
-  - Companhias aéreas
-  - Estado, INSS, PGE, etc.
 
-Passo a Passo para Cadastro da Parte com Citação Online
----------------------------------------------------------
+A **citação online** é realizada **diretamente no sistema ProJUDI**, sem a utilização do Diário da Justiça Eletrônico.
 
-1. Clique na aba **Partes**
-2. Selecione **Adicionar Parte**
-3. Escolha o **Polo Processual** (ex: Polo Passivo)
-4. Clique na **lupa** ao lado do campo *Nome* para abrir a tela de seleção
+Principais características:
 
-### Filtros recomendados:
+- Envio de **notificação automática por e-mail** à parte cadastrada;
+- Integração com o sistema de **notificações push** do ProJUDI;
+- Modalidade aplicada principalmente a **grandes demandantes**, tais como:
+  
+  - Bancos;
+  - Companhias aéreas;
+  - Estado;
+  - INSS;
+  - Procuradorias (PGE, AGU, entre outras).
 
-- **Pessoa Jurídica** (ou órgão público)
-- Insira o **CNPJ** ou o nome completo
-- Marque a opção: **"Somente com citação online"**
-- Clique em **Pesquisar**
 
-5. Na lista de resultados, selecione a parte que exibe **"Citação Online"** ao lado do nome
+Passo a passo para cadastro da parte com citação online
+--------------------------------------------------------
 
-6. Confirme o endereço e demais dados
 
-7. Clique em **Salvar**
+1. Acesse a aba **Partes**;
+2. Clique em **Adicionar Parte**;
+3. Selecione o **polo processual** correspondente (ex.: Polo Passivo);
+4. Clique na **lupa** ao lado do campo *Nome* para abrir a tela de seleção de partes.
 
-> ✅ A parte está agora apta a receber **citações e intimações eletrônicas** diretamente pelo sistema ProJUDI.
 
-Informações Adicionais (opcional)
+Filtros recomendados
+~~~~~~~~~~~~~~~~~~~~~
+
+
+Na tela de pesquisa, utilize os seguintes filtros para facilitar a localização:
+
+- Tipo: **Pessoa Jurídica** ou **Órgão Público**;
+- Informe o **CNPJ** ou o nome completo da instituição;
+- Marque a opção **Somente com citação online**;
+- Clique em **Pesquisar**.
+
+
+Seleção da parte
+~~~~~~~~~~~~~~~~~
+
+
+1. Na lista de resultados, selecione a parte que exiba, ao lado do nome, a indicação **Citação Online**;
+2. Confira os dados cadastrais e o endereço eletrônico;
+3. Clique em **Salvar**.
+
+Após esse procedimento, a parte estará habilitada para receber **citações e intimações eletrônicas** pelo sistema ProJUDI.
+
+
+Informações adicionais (opcional)
 ----------------------------------
 
-Antes de salvar, você pode preencher:
 
-- **Se a parte é revel**
-- **Prioridade**:
-  - Maior de 60 anos
-  - Pessoa com deficiência
-  - Portador de doença grave
+Antes de salvar o cadastro, é possível preencher informações complementares, tais como:
 
-Verificando o Cadastro
+- Indicação de **revelia**;
+- Definição de **prioridade**, nos casos de:
+  
+  - Pessoa maior de 60 anos;
+  - Pessoa com deficiência;
+  - Portador de doença grave.
+
+
+Verificando o cadastro
 ------------------------
 
-Após salvar:
 
-- Volte à tela inicial do processo
-- A parte aparecerá com o **selo de “Citação Online”**
-- Ao realizar uma citação ou intimação, o sistema notificará automaticamente a parte cadastrada
+Após a confirmação do cadastro:
+
+- Retorne à tela inicial do processo;
+- A parte aparecerá identificada com o **selo “Citação Online”**;
+- Ao expedir citação ou intimação, o sistema realizará automaticamente a notificação eletrônica da parte cadastrada.
+
 
 Resumo
---------
+-------
 
-O cadastro correto da parte com **citação online** é essencial para:
 
-✅ Garantir que empresas e órgãos recebam comunicações judiciais eletrônicas  
-✅ Automatizar citações e intimações  
-✅ Reduzir custos e acelerar a tramitação processual
+O correto cadastro da parte com **citação online** é fundamental para:
 
-Essa funcionalidade é indispensável para processos envolvendo **grandes demandantes**.
+- Garantir que empresas e órgãos públicos recebam comunicações judiciais eletrônicas;
+- Automatizar citações e intimações;
+- Reduzir custos operacionais;
+- Acelerar a tramitação processual.
 
+Essa funcionalidade é indispensável nos processos que envolvem **grandes demandantes**, promovendo maior eficiência e padronização na comunicação dos atos processuais.

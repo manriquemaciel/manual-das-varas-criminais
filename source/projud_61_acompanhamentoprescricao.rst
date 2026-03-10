@@ -1,3 +1,5 @@
+.. coding: utf-8
+
 =====================================================================
 Mesa do Escrivão Criminal: Análise de Prescrições
 =====================================================================
@@ -5,28 +7,36 @@ Mesa do Escrivão Criminal: Análise de Prescrições
 Objetivo
 ------------
 
-Apresentar as funcionalidades da **aba exclusiva da área criminal** chamada **Mesa do Escrivão Criminal**, com destaque para a gestão de **prescrições** e outras pendências relevantes à tramitação de processos penais.
+Apresentar as funcionalidades da **aba exclusiva da área criminal**
+denominada **Mesa do Escrivão Criminal**, com destaque para a gestão
+de **prescrições penais** e outras pendências relevantes à tramitação
+dos processos criminais.
 
 Acesso
 ----------
 
-Esta funcionalidade está disponível apenas para unidades da área criminal, como:
+A funcionalidade está disponível exclusivamente para unidades da área
+criminal, tais como:
 
 - Juizado Especial Criminal
 - Varas Criminais Comuns
+- Varas Criminais Especializadas
 - Varas de Meio Ambiente Criminal
-- Varas Especializadas
 
-Localização: Aba superior **"Mesa do Escrivão Criminal"**.
+Localização: aba superior **Mesa do Escrivão Criminal**.
 
-Organização Visual
----------------------
+Organização Visual da Mesa
+----------------------------
 
-Ao acessar a aba, o sistema exibe **painéis em formato de cartões**, semelhantes a filas organizadas por tipo de pendência ou dado relevante. Exemplos:
+Ao acessar a aba, o sistema apresenta **painéis em formato de cartões**,
+organizados por tipo de pendência ou informação relevante ao controle
+processual penal.
 
-- **Feitos com réu preso (sem sentença anotada)**
+Exemplos de painéis exibidos:
+
+- **Feitos com réu preso sem sentença anotada**
 - **Mandados com prazo vencido**
-- **Preções vencidas e a vencer**
+- **Prescrições vencidas e a vencer**
 - **Prisões provisórias com mais de 90 dias**
 - **Processos paralisados**
 - **Inquéritos pendentes de arquivamento**
@@ -34,60 +44,71 @@ Ao acessar a aba, o sistema exibe **painéis em formato de cartões**, semelhant
 - **Feitos com réu sem CPF ou RG**
 - **Medidas alternativas atrasadas**
 
-Prescrições: vencidas e a vencer
+Prescrições: Vencidas e a Vencer
 ------------------------------------
 
-Destaque para o painel **Prescrições**, que se divide em:
+O painel **Prescrições** é dividido em dois grupos principais:
 
-- **Prescrições Vencidas**: Exibe processos com prazos prescricionais já ultrapassados.
-- **Prescrições a Vencer**: Mostra processos com prescrição próxima da data-limite.
+- **Prescrições vencidas**  
+  Exibe processos cujo prazo prescricional já foi ultrapassado.
 
-Cada item exibe:
+- **Prescrições a vencer**  
+  Apresenta processos com prescrição próxima da data-limite legal.
+
+Para cada processo listado, o sistema exibe, entre outras informações:
 
 - Número do processo
 - Classe processual
-- Data da infração e da distribuição
+- Data do fato
+- Data da distribuição
 - Data prevista para a prescrição
-- Dias paralisados
+- Quantidade de dias paralisados
 
 .. note::
 
-   Para que os processos apareçam corretamente nesses painéis, **é necessário que os dados estejam corretamente alimentados**, especialmente:
+   Para que os processos sejam corretamente exibidos nos painéis de
+   prescrição, é indispensável que os dados estejam **devidamente
+   cadastrados e atualizados**, especialmente:
 
-   - **Data do fato**
-   - **Data de nascimento do réu**
-   - **Cadastro de infrações e penas**
-   - **Cadastro de denúncia/queixa com datas de oferecimento e recebimento**
+   - Data do fato
+   - Data de nascimento do réu
+   - Cadastro de **infrações e penas**
+   - Cadastro da **denúncia ou queixa**, com datas de oferecimento e
+     recebimento corretamente informadas
 
 Funcionalidades Adicionais da Mesa
 --------------------------------------
 
-Outros painéis relevantes:
+Além do controle de prescrições, a **Mesa do Escrivão Criminal**
+disponibiliza diversos outros painéis estratégicos, tais como:
 
 - **Prisões provisórias sem sentença com mais de 90 dias**
 - **Feitos sem anotação de sentença**
 - **Processos com apreensão sem depósito**
-- **Habeas corpus pendentes (TJ/STJ/STF)**
-- **Monitoramento eletrônico (ativas/expiradas)**
-- **Ações penais sem audiência agendada**
+- **Habeas corpus pendentes** (TJ, STJ ou STF)
+- **Monitoramento eletrônico**:
+  - Ativas
+  - Expiradas
+- **Ações penais sem audiência designada**
 
 Relatórios e Organização
 ----------------------------
 
 Os painéis permitem:
 
-- Ordenação por data (ascendente/descendente)
-- Visualização rápida de gargalos
-- Auditoria de processos paralisados ou sem movimentações essenciais
-- Tomada de decisões preventivas para evitar prescrição
+- Ordenação dos processos por data (crescente ou decrescente)
+- Identificação rápida de gargalos processuais
+- Auditoria de feitos paralisados ou sem movimentações essenciais
+- Atuação preventiva para evitar prescrição ou nulidades
 
-Importância
------------------
+Importância da Ferramenta
+----------------------------
 
-A aba **Mesa do Escrivão Criminal** é uma poderosa ferramenta de **gestão da vara penal**, pois permite:
+A **Mesa do Escrivão Criminal** constitui uma ferramenta essencial de
+**gestão da vara penal**, pois possibilita:
 
 - Visualização centralizada de processos críticos
-- Detecção proativa de riscos de prescrição
-- Priorização no andamento de feitos sensíveis
-- Apoio direto à chefia de secretaria e gabinete
-
+- Monitoramento contínuo dos prazos prescricionais
+- Priorização do andamento de feitos sensíveis
+- Apoio direto à chefia de secretaria e ao gabinete do magistrado
+- Redução de riscos de prescrição e responsabilização administrativa

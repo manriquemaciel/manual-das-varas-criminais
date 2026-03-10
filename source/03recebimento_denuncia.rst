@@ -1,52 +1,40 @@
-Após recebimento da denúncia
-=========================================
+.. coding: utf-8
 
-Introdução
---------------
+03 - Recebimento da Denúncia (Cartório)
+============================================
 
-Após recebida a denúncia dá-se início ao processo penal, a partir desse momento a Vara Criminal deve proceder a evolução da classe processual, atualização do histórico de partes e efetuar os atos de citação da parte.
+1. Procedimento após o recebimento da denúncia
+----------------------------------------------
 
-Checklist
-----------
+1.1 Introdução
+^^^^^^^^^^^^^^
 
-Nesta fase processual a Vara deverá realizar as seguintes diligências.
+Após o recebimento da denúncia, dá-se início ao processo penal. A partir desse momento, a Vara Criminal deverá proceder à evolução da classe processual, à atualização do cadastro das partes e à prática dos atos necessários à citação da parte acusada.
 
-* Realizar a Evolução de Classe
-* Atualizar o Histórico de Partes
-* Atualizar o Cadastro de Partes
-* Emitir Mandados de Citação
-* Analisar o cumprimento do Mandado de Citação
-    * Consultar sistemas (mandado negativo)
-    * Emitir Edital de Citação (caso frustradas todas as tentativas de citação)
-* Analisar prazo de apresentação de resposta à acusação
-* Vista a Defensoria (caso não apresentada resposta à acusação)
+1.2 Checklist
+^^^^^^^^^^^^^
 
-.. seealso:: Saiba mais sobre:
+Nesta fase processual, a Vara deverá realizar as seguintes diligências:
 
-    Como realizar a evolução de classe: :doc:`projud_19_evolucao_retificacao`
+- Realizar a evolução de classe processual
+- Atualizar o cadastro de partes
+- Emitir mandados de citação
+- Analisar o cumprimento dos mandados de citação
+- Consultar sistemas de apoio, nos casos de mandado negativo
+- Emitir edital de citação, quando frustradas todas as tentativas de citação pessoal
+- Controlar o prazo para apresentação da resposta à acusação
+- Dar vista à Defensoria Pública, caso não seja apresentada resposta à acusação
 
-    Atualização de cadastro e histórico de partes: :doc:`projud_23_cadastroparte`
+1.3 Evolução de classe
+^^^^^^^^^^^^^^^^^^^^^^
 
-    Cadastro de partes com citação online: :doc:`projud_24_cadastropartecitacaoonline`
+Após o recebimento da denúncia, os autos deixam de constituir mero procedimento investigativo — como inquérito policial ou termo circunstanciado de ocorrência — e passam a tramitar como ação penal, devendo integrar o acervo da Vara e ser contabilizados para fins de produtividade e cumprimento das metas institucionais.
 
-    Emissão e expedição de mandado de citação: :doc:`projud_32_expedicaomandado`
+As Varas devem atentar para a obrigatoriedade da correta realização desse procedimento, uma vez que a ausência de evolução de classe compromete o controle estatístico e o adequado gerenciamento processual.
 
-    Como analisar o cumprimento do mandado e emitir edital: :doc:`projud_33_ordenarcumprimento`
+1.4 Procedimento no sistema
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-    Citação por edital: :doc:`projud_44_cartaprecatoriaeletronica`
+Para a realização da evolução de classe, o servidor deverá acessar o sistema Projudi e proceder da seguinte forma: aba “Informações Gerais” → opção “Alterar” → campo “Classe Processual” → “Tipo de Movimento”.
 
-    Contagem e análise de prazo: :doc:`projud_31_contagemprazo`
-
-    Vista à Defensoria e intimações: :doc:`projud_34_intimarperitooj`
-
-Evolução de Classe
---------------------
-
-Após o recebimento da denúncia os autos deixam de ser um mero procedimento (inquérito policial, TCO e etc) e passa a ser uma ação penal, devendo contar para o acervo da Vara e em todos os parâmetros de produtividade e metas estabelecidas.
-As varas devem se atentar para a obrigatoriedade deste procedimento de evolução de classe, conforme estabelecido no provimento XXXX e recomendação XXXX da Coordenação das Varas Criminais.
-
-.. seealso:: Saiba mais sobre:
-
-    Evolução de classe após o recebimento da denúncia: :doc:`projud_19_evolucao_retificacao`
-
-    Cadastro da denúncia para fins de cálculo de prescrição: :doc:`projud_53_cadastrodenuncia`
+Nessa mesma aba, deverá ser realizada, quando necessária, a retificação do assunto do processo, de modo a refletir corretamente a natureza da ação penal em tramitação.

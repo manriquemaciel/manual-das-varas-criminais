@@ -1,98 +1,111 @@
-====================================================
+.. coding: utf-8
+
+.. raw:: pdf
+
+   PageBreak
+
 Filas Processuais e Mover de Fila
-====================================================
+=========================================
 
-Nesta aula, vamos explorar a aba **Filas Processuais**, um recurso recente do sistema ProJUDI que visa proporcionar **maior organização e eficiência** na rotina cartorária.
+Nesta aula, será apresentada a aba **Filas Processuais**, recurso recente do sistema ProJUDI que tem por finalidade proporcionar **maior organização, controle e eficiência** na rotina cartorária.
 
-Objetivo da Aba
-----------------
+Objetivo da aba
+---------------------
 
 A aba **Filas Processuais** permite:
 
-- Agrupar processos conforme sua situação processual
-- Otimizar o fluxo de trabalho
-- Auxiliar no controle e distribuição de tarefas
+- Agrupar processos conforme a sua situação processual;
+- Organizar o fluxo de trabalho da secretaria;
+- Auxiliar no controle, distribuição e priorização das tarefas.
 
-Acesso e Utilização
----------------------
+Acesso e utilização
+-------------------------
 
-1. Clique na aba **Filas Processuais**
-2. Será exibida uma lista com diversas filas, como:
-   - Aguardando análise de AR
-   - Audiência
-   - Preliminar
-   - Avaliação
-   - Decisão
-   - Decurso de prazo
-   - Entre outras
+1. Acesse a aba **Filas Processuais**;
+2. Será exibida uma lista contendo diversas filas, tais como:
+   - Aguardando análise de AR;
+   - Audiência;
+   - Preliminar;
+   - Avaliação;
+   - Decisão;
+   - Decurso de prazo;
+   - Entre outras;
+3. Clique em uma das filas (ex.: **Decisão**) para visualizar os processos ali alocados;
+4. Utilize o campo de busca para localizar processos específicos pelo número.
 
-3. Clique em uma das filas (ex: **Decisão**) para visualizar os processos ali contidos
-4. Use o campo de busca para filtrar processos pelo número
+Movimentações disponíveis
+-------------------------------
 
-Movimentações Disponíveis
----------------------------
+Copiar para outra fila
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-### 1. **Copiar para outra fila**
+- O processo **permanece na fila original** e passa a constar também na nova fila;
+- Exemplo: copiar da fila *Decisão* para *Aguardando cálculo de execução*.
 
-- O processo **permanece em ambas as filas**
-- Exemplo: da fila "Decisão" para "Aguardando cálculo de execução"
+Mover para outra fila
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-### 2. **Mover para outra fila**
+- O processo é **retirado da fila atual** e transferido para a nova fila selecionada;
+- Exemplo: mover da fila *Decisão* para *Aguardando audiência*.
 
-- O processo é **removido da fila atual** e transferido para a nova
-- Exemplo: da fila "Decisão" para "Aguardando audiência"
+Remover processo da fila
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-### 3. **Remover processo da fila**
+- Exclui o processo da fila selecionada;
+- Não realiza a inclusão automática em outra fila.
 
-- Exclui o processo de determinada fila, sem movê-lo para outra
+Mover múltiplo
+^^^^^^^^^^^^^^^^^^^^
 
-### 4. **Mover Múltiplo**
+- Selecione dois ou mais processos;
+- Clique em **“Mover”** (canto inferior direito da tela);
+- Escolha a fila de destino e confirme a operação.
 
-- Selecione dois ou mais processos
-- Clique em **"Mover"** (canto inferior direito)
-- Escolha a nova fila e confirme
+Copiar múltiplo
+^^^^^^^^^^^^^^^^^^^^
 
-### 5. **Copiar Múltiplo**
-
-- Idêntico ao mover múltiplo, mas mantém os processos também na fila original
+- Procedimento idêntico ao mover múltiplo;
+- Os processos permanecem também na fila de origem.
 
 Verificação
-------------
+-----------------
 
-- Após mover ou copiar, acesse novamente a fila para confirmar se os processos foram corretamente inseridos
-- Também é possível verificar a **fila atual** na tela principal do processo
+Após a operação de mover ou copiar:
 
-Funcionalidade Extra
-----------------------
+- Acesse novamente a fila de destino para confirmar se os processos foram corretamente inseridos;
+- Também é possível verificar a **fila atual do processo** diretamente na tela principal do feito.
 
-Na **tela principal do processo**, é possível:
+Funcionalidade extra
+-------------------------
 
-- **Mover para outra fila**
-- **Copiar para outra fila**
-- **Excluir da fila**
+Na **tela principal do processo**, é possível realizar diretamente as seguintes ações:
 
-> Essas ações estão disponíveis no painel lateral da página do processo.
+- **Mover para outra fila**;
+- **Copiar para outra fila**;
+- **Remover processo da fila**.
 
-⚠️ **Importante:**  
-Mover um processo para a fila "Decisão" **não significa** que ele será automaticamente direcionado para o gabinete ou será incluído em uma minuta.
+Essas opções estão disponíveis no **painel lateral** da página do processo.
 
-Exemplo:
+.. warning::
 
-- Processo movido para a fila "Decisão"
-- Última movimentação: "Recebido os autos da instância superior"
-- Necessário ainda:
-  - Acessar aba **Movimentações**
-  - Clicar em *Movimentar a partir desta movimentação*
-  - Selecionar **"Enviar Concluso"**
+   A movimentação de um processo para a fila **“Decisão”** não implica, por si só, o envio automático ao gabinete ou a inclusão em minuta.
+
+Exemplo prático:
+
+- Processo movido para a fila *Decisão*;
+- Última movimentação: *Recebidos os autos da instância superior*;
+- Providência necessária:
+  - Acessar a aba **Movimentações**;
+  - Clicar em *Movimentar a partir desta movimentação*;
+  - Selecionar **“Enviar Concluso”**.
 
 Resumo
---------
+---------
 
-A aba **Filas Processuais** é uma ferramenta poderosa para:
+A aba **Filas Processuais** é uma ferramenta estratégica para:
 
-- Organizar a carga de trabalho
-- Atribuir tarefas por status ou grupo
-- Planejar o andamento dos processos com mais clareza
+- Organizar a carga de trabalho;
+- Classificar processos por status ou tipo de providência;
+- Planejar o andamento processual de forma mais clara e eficiente.
 
-Contudo, ela **não substitui as movimentações formais** exigidas pelo sistema para o encaminhamento ao magistrado ou para atos processuais específicos.
-
+Todavia, ela **não substitui as movimentações formais do sistema**, necessárias para o efetivo encaminhamento ao magistrado ou para a prática dos atos processuais.

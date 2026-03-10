@@ -1,98 +1,120 @@
-=================================================================
+.. coding: utf-8
+
+.. raw:: pdf
+
+   PageBreak
+
 Análise Múltipla e Unitária de Juntadas
-=================================================================
+===========================================
 
-Nesta aula, vamos aprender como realizar a **análise unitária** e a **análise múltipla** das juntadas dentro da aba **Análise de Juntadas**, no sistema ProJUDI.
+Nesta aula, será demonstrado como realizar a **análise unitária** e a **análise múltipla** das juntadas no sistema ProJUDI, por meio da aba **Análise de Juntadas**, ferramenta central da rotina cartorária.
 
-Identificação de Processos
-----------------------------
+Identificação de processos
+-------------------------------
 
-Os processos podem ser localizados de diversas formas:
+Os processos podem ser localizados e filtrados de diversas formas, permitindo maior agilidade na análise:
 
-- **Número do processo**: digite e filtre diretamente
-- **Por grupos**: 
-  - Analista
-  - Magistrado
-  - Advogado
-  - Membro do Ministério Público
-- **Tipo de movimento**:
-  - Petição inicial
-  - Ciência
-  - Requerimento de habilitação
-  - Procuração
-  - Processo incidental
-  - Oferecimento de denúncia
-- **Situação**:
-  - Urgente
-  - Concluso
-- **Localizador**: permite refinar ainda mais os filtros
+- **Número do processo** – digitação direta no campo de busca;
+- **Por grupos**, tais como:
+  - Analista;
+  - Magistrado;
+  - Advogado;
+  - Membro do Ministério Público;
+- **Tipo de movimento**, por exemplo:
+  - Petição inicial;
+  - Ciência;
+  - Requerimento de habilitação;
+  - Procuração;
+  - Processo incidental;
+  - Oferecimento de denúncia;
+- **Situação do processo**:
+  - Urgente;
+  - Concluso;
+- **Localizador**, possibilitando refinamento adicional da pesquisa.
 
-Análise Unitária
-------------------
+Esses filtros podem ser combinados para segmentar processos com características semelhantes.
 
-1. Localize o processo desejado.
-2. Clique com o botão direito sobre o número do processo e selecione **"Abrir em nova guia"**.
-3. Analise o processo em tela separada (sugestão: monitor secundário).
-4. Acesse a aba **"Movimentações"** do processo.
+Análise unitária
+---------------------
 
-**Importante:** Quando uma juntada é realizada, o sistema gera uma **pendência**.
+A **análise unitária** é indicada quando se deseja examinar e movimentar um processo específico.
 
-- Para remover a pendência:
-  - Vá até a aba **"Pendência"**
-  - Clique sobre a pendência
-  - Selecione a opção **"Dispensar"**
-  - A pendência será removida
+Procedimento:
 
-Sem a remoção da pendência, não é possível movimentar o processo. O sistema apresentará a mensagem:
+1. Localizar o processo desejado na lista;
+2. Clicar com o botão direito do mouse sobre o número do processo e selecionar **“Abrir em nova guia”**  
+   (recomenda-se o uso de monitor secundário, quando disponível);
+3. Analisar o conteúdo do processo na guia separada;
+4. Acessar a aba **“Movimentações”** do processo.
 
-Movimentação não permitida. O processo possui juntadas pendentes a serem analisadas.
+Pendências
+^^^^^^^^^^^^^^^^
 
+Sempre que uma juntada é realizada, o sistema cria automaticamente uma **pendência**, que impede novas movimentações até sua análise.
 
-Após dispensar a pendência, é possível:
+Para remover a pendência:
 
-- Enviar concluso
-- Intimar
-- Notificar
-- Ordenar cumprimento
+1. Acessar a aba **“Pendência”**;
+2. Clicar sobre a pendência existente;
+3. Selecionar a opção **“Dispensar”**;
+4. Confirmar a operação.
 
-### Exemplo:
+Enquanto houver pendência ativa, o sistema exibirá a mensagem:
 
-1. Dispensar pendência
-2. Clicar em **"Movimentar a partir desta movimentação"**
-3. Selecionar **"Enviar Concluso"**
-4. Escolher:
-   - Tipo de conclusão (ex.: Decisão Inicial)
-   - Nome do magistrado
-   - Agrupador (opcional)
-5. Finalizar movimentação
+*“Movimentação não permitida. O processo possui juntadas pendentes a serem analisadas.”*
 
-Análise Múltipla
------------------
+Somente após a dispensa da pendência será possível movimentar o processo.
 
-1. Selecione vários processos com a mesma natureza de juntada
-2. Clique em **"Análise Múltipla"**
+Providências possíveis após a análise
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Após a remoção da pendência, a secretaria poderá, conforme o caso:
+
+- Enviar os autos conclusos;
+- Realizar intimações ou notificações;
+- Ordenar o cumprimento de diligências.
+
+Exemplo prático
+^^^^^^^^^^^^^^^^^^^^
+
+1. Dispensar a pendência da juntada;
+2. Clicar em **“Movimentar a partir desta movimentação”**;
+3. Selecionar **“Enviar Concluso”**;
+4. Informar:
+   - Tipo de conclusão (ex.: decisão inicial);
+   - Nome do magistrado;
+   - Agrupador (opcional);
+5. Finalizar a movimentação.
+
+Análise múltipla
+-------------------
+
+A **análise múltipla** é recomendada quando há diversos processos com a **mesma natureza de juntada** e a mesma providência a ser adotada.
+
+Procedimento:
+
+1. Selecionar múltiplos processos na lista;
+2. Clicar na opção **“Análise Múltipla”**;
 3. Na tela de análise múltipla:
-   - Clique em **"Adicionar"**
-   - Insira um documento (ato ordinatório, certidão, etc.)
-   - Ou selecione diretamente a movimentação (ex.: enviar concluso)
-4. Defina:
-   - Tipo de movimentação (ex.: decisão inicial)
-   - Magistrado responsável
-   - Agrupador (opcional)
-   - Localizador (opcional)
-5. Clique em **"Próximo passo"**
-6. Revise os processos individualmente (opcional)
-7. Clique em **"Salvar"**
+   - Clicar em **“Adicionar”**;
+   - Inserir um documento (ato ordinatório, certidão, despacho padrão), ou
+   - Selecionar diretamente a movimentação desejada (ex.: enviar concluso);
+4. Definir:
+   - Tipo de movimentação (ex.: decisão inicial);
+   - Magistrado responsável;
+   - Agrupador (opcional);
+   - Localizador (opcional);
+5. Clicar em **“Próximo passo”**;
+6. Revisar individualmente os processos, se necessário;
+7. Clicar em **“Salvar”** para concluir.
 
-Mensagem de sucesso:
+Ao final, o sistema exibirá a mensagem:
 
-Conclusões analisadas com sucesso.
-
+*“Conclusões analisadas com sucesso.”*
 
 Resumo
--------
+----------
 
-- A **análise unitária** permite examinar e movimentar processos individualmente.
-- A **análise múltipla** agiliza a tramitação de processos semelhantes.
-- O uso de pendências e filtros ajuda a organizar e priorizar o fluxo de trabalho.
-
+- A **análise unitária** permite o exame detalhado e a movimentação individual de processos.
+- A **análise múltipla** possibilita a tramitação simultânea de processos semelhantes, aumentando a eficiência.
+- O correto uso de **filtros** e **pendências** é fundamental para organizar, priorizar e racionalizar o fluxo de trabalho cartorário.

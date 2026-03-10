@@ -6,10 +6,12 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'manual das varas criminais'
-copyright = '2025, TJAM'
-author = 'TJAM'
-release = '1.0'
+project = 'Manual das Varas Criminais'
+copyright = '2026, TJAM'
+author = 'Tribunal de Justiça do Estado do Amazonas'
+release = '1.1'
+
+
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -23,7 +25,8 @@ templates_path = ['_templates']
 exclude_patterns = []
 
 language = 'pt_BR'
-rst2pdf_pdf_language = 'pt_BR'
+source_encoding = 'utf-8'
+
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -36,3 +39,14 @@ pdf_documents = [('index', u'guiacriminal', u'Guia das Varas Criminais', u'TJAM'
   # rst2pdf - name of the generated pdf
   # Sample rst2pdf doc - title of the pdf
   # Your Name - author name in the pdf
+
+pdf_stylesheets = [
+    'sphinx',
+    '_static/styles/livro.yml',
+]
+
+pdf_font_path = ['_static/fonts']
+pdf_language = 'pt_BR'
+pdf_break_level = 1
+pdf_toc_depth = 5
+pdf_use_index = True

@@ -1,68 +1,109 @@
+.. coding: utf-8
+
 ==================================================================
 Cadastro de Suspensões (Parte)
 ==================================================================
 
-Nesta aula, é demonstrado como realizar **a suspensão processual referente a uma parte específica** no sistema Projudi. Este procedimento difere da **suspensão do processo inteiro**, tratada em aula anterior.
+Nesta aula, é demonstrado como realizar o **cadastro de suspensão processual
+referente a uma parte específica** no sistema **Projudi**.  
+Esse procedimento é distinto da **suspensão do processo inteiro**, tratada em
+aula própria.
 
 Acesso ao Cadastro
 --------------------
 
-1. Na **tela principal** do processo, vá até:
-   
-   ``Informações Adicionais`` → ``Benefícios, Medidas e Suspensões`` → ``Suspensão``
+1. Na **tela principal do processo**, acesse:
 
-2. Clique em **"Cadastrar"**
+::
 
-Suspensão de Parte (Art. 366 do CPP)
+   Informações Adicionais → Benefícios, Medidas e Suspensões → Suspensão
+
+2. Clique em **Cadastrar**.
+
+Suspensão de Parte – Art. 366 do CPP
 -------------------------------------
 
-1. **Data da suspensão**
-2. **Motivo da suspensão**:
-   - Artigo **366 do CPP** (ausência do réu citado por edital)
-3. Clique em **Salvar**
+A suspensão prevista no **art. 366 do Código de Processo Penal** ocorre quando o
+réu é citado por edital e não comparece nem constitui defensor.
 
-   Resultado: A suspensão é aplicada apenas à parte selecionada.
+1. Informe a **Data da suspensão**.
+2. Selecione o **Motivo da suspensão**:
+   - Art. 366 do CPP
+3. Clique em **Salvar**.
 
-Suspensão com Base no Art. 89 da Lei 9.099/95
-----------------------------------------------
+Resultado
+^^^^^^^^^^
+
+- A suspensão será aplicada **somente à parte selecionada**.
+- O processo poderá prosseguir em relação às demais partes, se houver.
+
+Suspensão Condicional do Processo – Art. 89 da Lei 9.099/95
+------------------------------------------------------------
 
 1. Acesse novamente:
-   
-   ``Informações Adicionais`` → ``Benefícios, Medidas e Suspensões`` → ``Suspensão``
 
-2. Insira:
+::
+
+   Informações Adicionais → Benefícios, Medidas e Suspensões → Suspensão
+
+2. Preencha:
    - **Data de início da suspensão**
-   - **Motivo da suspensão**: Artigo 89 da Lei 9.099/95
+   - **Motivo da suspensão**: Art. 89 da Lei nº 9.099/95
 
-3. O sistema abrirá a aba de **Condições impostas**. Clique em **Novo**.
+3. O sistema abrirá automaticamente a aba **Condições Impostas**.  
+   Clique em **Novo**.
 
-4. Preencha:
-   - **Tipo de medida alternativa** (ex: Comparecimento em juízo)
-   - **Prazo da medida** (ex: 2 anos)
-   - **Local de comparecimento**:
-     - Pode ser *em juízo* ou *entidade beneficiada*
-     - Caso entidade, deve estar previamente cadastrada no sistema (``Cadastro > Entidades Beneficiadas``)
+Cadastro das Condições
+^^^^^^^^^^^^^^^^^^^^^^
 
-5. Insira **observações**, se necessário.
+1. Selecione o **Tipo de medida alternativa**, por exemplo:
+   - Comparecimento em juízo
+2. Informe o **Prazo da medida**:
+   - Exemplo: 2 anos
+3. Defina o **Local de cumprimento**:
+   - Em juízo; ou
+   - Entidade beneficiada
 
-6. Em **Cumprimentos**, configure o planejamento:
-   - **Data de início**
-   - **Quantidade de períodos** (ex: 24 para 2 anos)
-   - **Periodicidade** (ex: 30 dias)
-   - Clique em **Gerar datas**
-   - Clique em **Salvar**
+   Caso seja entidade beneficiada, esta deve estar previamente cadastrada em:
 
-7. Se necessário, **adicione novas condições** clicando em **Adicionar**
+::
+
+   Cadastro → Entidades Beneficiadas
+
+4. Preencha **Observações**, se necessário.
+
+Planejamento de Cumprimento
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Na seção **Cumprimentos**, configure o planejamento:
+
+1. Informe:
+   - Data de início
+   - Quantidade de períodos (exemplo: 24 para 2 anos)
+   - Periodicidade (exemplo: 30 dias)
+2. Clique em **Gerar datas**.
+3. Clique em **Salvar**.
+
+- Para incluir **mais de uma condição**, utilize o botão **Adicionar**.
 
 Recursos Disponíveis na Tela
 ------------------------------
 
-- **Relatório**: Geração de relatório com resumo das medidas impostas
-- **Suspender processo**: Caso necessário suspender o processo inteiro (encaminha para a tela geral de suspensão)
-- **Alterar ou remover**: Possibilidade de editar ou excluir as suspensões aplicadas
+Na tela de suspensão por parte, estão disponíveis as seguintes opções:
+
+- **Relatório**:
+  - Gera um resumo das condições e do cumprimento da suspensão
+- **Suspender processo**:
+  - Redireciona para a funcionalidade de suspensão do processo inteiro
+- **Alterar ou remover**:
+  - Permite editar ou excluir suspensões já cadastradas
 
 Conclusão
 ----------
 
-O cadastro correto da suspensão **por parte** é essencial para o controle processual, especialmente em casos de réus ausentes ou que tenham aceitado propostas de suspensão condicional do processo.
+O correto cadastro da **suspensão por parte** é essencial para:
 
+- Controle individualizado da situação processual do réu
+- Acompanhamento das condições impostas na suspensão condicional do processo
+- Correta aplicação dos arts. **366 do CPP** e **89 da Lei 9.099/95**
+- Garantia de rastreabilidade e segurança jurídica no sistema Projudi

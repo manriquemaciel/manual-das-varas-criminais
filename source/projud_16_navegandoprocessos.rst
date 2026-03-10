@@ -1,91 +1,103 @@
-===================================
+.. coding: utf-8
+
 Navegando nos Autos
-===================================
+==========================
 
-Nesta aula, vamos aprender como utilizar o botão **"Navegar"** nos autos do processo no sistema ProJUDI. Essa função permite uma **visualização ampla e detalhada** dos documentos e movimentações processuais.
+Nesta aula, vamos aprender como utilizar o botão **Navegar** nos autos do processo no sistema ProJUDI. Essa funcionalidade permite uma **visualização ampla, organizada e detalhada** de todos os documentos e movimentações processuais.
 
-Acesso à Função
-----------------
+Acesso à função
+------------------
 
-Existem duas formas de acessar o recurso:
+O recurso **Navegar** pode ser acessado de duas formas:
 
-- Clicando no botão **"Navegar"**
-- Utilizando o atalho de teclado **F12**
+- Clicando no botão **Navegar**, na tela inicial do processo;
+- Utilizando o atalho de teclado **F12**.
 
-A tela é aberta em uma nova aba e pode ser movida para um **segundo monitor**, otimizando o trabalho simultâneo com outras telas do sistema.
+A navegação é aberta em **nova aba**, podendo ser deslocada para um **segundo monitor**, o que otimiza significativamente o trabalho simultâneo com outras telas do sistema.
 
-Funcionalidades da Tela Navegar
----------------------------------
+Funcionalidades da tela Navegar
+---------------------------------------
 
-### Juntar Documento
+Juntar Documento
+^^^^^^^^^^^^^^^^^^^^^
 
-- Na tela de navegação, há um botão que **redireciona diretamente para a função "Juntar Documento"**
+- Na própria tela de navegação existe um botão que **redireciona diretamente** para a função **Juntar Documento**, facilitando a inserção rápida de anexos administrativos.
 
-### Capa do Processo
+Capa do Processo
+^^^^^^^^^^^^^^^^^^^^
 
-- Clique em **"Capa do Processo"**
-- O sistema fará o download automático
-- Contém as principais informações processuais
+- Ao clicar em **Capa do Processo**, o sistema realiza o **download automático** do arquivo.
+- O documento contém as principais informações processuais, como partes, classe, assunto e dados gerais.
 
-### Exportar Processo
+Exportar Processo
+^^^^^^^^^^^^^^^^^^^^^^
 
-- Clique em **"Exportar"**
-- A tela permite:
+Ao clicar em **Exportar**, o sistema permite uma exportação altamente configurável dos autos:
 
-  - Escolher o **tipo de arquivo**
-  - **Realçar movimentações específicas**, como:
-    - Magistrado
-    - Decisões
-  - Incluir ou não:
-    - Movimentações
-    - Tarja de validação
-    - Capa do processo
-  - Selecionar documentos individualmente (ex: apenas petição inicial)
-  - Exportar **todos os documentos** do processo
+- Escolha do **tipo de arquivo**;
+- Possibilidade de **realçar movimentações específicas**, como:
+  
+  - Atos do magistrado;
+  - Decisões e sentenças;
 
-> Ideal para leitura completa ou impressão seletiva do conteúdo dos autos.
+- Inclusão ou exclusão de:
+  
+  - Movimentações processuais;
+  - Tarja de validação;
+  - Capa do processo;
 
-### Opções de Exibição
+- Seleção de documentos específicos (ex.: apenas petição inicial);
+- Exportação de **todos os documentos** do processo.
 
-- Ao acessar a tela, é **recomendado ativar "Detalhes da Movimentação"** para visualizar:
+Essa funcionalidade é ideal para **leitura integral**, **impressão seletiva** ou **encaminhamento institucional**.
 
-  - Data da movimentação
-  - Quem realizou (servidor, sistema, advogado)
-  - Número do protocolo
-  - Transparência no histórico
+Opções de exibição
+^^^^^^^^^^^^^^^^^^^^^^^^
 
-### Realçar Movimentos
+- Recomenda-se ativar a opção **Detalhes da Movimentação**, que permite visualizar:
+  
+  - Data da movimentação;
+  - Responsável pelo ato (servidor, sistema, advogado);
+  - Número de protocolo;
 
-- Permite **destaque visual** de agentes específicos (ex: magistrado)
-- As decisões interlocutórias, por exemplo, ficam realçadas em **laranja**
+Isso garante **transparência e rastreabilidade** do histórico processual.
 
-### Resumo do Processo
+Realçar Movimentações
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-- Aparece no lado direito da tela
-- Exibe:
-  - Partes
-  - Valor da causa
-  - Depósito judicial
-  - Trânsito em julgado
-  - CPF, entre outros
+- Permite destacar visualmente atos praticados por determinados agentes, como o magistrado.
+- Decisões interlocutórias e sentenças, por exemplo, ficam realçadas em **cor diferenciada** (ex.: laranja), facilitando a leitura e auditoria.
 
-### Visualização de Documentos
+Resumo do Processo
+^^^^^^^^^^^^^^^^^^
 
-- Clique em uma movimentação para ver o conteúdo do documento correspondente
-- Clique nas **três barras laterais** para:
-  - Exibir somente o documento selecionado
-  - Navegar por múltiplas páginas
-  - Alternar rapidamente entre documentos
+- Localizado no lado direito da tela.
+- Exibe informações consolidadas, como:
+  
+  - Partes;
+  - Valor da causa;
+  - Depósitos judiciais;
+  - Situação do trânsito em julgado;
+  - CPF/CNPJ das partes, entre outros dados relevantes.
+
+Visualização de Documentos
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+- Ao clicar em uma movimentação, o documento correspondente é exibido.
+- O menu lateral (ícone de três barras) permite:
+  
+  - Exibir somente o documento selecionado;
+  - Navegar entre páginas;
+  - Alternar rapidamente entre diferentes documentos dos autos.
 
 Resumo
---------
+----------
 
-A funcionalidade **"Navegar"** oferece:
+A funcionalidade **Navegar** é uma das ferramentas mais completas do ProJUDI, pois oferece:
 
-- Visualização ampla dos autos
-- Acesso direto a documentos, capa, e exportação
-- Realce de informações processuais importantes
-- Facilidade na organização e auditoria das ações no processo
+- Visão integral e organizada dos autos;
+- Acesso rápido à capa, documentos e exportação;
+- Destaque visual de atos relevantes;
+- Apoio à conferência, auditoria e análise processual detalhada.
 
-Essa ferramenta é fundamental para uma análise processual detalhada e transparente.
-
+Trata-se de recurso indispensável para servidores, assessores e magistrados que atuam diretamente na tramitação processual.

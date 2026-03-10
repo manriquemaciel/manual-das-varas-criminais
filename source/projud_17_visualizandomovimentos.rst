@@ -1,75 +1,91 @@
-===========================================
+.. coding: utf-8
+
 Visualizando as Movimentações
-===========================================
+=============================
 
-Nesta aula, vamos aprender como **visualizar e interpretar as movimentações processuais** no sistema ProJUDI. Essa funcionalidade é essencial para acompanhar o histórico do processo, verificar documentos e entender o fluxo dos atos judiciais.
+Nesta aula, vamos aprender como **visualizar, interpretar e analisar as movimentações processuais** no sistema ProJUDI. Essa funcionalidade é essencial para acompanhar o histórico do processo, localizar documentos e compreender o fluxo dos atos judiciais.
 
-Acessando as Movimentações
-----------------------------
+Acessando as movimentações
+---------------------------
 
-Existem duas formas principais para acessar as movimentações:
+Existem duas formas principais de acesso às movimentações processuais:
 
-1. **Pela aba "Movimentações"** na tela inicial do processo
-2. **Pelo botão "Navegar"** (atalho: F12)
+1. Pela aba **Movimentações**, disponível na tela inicial do processo;
+2. Pelo botão **Navegar** (atalho **F12**), que oferece uma visualização ampliada dos autos.
 
-### Tela Inicial – Aba Movimentações
+Tela inicial – Aba Movimentações
+--------------------------------
 
-- Exibe todas as movimentações do processo desde a petição inicial
-- É possível aplicar **filtros por agente** (ex: magistrado, advogado)
-- Ferramenta útil para processos com muitas movimentações
+A aba **Movimentações** exibe, em ordem cronológica, **todos os atos praticados no processo**, desde a petição inicial.
 
-**Exemplo:**
+Funcionalidades disponíveis:
 
-- Clique em **"Realçar movimentações do magistrado"**
-  - As movimentações do juiz serão destacadas em **laranja**
-- Para visualizar apenas atos do advogado:
-  - Selecione o filtro e clique em **"Filtrar"**
+- Visualização de todas as movimentações do processo;
+- Aplicação de **filtros por agente**, como:
+  
+  - Magistrado;
+  - Advogado;
+  - Servidor;
+  - Sistema;
 
-### Visualizando Documentos
+- Ferramenta especialmente útil em processos com grande volume de atos.
 
-- Ao lado de cada movimentação que possui documento, há um botão **"+"**
-- Clique nele e selecione **"Online"** para abrir o documento em PDF
-- Pode ser usado para:
-  - Decisões interlocutórias
-  - Manifestações das partes
-  - Petições, despachos, etc.
+Exemplo de uso:
 
-Análise Detalhada via "Navegar"
----------------------------------
+- Ao clicar em **“Realçar movimentações do magistrado”**, os atos judiciais passam a ser destacados em **cor laranja**, facilitando a identificação de despachos, decisões e sentenças;
+- Para visualizar apenas atos praticados por advogados, basta selecionar o filtro correspondente e clicar em **Filtrar**.
 
-Na tela do botão **Navegar**, ative a opção **"Detalhes da Movimentação"**.
+Visualização de documentos
+---------------------------
 
-Ao clicar em **"Detalhes"** de uma movimentação, são exibidos:
+- Ao lado de cada movimentação que possui documento anexado, existe o ícone **“+”**;
+- Ao clicar nele, selecione a opção **Online** para abrir o documento em formato PDF.
 
-- Data da movimentação
-- Nome de quem movimentou (advogado, magistrado, servidor)
-- Evento ou número sequencial da movimentação
-- Protocolo gerado
+Esse recurso permite acesso direto a:
 
-### Exemplo de Contagem de Prazo:
+- Decisões interlocutórias;
+- Sentenças;
+- Petições das partes;
+- Manifestações do Ministério Público ou da Defensoria Pública;
+- Despachos e certidões.
 
-- **Evento 8**: Decisão interlocutória
-- **Evento 9**: Expedição de intimação (referente ao evento 8)
-- **Evento 10**: Leitura da intimação
+Análise detalhada via Navegar
+------------------------------
 
-No detalhe da movimentação de leitura, será exibido:
+Na tela acessada pelo botão **Navegar**, recomenda-se ativar a opção **Detalhes da Movimentação**.
 
-- Nome do advogado que realizou a leitura
-- Data da leitura
-- Prazo contado
-- Referência ao evento que gerou a intimação
+Ao clicar em **Detalhes** de uma movimentação específica, o sistema exibirá:
 
-> Caso a leitura não ocorra dentro do prazo, o sistema gera uma **leitura automática**, indicando **"sistema"** como responsável.
+- Data exata da movimentação;
+- Identificação de quem praticou o ato (advogado, magistrado, servidor ou sistema);
+- Número sequencial ou evento da movimentação;
+- Protocolo gerado pelo sistema;
+- Referência a atos anteriores relacionados.
+
+Exemplo prático de contagem de prazo
+------------------------------------
+
+- **Evento 8**: Prolação de decisão interlocutória;
+- **Evento 9**: Expedição de intimação referente ao evento 8;
+- **Evento 10**: Leitura da intimação pelo advogado.
+
+Ao acessar os detalhes da movimentação de leitura, o sistema informa:
+
+- Nome do advogado que realizou a leitura;
+- Data da leitura;
+- Data de início da contagem do prazo;
+- Evento que deu origem à intimação.
+
+Caso a leitura **não seja realizada dentro do prazo legal**, o sistema efetua automaticamente a **leitura tácita**, registrando como responsável o próprio **sistema**, nos termos da legislação aplicável.
 
 Resumo
---------
+------
 
-A aba de movimentações permite:
+A visualização das movimentações no ProJUDI permite:
 
-- Acompanhar o histórico processual completo
-- Visualizar documentos diretamente
-- Aplicar filtros por autor da movimentação
-- Ver detalhes como prazos, responsáveis e protocolos
+- Acompanhar todo o histórico processual;
+- Acessar documentos de forma rápida e organizada;
+- Identificar atos por tipo de agente;
+- Verificar prazos, protocolos e vínculos entre eventos.
 
-O botão **"Navegar"** complementa essa função com uma visualização ampliada e organizada dos eventos.
-
+O uso combinado da aba **Movimentações** e da ferramenta **Navegar** garante maior segurança, clareza e eficiência na análise processual.

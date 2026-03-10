@@ -1,7 +1,6 @@
 Manual PROJUDI
 ======================================================================
 
-
 .. toctree::
    :maxdepth: 2
 
@@ -66,6 +65,3 @@ Manual PROJUDI
    projud_59_juntadahabeascorpus
    projud_60_contagemprazosprocessuais
    projud_61_acompanhamentoprescricao
-   
-
-

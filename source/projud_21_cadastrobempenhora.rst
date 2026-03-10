@@ -1,73 +1,97 @@
-=========================================
+.. coding: utf-8
+
+.. raw:: latex
+
+   \newpage
+
+
 Cadastro de Bem de Penhora
-=========================================
+==========================
 
-Nesta aula, você aprenderá a realizar o **cadastro de bens penhorados** no sistema ProJUDI, acessando a funcionalidade disponível em **Informações Adicionais** do processo.
 
-Acesso à Funcionalidade
--------------------------
+Nesta aula, será demonstrado o procedimento para realizar o **cadastro de bens penhorados** no sistema ProJUDI, utilizando a funcionalidade disponível na aba **Informações Adicionais** do processo.
 
-1. Acesse a aba **Informações Adicionais**
-2. Clique em **"Auto de Penhora"**
-3. A tela *Auto de Penhora* será exibida
 
-Cadastro do Auto de Penhora
------------------------------
+Acesso à funcionalidade
+------------------------
 
-1. Clique em **"Novo"**
+
+1. Acesse a aba **Informações Adicionais** do processo;
+2. Clique na opção **Auto de Penhora**;
+3. A tela denominada *Auto de Penhora* será exibida.
+
+
+Cadastro do auto de penhora
+----------------------------
+
+
+Para cadastrar um novo auto de penhora:
+
+1. Clique em **Novo**;
 2. Preencha os campos obrigatórios:
-
-   - **Data da Penhora**
-   - **Data do Bloqueio** (se aplicável)
-   - **Tipo de penhora**: física ou online
+   
+   - **Data da penhora**;
+   - **Data do bloqueio** (quando aplicável);
+   - **Tipo de penhora**:
+     
+     - Física;
+     - Online;
+   
    - **Tipo de depositário**:
-     - Parte
-     - Depositário Judicial
-     - Depositário Particular
+     
+     - Parte;
+     - Depositário judicial;
+     - Depositário particular;
 
 3. Identifique o **depositário**:
+   
+   - Clique em **Depositário**;
+   - Realize a pesquisa pelo nome;
+   - Selecione o depositário previamente cadastrado;
 
-   - Clique em **"Depositário"**
-   - Pesquise pelo nome
-   - Selecione o nome cadastrado
+4. Clique em **Salvar** para registrar o auto de penhora.
 
-4. Clique em **Salvar**
 
-Cadastro do Bem Penhorado
----------------------------
+Cadastro do bem penhorado
+--------------------------
 
-1. Após cadastrar o auto de penhora, clique em **"Adicionar Bem"**
-2. Informe os dados do bem:
 
-   - Nome do bem (ex: veículo, imóvel)
-   - Tipo do bem
-   - Valor estimado
-   - Parte a quem pertence o bem
+Após o cadastro do auto de penhora:
 
-3. Clique em **Salvar**
+1. Clique em **Adicionar Bem**;
+2. Preencha os dados do bem:
+   
+   - Nome do bem (ex.: veículo, imóvel, equipamento);
+   - Tipo do bem;
+   - Valor estimado;
+   - Parte à qual o bem pertence;
 
-4. Selecione o bem cadastrado e clique em **"Adicionar ao Auto de Penhora"**
+3. Clique em **Salvar**;
+4. Selecione o bem cadastrado e clique em **Adicionar ao Auto de Penhora**;
+5. Finalize o procedimento clicando novamente em **Salvar**.
 
-5. Finalize clicando em **"Salvar"** novamente
 
-Confirmação
--------------
+Confirmação do cadastro
+------------------------
 
-Após a conclusão do cadastro:
 
-- Uma mensagem de sucesso será exibida:  
-  *“Dados registrados com sucesso”*
+Após a conclusão do procedimento:
 
-- O auto de penhora será listado na aba **Informações Adicionais**
+- O sistema exibirá a mensagem:
+  
+  *“Dados registrados com sucesso”*;
+
+- O **auto de penhora** ficará listado na aba **Informações Adicionais**, com o bem e o depositário devidamente vinculados.
+
 
 Resumo
 --------
 
-Essa funcionalidade permite:
 
-- Controlar e registrar autos de penhora de forma padronizada
-- Vincular bens e depositários a cada penhora
-- Organizar as informações patrimoniais do processo
+A funcionalidade de **Cadastro de Bem de Penhora** permite:
 
-O recurso é especialmente importante nos processos de **execução**, **cumprimento de sentença**, ou em **processos criminais com apreensão de bens**.
+- Registrar autos de penhora de forma padronizada;
+- Vincular corretamente bens e depositários;
+- Organizar e controlar informações patrimoniais relevantes ao processo.
 
+Esse recurso é especialmente relevante em processos de **execução**, **cumprimento de sentença** e em **processos criminais que envolvam apreensão ou constrição de bens**.
