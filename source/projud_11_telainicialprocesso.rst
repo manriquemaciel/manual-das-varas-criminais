@@ -1,17 +1,17 @@
 .. coding: utf-8
 
 Tela Inicial do Processo
-=======================
+=============================
 
 Nesta aula, inicia-se uma **nova sequência de aulas práticas**, voltada à exploração das funcionalidades disponíveis **dentro de um processo** no sistema ProJUDI, aplicáveis tanto à **mesa cível** quanto à **mesa criminal**.
 
 Objetivo
---------
+-----------
 
 Apresentar a estrutura da **tela inicial do processo** no ProJUDI, destacando seus campos, abas e funcionalidades essenciais para a correta alimentação, análise e movimentação processual.
 
 Acesso ao processo
-------------------
+------------------------
 
 Um processo pode ser acessado por diversas rotinas do sistema, tais como:
 
@@ -23,7 +23,7 @@ Um processo pode ser acessado por diversas rotinas do sistema, tais como:
 Para fins didáticos, nesta aula o acesso ao processo foi realizado a partir da aba **Análise de Juntadas**.
 
 Componentes da tela inicial
-----------------------------
+---------------------------------
 
 Ao abrir um processo, a tela inicial apresenta, entre outras informações:
 
@@ -38,7 +38,7 @@ Ao abrir um processo, a tela inicial apresenta, entre outras informações:
 - **Pendências existentes**.
 
 Ações disponíveis
-------------------
+------------------------
 
 Na barra central superior da tela, encontram-se as principais ações operacionais:
 
@@ -50,7 +50,7 @@ Na barra central superior da tela, encontram-se as principais ações operaciona
 - **Voltar** – retorna à tela anterior do sistema.
 
 Abas de informações
--------------------
+-------------------------
 
 Na parte inferior da tela inicial do processo, estão disponíveis as seguintes abas:
 
@@ -63,7 +63,7 @@ Na parte inferior da tela inicial do processo, estão disponíveis as seguintes 
 - **Guias de custas** – informações relativas ao recolhimento de custas.
 
 Encaminhamento
---------------
+--------------------
 
 Nas próximas aulas, cada um desses itens será abordado de forma **detalhada e prática**, demonstrando como:
 

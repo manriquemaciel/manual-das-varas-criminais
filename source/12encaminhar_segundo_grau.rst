@@ -1,15 +1,15 @@
 .. coding: utf-8
 
 11 - Encaminhar para o Segundo Grau (Cartório)
-=============================================
+=====================================================
 
 11. Encaminhamento dos autos ao Segundo Grau
---------------------------------------------
+---------------------------------------------------
 
 Recebida a **Apelação Criminal** ou o **Recurso em Sentido Estrito**, os autos deverão ser encaminhados **imediatamente** à instância superior, observando-se os prazos legais e o correto procedimento no sistema PROJUDI.
 
 11.1 - Dos prazos
-^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
 
 A remessa dos autos ao Segundo Grau deverá ocorrer no prazo de **05 (cinco) dias**, conforme previsão legal:
 
@@ -19,7 +19,7 @@ A remessa dos autos ao Segundo Grau deverá ocorrer no prazo de **05 (cinco) dia
 O controle do prazo é atribuição da Secretaria, sendo indispensável a adoção de providências tempestivas para evitar atrasos no processamento recursal.
 
 11.2 - Do procedimento no PROJUDI
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Após finalizado o procedimento de interposição e admissibilidade recursal, a Secretaria deverá providenciar o envio dos autos ao Tribunal de Justiça, observando o seguinte fluxo:
 
@@ -52,7 +52,7 @@ Após finalizado o procedimento de interposição e admissibilidade recursal, a 
 Concluído o procedimento, os autos estarão formalmente remetidos ao Tribunal.
 
 11.3 - Localizador e status do processo após a remessa
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Após o envio ao Segundo Grau, o processo passará a constar no sistema com o status de:
 

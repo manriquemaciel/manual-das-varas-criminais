@@ -1,14 +1,14 @@
 .. coding: utf-8
 
 Alterar Sigilo de Processos, Documentos e Movimentações
-======================================================
+============================================================
 
 Nesta aula, é apresentado o procedimento para **alteração do nível de sigilo**
 de **processos**, **documentos** e **movimentações** no sistema ProJUDI,
 conforme as necessidades legais e determinações judiciais.
 
 Sigilo do processo
-------------------
+---------------------
 
 O ProJUDI permite a configuração de diferentes níveis de sigilo para o processo
 como um todo.
@@ -19,7 +19,7 @@ Para acessar a funcionalidade:
 2. Será exibida a tela com os níveis de sigilo disponíveis.
 
 Níveis de sigilo do processo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - **Público**  
   - Acessível a todos os servidores do Poder Judiciário, órgãos públicos parceiros e advogados habilitados.
@@ -28,14 +28,14 @@ Níveis de sigilo do processo
   - Acessível apenas aos servidores da unidade onde o processo tramita, às partes e aos usuários expressamente autorizados.
 
 Como alterar para sigilo médio
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Clique no campo correspondente ao nível de sigilo;
 2. Selecione a opção **Sigilo Médio**;
 3. Clique em **Salvar**.
 
 Adicionar permissões de acesso
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Caso haja determinação judicial para ampliar o acesso a usuários específicos:
 
@@ -45,13 +45,13 @@ Caso haja determinação judicial para ampliar o acesso a usuários específicos
 4. Clique em **Salvar**.
 
 Sigilo de documentos e movimentações
-------------------------------------
+-------------------------------------------
 
 Além do sigilo do processo como um todo, o sistema permite atribuir sigilo
 específico a **documentos** ou **movimentações individuais**.
 
 Tornar um documento ou movimentação sigilosa
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Acesse a aba **Movimentações**;
 2. Clique sobre a movimentação desejada (ex.: *Sentença*);
@@ -59,7 +59,7 @@ Tornar um documento ou movimentação sigilosa
 4. Selecione o nível apropriado.
 
 Níveis de sigilo disponíveis
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - **Público**  
   - Acessível a todos os usuários externos e internos.
@@ -85,7 +85,7 @@ Níveis de sigilo disponíveis
    de cada nível de sigilo, auxiliando na escolha adequada.
 
 Ocultar visibilidade externa de uma movimentação
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 É possível impedir que determinada movimentação seja visualizada externamente:
 
@@ -101,7 +101,7 @@ Ocultar visibilidade externa de uma movimentação
    e restabelecer a visibilidade externa.
 
 Resumo
-------
+---------
 
 No ProJUDI, o controle de sigilo pode ser realizado em três níveis distintos:
 

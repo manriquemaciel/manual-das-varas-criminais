@@ -1,7 +1,7 @@
 .. coding: utf-8
 
 02 - Análise da Denúncia (Jurídico)
-==================================
+======================================
 
 O recebimento da denúncia constitui etapa processual de extrema relevância, pois congrega diversas determinações judiciais e atividades cartorárias indispensáveis ao regular desenvolvimento da ação penal.
 
@@ -11,7 +11,7 @@ Trata-se de momento que exige atenção especial do magistrado ou da magistrada,
 -------------------------------------------------------
 
 1.1 Denúncia rejeitada
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Oferecida a denúncia, a secretaria da Vara deverá lançar o respectivo evento nas informações adicionais do sistema PROJUDI e, em seguida, encaminhar os autos conclusos ao magistrado.
 
@@ -20,7 +20,7 @@ Caso a denúncia seja rejeitada, a decisão deverá ser publicada, cabendo à se
 Após esse registro, deve-se aguardar o decurso do prazo recursal. Havendo interposição de recurso em sentido estrito, cujo processamento poderá ocorrer nos próprios autos ou em autos apartados, os autos deverão ser novamente remetidos conclusos para apreciação judicial.
 
 1.2 Denúncia recebida
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 No caso de recebimento da denúncia, a secretaria deverá lançar a data da decisão no campo “data de recebimento”, disponível na opção “informações adicionais” do PROJUDI, encaminhando os autos, em seguida, conclusos ao magistrado.
 
@@ -29,7 +29,7 @@ Recomenda-se que, no momento do recebimento da denúncia, o magistrado ou a magi
 Dessa forma, é relevante que as deliberações judiciais e as atividades cartorárias a serem cumpridas sejam definidas de maneira concentrada e objetiva.
 
 2. Citação
-----------
+---------------
 
 Com o recebimento da denúncia e a determinação de citação, a secretaria deverá adotar as providências descritas a seguir.
 

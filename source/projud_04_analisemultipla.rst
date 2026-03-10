@@ -5,12 +5,12 @@
    PageBreak
 
 Análise Múltipla de Decurso de Prazo na Aba Citações e Intimações
-===============================================================
+====================================================================
 
 Nesta aula, será apresentada a **Aba Citações e Intimações** do sistema ProJUDI, com enfoque na funcionalidade de **análise múltipla de decurso de prazo**, recurso essencial para a otimização da rotina cartorária e gestão eficiente de prazos processuais.
 
 Objetivo da aba
----------------
+---------------------
 
 A aba **Citações e Intimações** concentra todos os processos nos quais foram expedidos atos de comunicação processual, sejam eles:
 
@@ -20,7 +20,7 @@ A aba **Citações e Intimações** concentra todos os processos nos quais foram
 Essa centralização permite o controle unificado dos atos intimatórios e do cumprimento dos respectivos prazos.
 
 Colunas da aba
---------------
+-------------------
 
 A tela está organizada nas seguintes colunas:
 
@@ -36,7 +36,7 @@ A tela está organizada nas seguintes colunas:
    A estrutura e o funcionamento desta aba são **idênticos** nas varas cíveis e criminais.
 
 Decurso de prazo
-----------------
+-------------------
 
 Na coluna **Decurso de Prazo**, o sistema lista automaticamente os processos em que o prazo legal já se encerrou, total ou parcialmente.
 
@@ -57,7 +57,7 @@ Procedimento para acesso:
 Esses filtros permitem o agrupamento racional dos processos para tratamento em lote.
 
 Análise múltipla
-----------------
+---------------------
 
 Para realizar a **análise múltipla de decurso de prazo**, deve-se proceder da seguinte forma:
 
@@ -84,7 +84,7 @@ Após a juntada do documento:
 Ao final, o sistema exibirá a mensagem: *“Processos movimentados com sucesso.”*
 
 Resumo
-------
+--------
 
 A funcionalidade de **análise múltipla** possibilita:
 

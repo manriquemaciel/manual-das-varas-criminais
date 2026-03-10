@@ -1,7 +1,7 @@
 .. coding: utf-8
 
 07 - Termo de Audiência de Instrução e Julgamento – AIJ (Judicial)
-================================================================
+======================================================================
 
 A audiência de instrução e julgamento constitui ato processual central no curso da ação penal, sendo o momento destinado à produção da prova oral e ao esclarecimento dos fatos controvertidos.
 
@@ -14,7 +14,7 @@ Verificada a presença da acusação, geralmente representada por membro do Mini
 Durante a audiência de instrução e julgamento, deverão ser observadas as situações a seguir descritas.
 
 1. Indicação prévia de endereços e juntada de laudos periciais
--------------------------------------------------------------
+--------------------------------------------------------------------
 
 Designada a data da audiência de instrução criminal, as partes — acusação e defesa — deverão ser intimadas para indicar, no prazo de 5 (cinco) dias, todos os endereços e telefones disponíveis das vítimas e testemunhas arroladas, sob pena de preclusão.
 
@@ -44,12 +44,12 @@ Se deferida a realização de acareação, o fato deverá ser imediatamente regi
 As hipóteses de cabimento e o procedimento da acareação encontram-se disciplinados nos arts. 229 e 230 do Código de Processo Penal.
 
 5. Encerramento da instrução criminal
--------------------------------------
+--------------------------------------------
 
 Concluída a oitiva da vítima, quando existente, das testemunhas de acusação e defesa, bem como o interrogatório do réu ou réus, deverá ser oportunizado às partes o requerimento de diligências complementares, desde que a necessidade decorra de circunstâncias ou fatos apurados durante a instrução, nos termos do art. 402 do Código de Processo Penal.
 
 6. Fase de alegações finais
----------------------------
+--------------------------------
 
 Encerrada a instrução criminal, as partes serão intimadas a apresentar suas alegações finais, etapa que antecede a prolação da sentença.
 

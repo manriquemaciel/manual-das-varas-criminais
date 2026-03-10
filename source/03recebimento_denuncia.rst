@@ -1,7 +1,7 @@
 .. coding: utf-8
 
 03 - Recebimento da Denúncia (Cartório)
-======================================
+============================================
 
 1. Procedimento após o recebimento da denúncia
 ----------------------------------------------

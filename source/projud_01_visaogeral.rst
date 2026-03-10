@@ -5,10 +5,10 @@
    PageBreak
 
 Sistema Projudi: Visão Geral
-===========================
+=================================
 
 Vantagens e funcionalidades da tela externa
---------------------------------------------
+---------------------------------------------------
 
 O sistema **Projudi** é um sistema de processo judicial eletrônico acessado via internet, desenvolvido para **agilizar a prestação jurisdicional**, **reduzir custos operacionais**, **aumentar a capacidade de processamento** e **facilitar o trabalho** de magistrados, servidores, advogados e demais usuários do sistema de justiça.
 
@@ -42,7 +42,7 @@ Seu funcionamento é simples, seguro e integralmente baseado em ambiente web.
 3. Navegar pelas funcionalidades da tela externa antes do login.
 
 Perfis do sistema Projudi
--------------------------
+-------------------------------
 
 O sistema Projudi possui **perfis distintos de atuação**, cujas funcionalidades variam conforme a competência da unidade jurisdicional.
 
@@ -86,7 +86,7 @@ O curso e o manual são estruturados de forma **modular**, considerando:
 - As funcionalidades específicas do **1º e do 2º grau de jurisdição**.
 
 Principais funcionalidades do sistema
---------------------------------------
+-----------------------------------------
 
 O Projudi é um sistema **100% web**, o que significa que:
 
@@ -98,7 +98,7 @@ O Projudi é um sistema **100% web**, o que significa que:
 **Funcionalidades de destaque:**
 
 1. Análise múltipla de processos
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Disponível nas seguintes abas:
 
@@ -114,7 +114,7 @@ Disponível nas seguintes abas:
 - Executar ações em massa, tais como: citar, intimar, suspender ou arquivar processos.
 
 2. Contagem automática de prazos
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Disponível na aba **Prazos** do processo:
 
@@ -124,7 +124,7 @@ Disponível na aba **Prazos** do processo:
 - Visualização do prazo mediante clique na data de leitura.
 
 3. Mesa do Escrivão Criminal
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Ferramenta exclusiva da área criminal, destinada ao controle e monitoramento de feitos sensíveis, permitindo:
 
@@ -134,7 +134,7 @@ Ferramenta exclusiva da área criminal, destinada ao controle e monitoramento de
 - Controle de prisões provisórias sem sentença há mais de 90 dias.
 
 4. Prescrição e decadência
-^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Disponível no menu:
 

@@ -5,12 +5,12 @@
    PageBreak
 
 Análise Múltipla e Unitária de Juntadas
-======================================
+===========================================
 
 Nesta aula, será demonstrado como realizar a **análise unitária** e a **análise múltipla** das juntadas no sistema ProJUDI, por meio da aba **Análise de Juntadas**, ferramenta central da rotina cartorária.
 
 Identificação de processos
---------------------------
+-------------------------------
 
 Os processos podem ser localizados e filtrados de diversas formas, permitindo maior agilidade na análise:
 
@@ -35,7 +35,7 @@ Os processos podem ser localizados e filtrados de diversas formas, permitindo ma
 Esses filtros podem ser combinados para segmentar processos com características semelhantes.
 
 Análise unitária
-----------------
+---------------------
 
 A **análise unitária** é indicada quando se deseja examinar e movimentar um processo específico.
 
@@ -48,7 +48,7 @@ Procedimento:
 4. Acessar a aba **“Movimentações”** do processo.
 
 Pendências
-^^^^^^^^^^
+^^^^^^^^^^^^^^^^
 
 Sempre que uma juntada é realizada, o sistema cria automaticamente uma **pendência**, que impede novas movimentações até sua análise.
 
@@ -66,7 +66,7 @@ Enquanto houver pendência ativa, o sistema exibirá a mensagem:
 Somente após a dispensa da pendência será possível movimentar o processo.
 
 Providências possíveis após a análise
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Após a remoção da pendência, a secretaria poderá, conforme o caso:
 
@@ -75,7 +75,7 @@ Após a remoção da pendência, a secretaria poderá, conforme o caso:
 - Ordenar o cumprimento de diligências.
 
 Exemplo prático
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 
 1. Dispensar a pendência da juntada;
 2. Clicar em **“Movimentar a partir desta movimentação”**;
@@ -87,7 +87,7 @@ Exemplo prático
 5. Finalizar a movimentação.
 
 Análise múltipla
-----------------
+-------------------
 
 A **análise múltipla** é recomendada quando há diversos processos com a **mesma natureza de juntada** e a mesma providência a ser adotada.
 
@@ -113,7 +113,7 @@ Ao final, o sistema exibirá a mensagem:
 *“Conclusões analisadas com sucesso.”*
 
 Resumo
-------
+----------
 
 - A **análise unitária** permite o exame detalhado e a movimentação individual de processos.
 - A **análise múltipla** possibilita a tramitação simultânea de processos semelhantes, aumentando a eficiência.

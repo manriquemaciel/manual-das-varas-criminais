@@ -6,7 +6,7 @@
 
 
 Exportar Processo
-=================
+======================
 
 
 Nesta aula, vamos aprender a utilizar o botão **Exportar** no sistema ProJUDI, com foco especial em:
@@ -17,7 +17,7 @@ Nesta aula, vamos aprender a utilizar o botão **Exportar** no sistema ProJUDI, 
 
 
 Acesso à função
-----------------
+---------------------
 
 
 Na tela inicial do processo, clique em:
@@ -28,11 +28,11 @@ O sistema abrirá uma nova tela contendo **opções personalizáveis de exporta�
 
 
 Opções de exportação
----------------------
+---------------------------
 
 
 1. Gerar movimentações: **Sim**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 Quando selecionada essa opção, o sistema incluirá no PDF:
@@ -65,7 +65,7 @@ Exemplo ilustrativo:
 
 
 2. Gerar movimentações: **Não**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 Ao selecionar essa opção:
@@ -82,7 +82,7 @@ Essa modalidade é indicada para:
 
 
 3. Exportar documentos específicos
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 É possível exportar apenas documentos selecionados, seguindo o passo a passo:

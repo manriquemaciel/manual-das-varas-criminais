@@ -1,14 +1,14 @@
 .. coding: utf-8
 
 09 - Ciência da Sentença
-=======================
+============================
 
 A sentença é o ato judicial formal que põe fim à fase de conhecimento do processo penal. No âmbito do direito processual penal, ela pode assumir natureza **condenatória**, **absolutória** ou **extintiva da punibilidade**.
 
 De forma subsidiária, também se admitem as chamadas **sentenças terminativas**, que encerram o procedimento sem julgamento do mérito, como ocorre nos casos de perda do objeto ou conclusão anômala do processo.
 
 1. Tipos de sentença
---------------------
+------------------------
 
 Entre os principais tipos de sentença, destaca-se o quadro comparativo a seguir:
 
@@ -38,19 +38,19 @@ Entre os principais tipos de sentença, destaca-se o quadro comparativo a seguir
      - Não há julgamento do mérito quanto à culpa
 
 2. Intimação da sentença
-------------------------
+--------------------------------
 
 Para que a sentença produza efeitos válidos, é indispensável a regular **intimação das partes** e a **publicação do ato judicial**.
 
 2.1 Intimação do Ministério Público e da Defensoria Pública
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 No sistema Projudi, a intimação do Ministério Público e da Defensoria Pública **não ocorre de forma automática**, sendo necessária a remessa manual dos autos a esses órgãos, que possuem prerrogativa de **intimação pessoal**.
 
 Tal prerrogativa encontra fundamento nos arts. 180, 183, §1º, 186, §1º, e art. 270, parágrafo único, do Código de Processo Civil, aplicáveis subsidiariamente ao processo penal por força do art. 3º do CPP.
 
 2.2 Intimação da advocacia privada e o DJEN
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 O Conselho Nacional de Justiça regulamentou a intimação da advocacia privada por meio do **Diário de Justiça Eletrônico Nacional (DJEN)**, instituído pela Resolução CNJ nº 455/2022 e posteriormente alterado pela Resolução CNJ nº 569/2024.
 

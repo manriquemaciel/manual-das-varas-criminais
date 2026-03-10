@@ -5,12 +5,12 @@
    PageBreak
 
 Filas Processuais e Mover de Fila
-================================
+=========================================
 
 Nesta aula, será apresentada a aba **Filas Processuais**, recurso recente do sistema ProJUDI que tem por finalidade proporcionar **maior organização, controle e eficiência** na rotina cartorária.
 
 Objetivo da aba
----------------
+---------------------
 
 A aba **Filas Processuais** permite:
 
@@ -19,7 +19,7 @@ A aba **Filas Processuais** permite:
 - Auxiliar no controle, distribuição e priorização das tarefas.
 
 Acesso e utilização
--------------------
+-------------------------
 
 1. Acesse a aba **Filas Processuais**;
 2. Será exibida uma lista contendo diversas filas, tais como:
@@ -34,41 +34,41 @@ Acesso e utilização
 4. Utilize o campo de busca para localizar processos específicos pelo número.
 
 Movimentações disponíveis
--------------------------
+-------------------------------
 
 Copiar para outra fila
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - O processo **permanece na fila original** e passa a constar também na nova fila;
 - Exemplo: copiar da fila *Decisão* para *Aguardando cálculo de execução*.
 
 Mover para outra fila
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - O processo é **retirado da fila atual** e transferido para a nova fila selecionada;
 - Exemplo: mover da fila *Decisão* para *Aguardando audiência*.
 
 Remover processo da fila
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Exclui o processo da fila selecionada;
 - Não realiza a inclusão automática em outra fila.
 
 Mover múltiplo
-^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 
 - Selecione dois ou mais processos;
 - Clique em **“Mover”** (canto inferior direito da tela);
 - Escolha a fila de destino e confirme a operação.
 
 Copiar múltiplo
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^
 
 - Procedimento idêntico ao mover múltiplo;
 - Os processos permanecem também na fila de origem.
 
 Verificação
------------
+-----------------
 
 Após a operação de mover ou copiar:
 
@@ -76,7 +76,7 @@ Após a operação de mover ou copiar:
 - Também é possível verificar a **fila atual do processo** diretamente na tela principal do feito.
 
 Funcionalidade extra
---------------------
+-------------------------
 
 Na **tela principal do processo**, é possível realizar diretamente as seguintes ações:
 
@@ -100,7 +100,7 @@ Exemplo prático:
   - Selecionar **“Enviar Concluso”**.
 
 Resumo
-------
+---------
 
 A aba **Filas Processuais** é uma ferramenta estratégica para:
 

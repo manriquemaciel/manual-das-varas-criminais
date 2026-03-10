@@ -1,15 +1,15 @@
 .. coding: utf-8
 
 08 - Sentença (Judicial)
-=======================
+=============================
 
 1. Disposições finais da sentença
----------------------------------
+--------------------------------------
 
 É fundamental que o Juízo de primeiro grau elabore as disposições finais da sentença de forma clara, objetiva, sequencial e de fácil compreensão pela Secretaria, a fim de assegurar a correta execução dos atos subsequentes.
 
 1.1 Finalidade das disposições finais
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 As disposições finais da sentença constituem etapa essencial e estratégica do processo penal. A sua adequada formulação:
 
@@ -20,7 +20,7 @@ As disposições finais da sentença constituem etapa essencial e estratégica d
 5. Promove a celeridade e a eficiência da tramitação na fase de execução penal, seja no âmbito da própria Vara, seja perante a Vara de Execuções Penais.
 
 1.2 Reavaliação da prisão e da situação processual do sentenciado
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 A sentença também é o momento adequado para a reavaliação do prazo nonagesimal de manutenção da prisão cautelar, nos termos do art. 316, parágrafo único, do Código de Processo Penal, bem como para a análise da decretação ou manutenção de medidas protetivas ou cautelares eventualmente requeridas pelo Ministério Público durante a instrução ou nas alegações finais.
 
@@ -49,10 +49,10 @@ Recomenda-se que as disposições finais sejam redigidas com base nas diretrizes
 Nessa hipótese, deverá ser determinada a expedição imediata de mandado de medida protetiva, em regime de urgência, para distribuição à Central de Mandados.
 
 1.3 Providências após o trânsito em julgado
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1.3.1 Guia de execução penal
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 As providências a serem adotadas variam conforme a situação do réu e o regime fixado na sentença.
 
@@ -77,12 +77,12 @@ As providências a serem adotadas variam conforme a situação do réu e o regim
   “Encaminhem-se os autos à Vara de Execução de Medidas e Penas Alternativas – VEMEPA, nos termos do art. 78 da Lei Complementar nº 261/2023.”
 
 1.3.2 Rol dos culpados
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 “Proceda-se ao lançamento do nome do réu no rol dos culpados.”
 
 1.3.3 Comunicações institucionais
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Devem ser determinadas, quando cabíveis, as seguintes comunicações:
 
@@ -109,7 +109,7 @@ Devem ser determinadas, quando cabíveis, as seguintes comunicações:
   “Determine-se a submissão do réu ao procedimento de coleta de DNA, caso ainda não realizado, por ocasião de seu ingresso no estabelecimento prisional, nos termos do art. 9º-A da Lei de Execução Penal.”
 
 1.3.4 Conclusão e segredo de justiça
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Nos processos que tramitam em segredo de justiça, deve ser expressamente consignada a manutenção do sigilo.
 
@@ -118,7 +118,7 @@ Nos processos que tramitam em segredo de justiça, deve ser expressamente consig
 “Sentença registrada eletronicamente.”
 
 1.3.5 Recomendações finais
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Evite-se o encerramento genérico da sentença com expressões abertas, como “expeça-se o necessário”, pois tal prática exige nova conclusão dos autos e reduz a eficiência cartorária.
 

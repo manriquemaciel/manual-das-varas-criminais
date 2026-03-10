@@ -1,10 +1,10 @@
 .. coding: utf-8
 
 05 - Pautar Audiência de Instrução e Julgamento – AIJ (Cartório)
-==============================================================
+====================================================================
 
 1. Considerações iniciais
--------------------------
+------------------------------
 
 Embora possa aparentar tratar-se de atividade meramente rotineira, a organização da pauta de audiências de instrução e julgamento exige planejamento, lógica e estratégia, a fim de garantir eficiência, observância das prioridades legais e adequada gestão da unidade jurisdicional.
 

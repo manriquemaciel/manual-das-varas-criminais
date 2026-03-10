@@ -5,12 +5,12 @@
    PageBreak
 
 Análise Múltipla com Movimentação Múltipla
-=========================================
+==============================================
 
 Nesta aula, será demonstrado como realizar a **análise múltipla com movimentações consecutivas** no sistema ProJUDI. Trata-se de procedimento no qual, após a análise múltipla inicial, o servidor **continua aplicando outras movimentações sobre o mesmo conjunto de processos**, como, por exemplo, **intimação seguida de suspensão**.
 
 Cenário prático
----------------
+---------------------
 
 Exemplo de aplicação:
 
@@ -22,10 +22,10 @@ Objetivo do procedimento:
 2. **Suspender os processos** em razão do efeito vinculante do IRDR.
 
 Procedimentos
--------------
+------------------
 
 Passo 1 – Acesso aos processos
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Acessar a fila **Retorno de Conclusão**;
 2. Utilizar o **filtro por agrupador**, selecionando, por exemplo: *Decisão IRDR e Tarifas*;
@@ -34,7 +34,7 @@ Passo 1 – Acesso aos processos
 5. Clicar em **“Próximo passo”**.
 
 Passo 2 – Primeira movimentação: intimação
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Selecionar a ação **“Intimar”**;
 2. Definir os destinatários:
@@ -58,7 +58,7 @@ Passo 2 – Primeira movimentação: intimação
    - Retorne à análise múltipla e repita o procedimento.
 
 Passo 3 – Segunda movimentação: suspensão
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Após a conclusão da intimação:
 
@@ -78,7 +78,7 @@ Ao final, o sistema exibirá a mensagem:
 *“Processos movimentados com sucesso.”*
 
 Verificação
------------
+--------------
 
 Ao acessar qualquer um dos processos movimentados, deverá constar:
 
@@ -89,7 +89,7 @@ Ao acessar qualquer um dos processos movimentados, deverá constar:
   - Suspensão do processo.
 
 Resumo
-------
+----------
 
 - A análise múltipla com movimentação contínua permite aplicar **duas ou mais providências em sequência** sobre um mesmo grupo de processos.
 - É especialmente indicada para decisões com **efeitos em cadeia**, tais como:

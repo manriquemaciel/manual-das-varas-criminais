@@ -52,20 +52,35 @@ Quando uma audiência foi designada, mas **não ocorreu**, é obrigatório reali
 Procedimento:
 
 1. Localize a audiência na lista de **Pendentes**.
+
 2. Clique em **Movimentar Audiência**.
+
 3. Na tela de movimentação:
+
    - Insira um **ato ordinatório** ou uma **certidão**, informando o motivo da não realização.
+
    - O documento pode ser:
-     - Digitável no sistema; ou
-     - Anexado em formato **PDF**.
+
+      - Digitável no sistema; ou
+
+      - Anexado em formato **PDF**.
+      
    - Defina o **status da audiência**:
-     - Cancelada
-     - Negativa
-     - Redesignada
+
+      - Cancelada
+
+      - Negativa
+
+      - Redesignada
+
    - Preencha, se aplicável:
-     - Número de pessoas ouvidas
-     - Valor de eventual acordo
-     - Nome do usuário responsável pela movimentação
+
+      - Número de pessoas ouvidas
+
+      - Valor de eventual acordo
+
+      - Nome do usuário responsável pela movimentação
+
 4. Clique em **Salvar**.
 
 Após esse procedimento, a pendência da audiência será removida.

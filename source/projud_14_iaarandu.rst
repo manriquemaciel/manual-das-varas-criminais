@@ -1,14 +1,14 @@
 .. coding: utf-8
 
 Análise Processual Automática (IA Arandu)
-========================================
+===============================================
 
 Nesta aula, é apresentada uma funcionalidade recente e inovadora do sistema
 ProJUDI: a **Análise Processual Automática**, realizada com o auxílio da
 **inteligência artificial Arandu**.
 
 Objetivo da ferramenta
-----------------------
+----------------------------
 
 A Análise Processual Automática tem por finalidade:
 
@@ -18,7 +18,7 @@ A Análise Processual Automática tem por finalidade:
   **gestão do acervo processual**.
 
 Funcionamento
--------------
+----------------
 
 A IA Arandu utiliza modelos de aprendizado de máquina para:
 
@@ -27,7 +27,7 @@ A IA Arandu utiliza modelos de aprendizado de máquina para:
 - Apresentar processos semelhantes acompanhados de informações relevantes.
 
 Como utilizar a funcionalidade
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Acesse a **tela inicial de qualquer processo** no ProJUDI;
 2. Clique no botão **Análise Processual Automática**;
@@ -35,7 +35,7 @@ Como utilizar a funcionalidade
 4. Visualize o resultado apresentado pelo sistema.
 
 Exemplos práticos
------------------
+--------------------
 
 - **Processo sem similaridade identificada**  
   Resultado da análise:  
@@ -46,7 +46,7 @@ Exemplos práticos
   *"Foi encontrado um processo com 93,58% de similaridade."*
 
 Informações fornecidas pela análise
------------------------------------
+-----------------------------------------
 
 Quando identificados processos semelhantes, o sistema apresenta, entre outros
 dados:
@@ -61,7 +61,7 @@ dados:
 - Estado de origem.
 
 Análise do resultado
---------------------
+-------------------------
 
 Para examinar o processo apontado como semelhante:
 
@@ -80,7 +80,7 @@ Para examinar o processo apontado como semelhante:
    responsabilidade do servidor e do magistrado.
 
 Resumo
-------
+---------
 
 A **IA Arandu** configura-se como uma ferramenta de apoio à gestão processual,
 contribuindo para:

@@ -1,17 +1,17 @@
 .. coding: utf-8
 
 12 - Certificação do Trânsito em Julgado (Cartório)
-==================================================
+========================================================
 
 A certificação do trânsito em julgado constitui ato cartorário essencial, pois formaliza o momento em que a decisão judicial se torna definitiva, permitindo a adoção das providências subsequentes, especialmente aquelas relacionadas à execução da sentença.
 
 1. Definição de trânsito em julgado
------------------------------------
+------------------------------------------
 
 O trânsito em julgado ocorre quando não há mais possibilidade de interposição de recurso no processo, seja pelo decurso do prazo recursal sem manifestação das partes, seja pelo esgotamento de todas as vias recursais cabíveis. A partir desse momento, a decisão judicial adquire definitividade.
 
 2. Procedimentos preliminares
-------------------------------
+-----------------------------------
 
 Antes de proceder à certificação do trânsito em julgado, a Secretaria deverá verificar atentamente:
 
@@ -22,7 +22,7 @@ Antes de proceder à certificação do trânsito em julgado, a Secretaria dever�
 Somente após a confirmação desses requisitos é que se deve proceder à certificação.
 
 3. Certificação do trânsito em julgado no PROJUDI
--------------------------------------------------
+-----------------------------------------------------
 
 Constatada a inexistência de recurso pendente ou cabível, a Secretaria deverá realizar a certificação do trânsito em julgado no sistema PROJUDI, observando o seguinte procedimento:
 

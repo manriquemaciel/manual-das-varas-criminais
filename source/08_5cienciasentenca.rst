@@ -1,7 +1,7 @@
 .. coding: utf-8
 
 09 - Ciência da Sentença
-=======================
+=============================
 
 A sentença é o ato judicial formal que põe fim à fase de conhecimento do processo penal, podendo assumir as seguintes modalidades:
 
@@ -12,7 +12,7 @@ A sentença é o ato judicial formal que põe fim à fase de conhecimento do pro
 Subsidiariamente, existem também as chamadas **sentenças terminativas**, que encerram o procedimento sem julgamento do mérito, como ocorre, por exemplo, nos casos de perda do objeto.
 
 1. Tipos de sentença no processo penal
---------------------------------------
+--------------------------------------------
 
 A seguir, apresenta-se quadro comparativo com os principais tipos de sentença penal.
 
@@ -42,12 +42,12 @@ A seguir, apresenta-se quadro comparativo com os principais tipos de sentença p
      - Não há julgamento do mérito da culpa
 
 2. Intimação da sentença
-------------------------
+-------------------------------
 
 Para a validade da sentença, é indispensável a **intimação das partes** e a sua **regular publicação**, observadas as regras legais e normativas vigentes.
 
 2.1 Ministério Público e Defensoria Pública
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 No sistema Projudi, a intimação do Ministério Público e da Defensoria Pública **não ocorre de forma automática**.
 
@@ -58,7 +58,7 @@ No sistema Projudi, a intimação do Ministério Público e da Defensoria Públi
 - Art. 3º do CPP (aplicação subsidiária do CPC).
 
 2.2 Advocacia privada e DJEN
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 O Conselho Nacional de Justiça regulamentou a intimação da advocacia privada por meio do **DJEN – Diário de Justiça Eletrônico Nacional**, conforme:
 
@@ -87,7 +87,7 @@ A partir de **16 de maio de 2025**, o DJEN passou a ser o **meio oficial único*
    ocasião em que o sistema emitirá a respectiva certidão de publicação.
 
 3. Retorno de conclusão
------------------------
+----------------------------
 
 Após a manifestação judicial, os autos devem seguir o seguinte fluxo no Projudi:
 
@@ -98,7 +98,7 @@ Após a manifestação judicial, os autos devem seguir o seguinte fluxo no Proju
    Antes de finalizar a conclusão, deve-se incluir o **localizador ou fila processual** pertinente.
 
 4. Prazos recursais
--------------------
+----------------------
 
 Os principais prazos para impugnação da sentença penal são:
 
@@ -111,7 +111,7 @@ A contagem dos prazos observa as regras do art. 798, §§1º e 3º, do CPP:
 - Não se computam sábados, domingos e feriados.
 
 4.1 Prazos de apelação
-^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table::
    :header-rows: 1
@@ -149,7 +149,7 @@ A contagem dos prazos observa as regras do art. 798, §§1º e 3º, do CPP:
      - Exige a existência de apelação principal
 
 4.2 Prazos de embargos de declaração
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table::
    :header-rows: 1
@@ -169,7 +169,7 @@ A contagem dos prazos observa as regras do art. 798, §§1º e 3º, do CPP:
      - Petição simples ou termo nos autos
 
 5. Intimação do réu
--------------------
+--------------------------
 
 A forma de intimação do réu varia conforme a situação processual:
 

@@ -5,12 +5,12 @@
    PageBreak
 
 Análise Múltipla e Unitária de Retorno de Conclusão
-==================================================
+===========================================================
 
 Nesta aula, será abordado o procedimento de **Retorno de Conclusão**, que compreende os processos **despachados, decididos ou sentenciados pelo magistrado** e que retornam à secretaria para adoção das providências subsequentes.
 
 Localização da fila
--------------------
+-------------------------
 
 A fila **Retorno de Conclusão** está disponível dentro da aba **Análise de Juntadas**, tanto:
 
@@ -23,7 +23,7 @@ Procedimento para acesso:
 2. Clicar sobre o número exibido ao lado de **Retorno de Conclusão**.
 
 Tela de conclusões
-------------------
+--------------------------
 
 Na tela denominada **Conclusões**, é possível aplicar diversos filtros para organização e seleção dos processos, tais como:
 
@@ -40,7 +40,7 @@ Na tela denominada **Conclusões**, é possível aplicar diversos filtros para o
 Esses filtros permitem o tratamento racional dos processos, individualmente ou em lote.
 
 Análise unitária
-----------------
+----------------------
 
 A **análise unitária** é indicada quando se pretende examinar detalhadamente uma decisão específica.
 
@@ -66,7 +66,7 @@ Após a finalização da conclusão, será possível:
   - Suspensão do processo.
 
 Exemplo prático
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^
 
 Decisão judicial determina o arquivamento do feito:
 
@@ -75,7 +75,7 @@ Decisão judicial determina o arquivamento do feito:
 3. Salvar a movimentação e prosseguir com o arquivamento.
 
 Análise múltipla
-----------------
+---------------------
 
 A **análise múltipla** é recomendada quando vários processos possuem o **mesmo tipo de conclusão** e demandam providências idênticas.
 
@@ -103,7 +103,7 @@ Ao término, o sistema exibirá a mensagem:
 *“Conclusões analisadas com sucesso.”*
 
 Resumo
-------
+--------
 
 - O **retorno de conclusão** reúne todos os processos devolvidos pelo magistrado após manifestação judicial.
 - Pode ser tratado de forma **unitária** ou **em lote**, conforme a natureza das providências.

@@ -1,10 +1,10 @@
 .. coding: utf-8
 
 06 - Atos Intimatórios (Cartório)
-================================
+=========================================
 
 1. Considerações iniciais
--------------------------
+------------------------------
 
 Os atos intimatórios desempenham papel fundamental na regularidade do processo penal, pois asseguram a ciência das partes e de terceiros interessados acerca dos atos processuais, bem como o cumprimento adequado dos prazos legais.
 
@@ -15,7 +15,7 @@ Este capítulo tem como objetivos:
 - Facilitar a compreensão e a execução das atividades pelos servidores das unidades judiciais.
 
 2. Definição de atos intimatórios
---------------------------------
+------------------------------------------
 
 Atos intimatórios são aqueles destinados a comunicar às partes, aos advogados, às testemunhas ou a outros interessados os atos e termos do processo, bem como a convocação para a prática de atos processuais, nos termos da legislação vigente.
 
@@ -30,7 +30,7 @@ Para a realização de citações e intimações fora da jurisdição do juízo 
 - Anexos pertinentes, como cópia da denúncia, da decisão ou do despacho a ser intimado.
 
 4. Atos ordinatórios
---------------------
+---------------------------
 
 Os servidores podem praticar atos ordinatórios que não possuem caráter decisório, com o objetivo de garantir a celeridade e a regularidade processual. Dentre esses atos, destacam-se:
 
@@ -39,10 +39,10 @@ Os servidores podem praticar atos ordinatórios que não possuem caráter decis�
 - Encaminhamento de cartas precatórias à Central de Mandados para cumprimento.
 
 5. Procedimentos de intimação
------------------------------
+---------------------------------------
 
 5.1 Citação para audiência de conciliação e transação penal
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Finalidade:**  
 Informar o acusado acerca da audiência designada para tentativa de conciliação entre as partes e/ou apresentação de proposta de transação penal pelo Ministério Público.
@@ -78,7 +78,7 @@ Convocar o acusado para a audiência de instrução e julgamento, ocasião em qu
 - Não sendo localizado o réu, deverá ser adotada a citação por edital, nos termos do art. 363, §1º, do Código de Processo Penal.
 
 5.4 Intimação de partes e testemunhas
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Finalidade:**  
 Dar ciência às partes e às testemunhas acerca da data e do horário de audiências, bem como de decisões, despachos e demais atos processuais.
@@ -89,7 +89,7 @@ Dar ciência às partes e às testemunhas acerca da data e do horário de audiê
 - No caso de testemunhas vinculadas a órgãos públicos, poderá ser requisitada a presença por meio de ofício dirigido à instituição de origem, como, por exemplo, à Polícia Militar para oitiva de policiais.
 
 6. Controle de prazos
---------------------
+------------------------
 
 A Secretaria deverá manter controle rigoroso dos prazos relacionados à realização dos atos intimatórios, com especial atenção aos processos que envolvam réus presos provisoriamente, nos termos do art. 316, parágrafo único, do Código de Processo Penal.
 

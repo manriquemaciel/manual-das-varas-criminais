@@ -16,6 +16,7 @@ Manual de padronização das Varas Criminais
    05pautaraij
    06atosintimatorios
    07termoAIJ
+   08_5cienciasentenca
    08sentenca_disposicoesfinais
    09ciencia_sentenca
    09certificartransito

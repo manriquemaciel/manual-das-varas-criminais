@@ -1,17 +1,17 @@
 01 - Boas-vindas
-================
+===================
 
 Prezados colaboradores e servidores,
 
 É com imenso prazer que apresentamos o Manual 00, o primeiro passo em direção à melhoria e otimização dos procedimentos judiciais nas Varas Criminais do Tribunal de Justiça do Amazonas (TJAM). Este manual é resultado do comprometimento e dedicação de uma equipe multidisciplinar, que trabalhou em conjunto para desenvolver soluções inovadoras e práticas para nossos desafios cotidianos.
 
 1. Apresentação da ideia
------------------------
+-----------------------------
 
 A dinâmica do Poder Judiciário exige constante aprimoramento e inovação. O TJAM, ao longo dos anos, tem enfrentado um expressivo volume processual, que, somado a procedimentos pouco uniformes, gargalos em audiências e deficiências em sistemas, apontou a urgente necessidade de padronização, racionalização e uniformização dos procedimentos e métodos de trabalho de nossas Unidades Judiciais. Diante deste cenário, foi criada uma comissão para propor soluções eficazes e eficientes, com foco em procedimentos que auxiliem as atividades desempenhadas por estas Unidades.
 
 2. Objetivos do Manual
----------------------
+---------------------------
 
 Este manual tem por objetivo:
 
@@ -20,7 +20,7 @@ Este manual tem por objetivo:
 - Estabelecer claramente as competências institucionais de cada unidade, de forma a garantir a correta distribuição de tarefas e responsabilidades.
 
 3. Metodologia utilizada
-------------------------
+-----------------------------
 
 A metodologia empregada na construção deste manual envolveu:
 
@@ -30,7 +30,7 @@ A metodologia empregada na construção deste manual envolveu:
 - Análise dos documentos normativos das Varas, com aporte técnico-jurídico.
 
 4. Conteúdo do Manual
----------------------
+--------------------------
 
 Este manual contém:
 

@@ -1,10 +1,10 @@
 .. coding: utf-8
 
 10 - Recebimento da Apelação (Judicial)
-======================================
+===========================================
 
 10. Recebimento da Apelação
---------------------------
+------------------------------
 
 A apelação criminal é o recurso cabível contra decisões de mérito proferidas no processo penal, sendo a sentença a hipótese mais recorrente.
 
@@ -13,7 +13,7 @@ Diferentemente da sistemática do Direito Processual Civil, no processo penal o 
 A interposição da apelação no processo penal pode ocorrer de diferentes formas, as quais demandam providências específicas da Secretaria e do Juízo, conforme detalhado a seguir.
 
 10.1 - Interposição da apelação com fundamento no art. 600, §4º, do CPP
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Nesta hipótese, a parte manifesta apenas a intenção de recorrer, por meio de petição ou termo lavrado nos autos, especialmente nos casos de sentença proferida em audiência de instrução e julgamento ou sessão de julgamento.
 
@@ -29,7 +29,7 @@ Nessa situação, compete ao Juízo de 1º grau:
 - Determinar a remessa imediata do processo ao Juízo *ad quem*, sem abertura de prazo para razões no 1º grau.
 
 10.2 - Apelação interposta já acompanhada das razões
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Nesta modalidade, a parte interpõe a apelação já instruída com as razões recursais no mesmo ato.
 
@@ -45,7 +45,7 @@ Recebido o recurso, determina-se a remessa do processo ao Juízo *ad quem*.
 Caso o recurso não seja recebido, as partes deverão ser intimadas da decisão, oportunizando-se a interposição de recurso em sentido estrito, nos termos do art. 581, inciso XV, do CPP. Decorrido o prazo sem interposição, certifica-se o trânsito em julgado da sentença e adotam-se as providências subsequentes.
 
 10.3 - Apelação interposta sem razões, sem invocação do art. 600, §4º
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Nessa hipótese, a apelação é interposta com fundamento no art. 600, *caput*, do Código de Processo Penal, que dispõe:
 
@@ -64,7 +64,7 @@ Caso o apelante não apresente as razões no prazo legal, o processo ainda assim
 Da mesma forma, se o apelado, regularmente intimado, não apresentar contrarrazões no prazo legal, os autos serão remetidos ao Juízo *ad quem*, nos termos do art. 601 do CPP.
 
 Quadro sintético de providências
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table::
    :header-rows: 1
@@ -80,7 +80,7 @@ Quadro sintético de providências
      - Certificar o decurso do prazo e remeter os autos ao Juízo *ad quem*, conforme art. 601 do CPP.
 
 Quadro comparativo das hipóteses de interposição
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. list-table::
    :header-rows: 1

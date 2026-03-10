@@ -23,25 +23,31 @@ Criação de Novo Modelo
 
 Na tela de cadastro do modelo, preencha os seguintes campos:
 
-- **Descrição**:
-  - Informe um nome claro e objetivo para o modelo  
-    (ex.: *Mandado de Citação Criminal*, *Certidão de Decurso de Prazo*).
+ - **Descrição**:
+ 
+  - Informe um nome claro e objetivo para o modelo
 
-- **Tipo de Documento**:
+  (ex.: *Mandado de Citação Criminal*, *Certidão de Decurso de Prazo*).
+
+ - **Tipo de Documento**:
+
   - Selecione o tipo correspondente, como:
-    - Citação
-    - Intimação
-    - Alvará
-    - Mandado
-    - Certidão
-    - Ofício
 
-- **Competência**:
+     - Citação
+     - Intimação
+     - Alvará
+     - Mandado
+     - Certidão
+     - Ofício
+
+ - **Competência**:
+
   - Indique a área de atuação:
-    - Cível
-    - Criminal
-    - Juizado
-    - Família, entre outras.
+
+     - Cível
+     - Criminal
+     - Juizado
+     - Família, entre outras.
 
 .. note::
 

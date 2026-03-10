@@ -1,15 +1,15 @@
 .. coding: utf-8
 
 04 - Decisão: Análise da Defesa Escrita e Pauta de AIJ (Judicial)
-===============================================================
+====================================================================
 
 1. Resposta à acusação
----------------------
+--------------------------
 
 Após o recebimento da denúncia, os autos são encaminhados à Defesa para apresentação da resposta à acusação, também denominada defesa preliminar.
 
 1.1 Do prazo
-^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^
 
 Nos termos do art. 396 do Código de Processo Penal, o réu citado dispõe do prazo de 10 (dez) dias para apresentar resposta à acusação. A contagem desse prazo deve observar o entendimento consagrado na Súmula 710 do Supremo Tribunal Federal, iniciando-se a partir da citação do acusado.
 
@@ -41,7 +41,7 @@ Caso o citando informe não possuir condições financeiras para constituir advo
      - Os prazos processuais são automaticamente contados em dobro, sem necessidade de requerimento.
 
 1.2 Análise da resposta à acusação
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 A resposta à acusação possui natureza jurídica mista, podendo a Defesa suscitar matérias preliminares, prejudiciais de mérito ou argumentos relacionados ao mérito propriamente dito, tais como nulidades, inépcia da denúncia, ausência de pressupostos processuais ou de condições da ação.
 
