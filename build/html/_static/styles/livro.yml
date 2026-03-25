@@ -1,0 +1,75 @@
+styles:
+
+  fonts:
+    DejaVuSerif:
+      normal: DejaVuSerif.ttf
+      bold: DejaVuSerif-Bold.ttf
+      italic: DejaVuSerif-Italic.ttf
+      bolditalic: DejaVuSerif-BoldItalic.ttf
+
+  body:
+    fontName: DejaVuSerif
+    fontSize: 11
+    leading: 14
+    spaceBefore: 0
+    spaceAfter: 10
+
+  heading1:
+    fontName: DejaVuSerif
+    fontSize: 20
+    textColor: "#1F4E79"
+    pageBreakBefore: true
+    spaceBefore: 0
+    spaceAfter: 18
+    fontSize: 20
+    leading: 24
+
+  heading2:
+    fontName: DejaVuSerif
+    textColor: "#2E75B6"
+    spaceBefore: 18
+    spaceAfter: 12
+    fontSize: 16
+    leading: 20
+
+  heading3:
+    fontSize: 13
+    textColor: "#5B9BD5"
+    spaceBefore: 14
+    spaceAfter: 10
+    leading: 16
+
+pageSetup:
+  margin-top: 2cm
+  margin-bottom: 2cm
+  margin-left: 2.5cm
+  margin-right: 2.5cm
+
+admonitions:
+  note:
+    borderColor: "#2E75B6"
+    backgroundColor: "#E7F1FA"
+    textColor: "#000000"
+    borderWidth: 1
+    padding: 8
+
+  warning:
+    borderColor: "#C00000"
+    backgroundColor: "#FDECEA"
+    textColor: "#000000"
+    borderWidth: 1
+    padding: 8
+
+  tip:
+    borderColor: "#548235"
+    backgroundColor: "#E2EFDA"
+    textColor: "#000000"
+    borderWidth: 1
+    padding: 8
+
+  important:
+    borderColor: "#7F6000"
+    backgroundColor: "#FFF2CC"
+    textColor: "#000000"
+    borderWidth: 1
+    padding: 8
